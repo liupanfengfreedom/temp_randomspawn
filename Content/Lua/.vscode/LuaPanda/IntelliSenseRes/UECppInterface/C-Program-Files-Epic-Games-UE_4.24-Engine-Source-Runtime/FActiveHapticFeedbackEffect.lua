@@ -1,0 +1,2 @@
+FActiveHapticFeedbackEffect = {}
+FActiveHapticFeedbackEffect.HapticEffect = nil

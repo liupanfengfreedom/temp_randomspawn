@@ -1,0 +1,10 @@
+ULandscapeGrassType = {} ---@type UObject
+ULandscapeGrassType.GrassVarieties = nil
+ULandscapeGrassType.bEnableDensityScaling = nil
+ULandscapeGrassType.GrassMesh_DEPRECATED = nil
+ULandscapeGrassType.GrassDensity_DEPRECATED = nil
+ULandscapeGrassType.PlacementJitter_DEPRECATED = nil
+ULandscapeGrassType.StartCullDistance_DEPRECATED = nil
+ULandscapeGrassType.EndCullDistance_DEPRECATED = nil
+ULandscapeGrassType.RandomRotation_DEPRECATED = nil
+ULandscapeGrassType.AlignToSurface_DEPRECATED = nil

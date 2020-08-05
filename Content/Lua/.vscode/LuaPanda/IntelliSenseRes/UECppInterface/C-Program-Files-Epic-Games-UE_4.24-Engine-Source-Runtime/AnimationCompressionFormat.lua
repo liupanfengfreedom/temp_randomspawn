@@ -1,0 +1,9 @@
+AnimationCompressionFormat = {}
+AnimationCompressionFormat.ACF_None = nil
+AnimationCompressionFormat.ACF_Float96NoW = nil
+AnimationCompressionFormat.ACF_Fixed48NoW = nil
+AnimationCompressionFormat.ACF_IntervalFixed32NoW = nil
+AnimationCompressionFormat.ACF_Fixed32NoW = nil
+AnimationCompressionFormat.ACF_Float32NoW = nil
+AnimationCompressionFormat.ACF_Identity = nil
+AnimationCompressionFormat.ACF_MAX = nil

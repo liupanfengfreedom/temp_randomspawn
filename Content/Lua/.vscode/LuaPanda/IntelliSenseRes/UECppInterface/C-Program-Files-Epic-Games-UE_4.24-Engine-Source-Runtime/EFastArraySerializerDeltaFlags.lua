@@ -1,0 +1,2 @@
+EFastArraySerializerDeltaFlags = {}
+EFastArraySerializerDeltaFlags.None = nil

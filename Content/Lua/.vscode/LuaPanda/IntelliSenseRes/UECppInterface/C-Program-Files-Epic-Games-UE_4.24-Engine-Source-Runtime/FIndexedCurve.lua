@@ -1,0 +1,2 @@
+FIndexedCurve = {}
+FIndexedCurve.KeyHandlesToIndices = nil

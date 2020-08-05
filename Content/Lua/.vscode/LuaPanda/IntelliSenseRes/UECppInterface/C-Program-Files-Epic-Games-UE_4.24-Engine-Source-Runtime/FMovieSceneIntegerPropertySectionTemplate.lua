@@ -1,0 +1,3 @@
+FMovieSceneIntegerPropertySectionTemplate = {}
+FMovieSceneIntegerPropertySectionTemplate.IntegerCurve = nil
+FMovieSceneIntegerPropertySectionTemplate.BlendType = nil

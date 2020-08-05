@@ -1,0 +1,12 @@
+FBakedAnimationState = {}
+FBakedAnimationState.StateName = nil
+FBakedAnimationState.Transitions = nil
+FBakedAnimationState.StateRootNodeIndex = nil
+FBakedAnimationState.StartNotify = nil
+FBakedAnimationState.EndNotify = nil
+FBakedAnimationState.FullyBlendedNotify = nil
+FBakedAnimationState.bIsAConduit = nil
+FBakedAnimationState.EntryRuleNodeIndex = nil
+FBakedAnimationState.PlayerNodeIndices = nil
+FBakedAnimationState.LayerNodeIndices = nil
+FBakedAnimationState.bAlwaysResetOnEntry = nil

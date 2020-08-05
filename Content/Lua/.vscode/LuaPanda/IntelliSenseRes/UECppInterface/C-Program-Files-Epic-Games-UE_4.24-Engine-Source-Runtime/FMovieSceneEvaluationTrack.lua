@@ -1,0 +1,13 @@
+FMovieSceneEvaluationTrack = {}
+FMovieSceneEvaluationTrack.ObjectBindingID = nil
+FMovieSceneEvaluationTrack.EvaluationPriority = nil
+FMovieSceneEvaluationTrack.EvaluationMethod = nil
+FMovieSceneEvaluationTrack.Segments = nil
+FMovieSceneEvaluationTrack.SourceTrack = nil
+FMovieSceneEvaluationTrack.EvaluationTree = nil
+FMovieSceneEvaluationTrack.ChildTemplates = nil
+FMovieSceneEvaluationTrack.TrackTemplate = nil
+FMovieSceneEvaluationTrack.EvaluationGroup = nil
+FMovieSceneEvaluationTrack.bEvaluateInPreroll = nil
+FMovieSceneEvaluationTrack.bEvaluateInPostroll = nil
+FMovieSceneEvaluationTrack.bTearDownPriority = nil

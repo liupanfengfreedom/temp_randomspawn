@@ -1,0 +1,1 @@
+UClothConfigBase = {} ---@type UObject

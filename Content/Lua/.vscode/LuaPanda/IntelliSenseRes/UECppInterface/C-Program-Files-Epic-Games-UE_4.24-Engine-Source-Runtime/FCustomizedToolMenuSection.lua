@@ -1,0 +1,2 @@
+FCustomizedToolMenuSection = {}
+FCustomizedToolMenuSection.Visibility = nil

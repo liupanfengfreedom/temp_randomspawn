@@ -1,0 +1,1 @@
+ULineBatchComponent = {} ---@type UPrimitiveComponent

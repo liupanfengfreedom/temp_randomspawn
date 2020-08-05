@@ -1,0 +1,17 @@
+FAnimUpdateRateParameters = {}
+FAnimUpdateRateParameters.ShiftBucket = nil
+FAnimUpdateRateParameters.bInterpolateSkippedFrames = nil
+FAnimUpdateRateParameters.bShouldUseLodMap = nil
+FAnimUpdateRateParameters.bShouldUseMinLod = nil
+FAnimUpdateRateParameters.bSkipUpdate = nil
+FAnimUpdateRateParameters.bSkipEvaluation = nil
+FAnimUpdateRateParameters.UpdateRate = nil
+FAnimUpdateRateParameters.EvaluationRate = nil
+FAnimUpdateRateParameters.TickedPoseOffestTime = nil
+FAnimUpdateRateParameters.AdditionalTime = nil
+FAnimUpdateRateParameters.BaseNonRenderedUpdateRate = nil
+FAnimUpdateRateParameters.MaxEvalRateForInterpolation = nil
+FAnimUpdateRateParameters.BaseVisibleDistanceFactorThesholds = nil
+FAnimUpdateRateParameters.LODToFrameSkipMap = nil
+FAnimUpdateRateParameters.SkippedUpdateFrames = nil
+FAnimUpdateRateParameters.SkippedEvalFrames = nil

@@ -1,0 +1,1 @@
+ATriggerBox = {} ---@type ATriggerBase

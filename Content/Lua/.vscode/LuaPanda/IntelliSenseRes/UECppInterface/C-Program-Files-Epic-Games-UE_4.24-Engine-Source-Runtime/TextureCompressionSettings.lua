@@ -1,0 +1,14 @@
+TextureCompressionSettings = {}
+TextureCompressionSettings.TC_Default = nil
+TextureCompressionSettings.TC_Normalmap = nil
+TextureCompressionSettings.TC_Masks = nil
+TextureCompressionSettings.TC_Grayscale = nil
+TextureCompressionSettings.TC_Displacementmap = nil
+TextureCompressionSettings.TC_VectorDisplacementmap = nil
+TextureCompressionSettings.TC_HDR = nil
+TextureCompressionSettings.TC_EditorIcon = nil
+TextureCompressionSettings.TC_Alpha = nil
+TextureCompressionSettings.TC_DistanceFieldFont = nil
+TextureCompressionSettings.TC_HDR_Compressed = nil
+TextureCompressionSettings.TC_BC7 = nil
+TextureCompressionSettings.TC_MAX = nil

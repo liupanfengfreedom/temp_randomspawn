@@ -1,0 +1,9 @@
+FMovieSceneFloatChannel = {}
+FMovieSceneFloatChannel.PreInfinityExtrap = nil
+FMovieSceneFloatChannel.PostInfinityExtrap = nil
+FMovieSceneFloatChannel.Times = nil
+FMovieSceneFloatChannel.Values = nil
+FMovieSceneFloatChannel.DefaultValue = nil
+FMovieSceneFloatChannel.bHasDefaultValue = nil
+FMovieSceneFloatChannel.KeyHandles = nil
+FMovieSceneFloatChannel.TickResolution = nil

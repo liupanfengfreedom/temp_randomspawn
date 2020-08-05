@@ -1,0 +1,1 @@
+UMaterialExpressionCameraVectorWS = {} ---@type UMaterialExpression

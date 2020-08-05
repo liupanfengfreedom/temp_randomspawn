@@ -1,0 +1,15 @@
+UTextureRenderTarget2D = {} ---@type UTextureRenderTarget
+UTextureRenderTarget2D.SizeX = nil
+UTextureRenderTarget2D.SizeY = nil
+UTextureRenderTarget2D.ClearColor = nil
+UTextureRenderTarget2D.AddressX = nil
+UTextureRenderTarget2D.AddressY = nil
+UTextureRenderTarget2D.bForceLinearGamma = nil
+UTextureRenderTarget2D.bHDR_DEPRECATED = nil
+UTextureRenderTarget2D.bGPUSharedFlag = nil
+UTextureRenderTarget2D.RenderTargetFormat = nil
+UTextureRenderTarget2D.bAutoGenerateMips = nil
+UTextureRenderTarget2D.MipsSamplerFilter = nil
+UTextureRenderTarget2D.MipsAddressU = nil
+UTextureRenderTarget2D.MipsAddressV = nil
+UTextureRenderTarget2D.OverrideFormat = nil

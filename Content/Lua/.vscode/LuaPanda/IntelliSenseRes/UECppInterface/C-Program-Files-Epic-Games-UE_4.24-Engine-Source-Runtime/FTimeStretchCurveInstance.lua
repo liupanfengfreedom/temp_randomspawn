@@ -1,0 +1,2 @@
+FTimeStretchCurveInstance = {}
+FTimeStretchCurveInstance.bHasValidData = nil

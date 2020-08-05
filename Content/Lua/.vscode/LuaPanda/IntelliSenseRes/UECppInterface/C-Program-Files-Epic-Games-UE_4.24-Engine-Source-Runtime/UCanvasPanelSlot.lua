@@ -1,0 +1,22 @@
+UCanvasPanelSlot = {} ---@type UPanelSlot
+UCanvasPanelSlot.LayoutData = nil
+UCanvasPanelSlot.bAutoSize = nil
+UCanvasPanelSlot.ZOrder = nil
+function UCanvasPanelSlot.SetLayout(InLayoutData) end
+function UCanvasPanelSlot.GetLayout() end
+function UCanvasPanelSlot.SetPosition(InPosition) end
+function UCanvasPanelSlot.GetPosition() end
+function UCanvasPanelSlot.SetSize(InSize) end
+function UCanvasPanelSlot.GetSize() end
+function UCanvasPanelSlot.SetOffsets(InOffset) end
+function UCanvasPanelSlot.GetOffsets() end
+function UCanvasPanelSlot.SetAnchors(InAnchors) end
+function UCanvasPanelSlot.GetAnchors() end
+function UCanvasPanelSlot.SetAlignment(InAlignment) end
+function UCanvasPanelSlot.GetAlignment() end
+function UCanvasPanelSlot.SetAutoSize(InbAutoSize) end
+function UCanvasPanelSlot.GetAutoSize() end
+function UCanvasPanelSlot.SetZOrder(InZOrder) end
+function UCanvasPanelSlot.GetZOrder() end
+function UCanvasPanelSlot.SetMinimum(InMinimumAnchors) end
+function UCanvasPanelSlot.SetMaximum(InMaximumAnchors) end

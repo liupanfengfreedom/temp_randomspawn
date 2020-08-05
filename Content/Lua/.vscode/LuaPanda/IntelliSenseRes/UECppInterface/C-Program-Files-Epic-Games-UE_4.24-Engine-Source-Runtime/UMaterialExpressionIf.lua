@@ -1,0 +1,9 @@
+UMaterialExpressionIf = {} ---@type UMaterialExpression
+UMaterialExpressionIf.A = nil
+UMaterialExpressionIf.B = nil
+UMaterialExpressionIf.AGreaterThanB = nil
+UMaterialExpressionIf.AEqualsB = nil
+UMaterialExpressionIf.ALessThanB = nil
+UMaterialExpressionIf.EqualsThreshold = nil
+UMaterialExpressionIf.ConstB = nil
+UMaterialExpressionIf.ConstAEqualsB_DEPRECATED = nil

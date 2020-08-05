@@ -1,0 +1,10 @@
+FStructSerializerBuiltinTestStruct = {}
+FStructSerializerBuiltinTestStruct.Guid = nil
+FStructSerializerBuiltinTestStruct.Name = nil
+FStructSerializerBuiltinTestStruct.String = nil
+FStructSerializerBuiltinTestStruct.Text = nil
+FStructSerializerBuiltinTestStruct.Vector = nil
+FStructSerializerBuiltinTestStruct.Vector4 = nil
+FStructSerializerBuiltinTestStruct.Rotator = nil
+FStructSerializerBuiltinTestStruct.Quat = nil
+FStructSerializerBuiltinTestStruct.Color = nil

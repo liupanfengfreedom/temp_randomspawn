@@ -1,0 +1,22 @@
+UMotionControllerComponent = {} ---@type UPrimitiveComponent
+UMotionControllerComponent.PlayerIndex = nil
+UMotionControllerComponent.Hand_DEPRECATED = nil
+UMotionControllerComponent.MotionSource = nil
+UMotionControllerComponent.bDisableLowLatencyUpdate = nil
+UMotionControllerComponent.CurrentTrackingStatus = nil
+UMotionControllerComponent.bDisplayDeviceModel = nil
+UMotionControllerComponent.DisplayModelSource = nil
+UMotionControllerComponent.CustomDisplayMesh = nil
+UMotionControllerComponent.DisplayMeshMaterialOverrides = nil
+UMotionControllerComponent.DisplayComponent = nil
+function UMotionControllerComponent.IsTracked() end
+function UMotionControllerComponent.SetShowDeviceModel(bShowControllerModel) end
+function UMotionControllerComponent.SetDisplayModelSource(NewDisplayModelSource) end
+function UMotionControllerComponent.SetCustomDisplayMesh(NewDisplayMesh) end
+function UMotionControllerComponent.SetTrackingSource(NewSource) end
+function UMotionControllerComponent.GetTrackingSource() end
+function UMotionControllerComponent.SetTrackingMotionSource(NewSource) end
+function UMotionControllerComponent.SetAssociatedPlayerIndex(NewPlayer) end
+function UMotionControllerComponent.OnMotionControllerUpdated() end
+function UMotionControllerComponent.GetParameterValue(InName, bValueFound) end
+function UMotionControllerComponent.GetHandJointPosition(jointIndex, bValueFound) end

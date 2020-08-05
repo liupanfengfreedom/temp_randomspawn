@@ -1,0 +1,8 @@
+ETranslucencyLightingMode = {}
+ETranslucencyLightingMode.TLM_VolumetricNonDirectional = nil
+ETranslucencyLightingMode.TLM_VolumetricDirectional = nil
+ETranslucencyLightingMode.TLM_VolumetricPerVertexNonDirectional = nil
+ETranslucencyLightingMode.TLM_VolumetricPerVertexDirectional = nil
+ETranslucencyLightingMode.TLM_Surface = nil
+ETranslucencyLightingMode.TLM_SurfacePerPixelLighting = nil
+ETranslucencyLightingMode.TLM_MAX = nil

@@ -1,0 +1,7 @@
+FBuildPromotionOpenAssetSettings = {}
+FBuildPromotionOpenAssetSettings.BlueprintAsset = nil
+FBuildPromotionOpenAssetSettings.MaterialAsset = nil
+FBuildPromotionOpenAssetSettings.ParticleSystemAsset = nil
+FBuildPromotionOpenAssetSettings.SkeletalMeshAsset = nil
+FBuildPromotionOpenAssetSettings.StaticMeshAsset = nil
+FBuildPromotionOpenAssetSettings.TextureAsset = nil

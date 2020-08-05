@@ -1,0 +1,1 @@
+UMaterialExpressionPreSkinnedNormal = {} ---@type UMaterialExpression

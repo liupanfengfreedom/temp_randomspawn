@@ -1,0 +1,1 @@
+UDynamicSubsystem = {} ---@type USubsystem

@@ -1,0 +1,1 @@
+ALightmassCharacterIndirectDetailVolume = {} ---@type AVolume

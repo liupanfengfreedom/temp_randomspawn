@@ -1,0 +1,1 @@
+UReporterGraph = {} ---@type UReporterBase

@@ -1,0 +1,10 @@
+UEnvQueryGenerator_Donut = {} ---@type UEnvQueryGenerator_ProjectedPoints
+UEnvQueryGenerator_Donut.InnerRadius = nil
+UEnvQueryGenerator_Donut.OuterRadius = nil
+UEnvQueryGenerator_Donut.NumberOfRings = nil
+UEnvQueryGenerator_Donut.PointsPerRing = nil
+UEnvQueryGenerator_Donut.ArcDirection = nil
+UEnvQueryGenerator_Donut.ArcAngle = nil
+UEnvQueryGenerator_Donut.bUseSpiralPattern = nil
+UEnvQueryGenerator_Donut.Center = nil
+UEnvQueryGenerator_Donut.bDefineArc = nil

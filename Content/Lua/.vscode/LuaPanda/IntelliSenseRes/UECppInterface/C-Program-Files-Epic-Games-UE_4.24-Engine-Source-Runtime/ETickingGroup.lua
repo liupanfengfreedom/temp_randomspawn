@@ -1,0 +1,10 @@
+ETickingGroup = {}
+ETickingGroup.TG_PrePhysics = nil
+ETickingGroup.TG_StartPhysics = nil
+ETickingGroup.TG_DuringPhysics = nil
+ETickingGroup.TG_EndPhysics = nil
+ETickingGroup.TG_PostPhysics = nil
+ETickingGroup.TG_PostUpdateWork = nil
+ETickingGroup.TG_LastDemotable = nil
+ETickingGroup.TG_NewlySpawned = nil
+ETickingGroup.TG_MAX = nil

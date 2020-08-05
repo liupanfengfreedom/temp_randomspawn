@@ -1,0 +1,8 @@
+UParticleModuleTypeDataAnimTrail = {} ---@type UParticleModuleTypeDataBase
+UParticleModuleTypeDataAnimTrail.bDeadTrailsOnDeactivate = nil
+UParticleModuleTypeDataAnimTrail.bEnablePreviousTangentRecalculation = nil
+UParticleModuleTypeDataAnimTrail.bTangentRecalculationEveryFrame = nil
+UParticleModuleTypeDataAnimTrail.TilingDistance = nil
+UParticleModuleTypeDataAnimTrail.DistanceTessellationStepSize = nil
+UParticleModuleTypeDataAnimTrail.TangentTessellationStepSize = nil
+UParticleModuleTypeDataAnimTrail.WidthTessellationStepSize = nil

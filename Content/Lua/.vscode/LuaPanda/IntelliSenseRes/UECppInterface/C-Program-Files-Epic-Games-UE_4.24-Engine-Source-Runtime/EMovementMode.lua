@@ -1,0 +1,9 @@
+EMovementMode = {}
+EMovementMode.MOVE_None = nil
+EMovementMode.MOVE_Walking = nil
+EMovementMode.MOVE_NavWalking = nil
+EMovementMode.MOVE_Falling = nil
+EMovementMode.MOVE_Swimming = nil
+EMovementMode.MOVE_Flying = nil
+EMovementMode.MOVE_Custom = nil
+EMovementMode.MOVE_MAX = nil

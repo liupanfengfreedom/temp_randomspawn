@@ -1,0 +1,2 @@
+FDelegateArray = {}
+FDelegateArray.Delegates = nil

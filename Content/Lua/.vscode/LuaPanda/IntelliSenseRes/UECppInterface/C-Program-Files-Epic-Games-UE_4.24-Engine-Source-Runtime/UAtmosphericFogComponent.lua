@@ -1,0 +1,33 @@
+UAtmosphericFogComponent = {} ---@type USceneComponent
+UAtmosphericFogComponent.SunMultiplier = nil
+UAtmosphericFogComponent.FogMultiplier = nil
+UAtmosphericFogComponent.DensityMultiplier = nil
+UAtmosphericFogComponent.DensityOffset = nil
+UAtmosphericFogComponent.DistanceScale = nil
+UAtmosphericFogComponent.AltitudeScale = nil
+UAtmosphericFogComponent.DistanceOffset = nil
+UAtmosphericFogComponent.GroundOffset = nil
+UAtmosphericFogComponent.StartDistance = nil
+UAtmosphericFogComponent.SunDiscScale = nil
+UAtmosphericFogComponent.DefaultBrightness = nil
+UAtmosphericFogComponent.DefaultLightColor = nil
+UAtmosphericFogComponent.bDisableSunDisk = nil
+UAtmosphericFogComponent.bAtmosphereAffectsSunIlluminance = nil
+UAtmosphericFogComponent.bDisableGroundScattering = nil
+UAtmosphericFogComponent.PrecomputeParams = nil
+UAtmosphericFogComponent.TransmittanceTexture_DEPRECATED = nil
+UAtmosphericFogComponent.IrradianceTexture_DEPRECATED = nil
+function UAtmosphericFogComponent.SetDefaultBrightness(NewBrightness) end
+function UAtmosphericFogComponent.SetDefaultLightColor(NewLightColor) end
+function UAtmosphericFogComponent.SetSunMultiplier(NewSunMultiplier) end
+function UAtmosphericFogComponent.SetFogMultiplier(NewFogMultiplier) end
+function UAtmosphericFogComponent.SetDensityMultiplier(NewDensityMultiplier) end
+function UAtmosphericFogComponent.SetDensityOffset(NewDensityOffset) end
+function UAtmosphericFogComponent.SetDistanceScale(NewDistanceScale) end
+function UAtmosphericFogComponent.SetAltitudeScale(NewAltitudeScale) end
+function UAtmosphericFogComponent.SetStartDistance(NewStartDistance) end
+function UAtmosphericFogComponent.SetDistanceOffset(NewDistanceOffset) end
+function UAtmosphericFogComponent.DisableSunDisk(NewSunDisk) end
+function UAtmosphericFogComponent.DisableGroundScattering(NewGroundScattering) end
+function UAtmosphericFogComponent.SetPrecomputeParams(DensityHeight, MaxScatteringOrder, InscatterAltitudeSampleNum) end
+function UAtmosphericFogComponent.StartPrecompute() end

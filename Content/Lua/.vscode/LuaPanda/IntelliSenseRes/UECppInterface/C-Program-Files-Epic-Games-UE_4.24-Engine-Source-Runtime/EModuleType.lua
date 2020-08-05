@@ -1,0 +1,11 @@
+EModuleType = {}
+EModuleType.EPMT_General = nil
+EModuleType.EPMT_TypeData = nil
+EModuleType.EPMT_Beam = nil
+EModuleType.EPMT_Trail = nil
+EModuleType.EPMT_Spawn = nil
+EModuleType.EPMT_Required = nil
+EModuleType.EPMT_Event = nil
+EModuleType.EPMT_Light = nil
+EModuleType.EPMT_SubUV = nil
+EModuleType.EPMT_MAX = nil

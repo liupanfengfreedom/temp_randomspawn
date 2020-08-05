@@ -1,0 +1,10 @@
+UParticleModuleCollisionGPU = {} ---@type UParticleModuleCollisionBase
+UParticleModuleCollisionGPU.Resilience = nil
+UParticleModuleCollisionGPU.ResilienceScaleOverLife = nil
+UParticleModuleCollisionGPU.Friction = nil
+UParticleModuleCollisionGPU.RandomSpread = nil
+UParticleModuleCollisionGPU.RandomDistribution = nil
+UParticleModuleCollisionGPU.RadiusScale = nil
+UParticleModuleCollisionGPU.RadiusBias = nil
+UParticleModuleCollisionGPU.Response = nil
+UParticleModuleCollisionGPU.CollisionMode = nil

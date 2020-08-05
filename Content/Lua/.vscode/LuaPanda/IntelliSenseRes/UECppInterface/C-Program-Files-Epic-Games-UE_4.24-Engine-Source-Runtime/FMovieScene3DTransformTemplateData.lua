@@ -1,0 +1,5 @@
+FMovieScene3DTransformTemplateData = {}
+FMovieScene3DTransformTemplateData.ManualWeight = nil
+FMovieScene3DTransformTemplateData.BlendType = nil
+FMovieScene3DTransformTemplateData.Mask = nil
+FMovieScene3DTransformTemplateData.bUseQuaternionInterpolation = nil

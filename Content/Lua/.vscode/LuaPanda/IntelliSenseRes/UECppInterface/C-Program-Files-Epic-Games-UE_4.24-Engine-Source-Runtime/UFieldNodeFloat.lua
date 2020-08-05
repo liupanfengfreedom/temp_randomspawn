@@ -1,0 +1,1 @@
+UFieldNodeFloat = {} ---@type UFieldNodeBase

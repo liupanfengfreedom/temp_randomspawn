@@ -1,0 +1,2 @@
+FMovieSceneSlomoSectionTemplate = {}
+FMovieSceneSlomoSectionTemplate.SlomoCurve = nil

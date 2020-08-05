@@ -1,0 +1,2 @@
+FRichImageRow = {}
+FRichImageRow.Brush = nil

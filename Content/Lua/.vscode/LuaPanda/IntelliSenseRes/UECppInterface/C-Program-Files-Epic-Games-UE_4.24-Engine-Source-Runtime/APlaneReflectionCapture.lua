@@ -1,0 +1,1 @@
+APlaneReflectionCapture = {} ---@type AReflectionCapture

@@ -1,0 +1,1 @@
+UParticleModuleEventSendToGame = {} ---@type UObject

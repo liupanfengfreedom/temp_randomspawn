@@ -1,0 +1,5 @@
+UClothingSimulationInteractorNv = {} ---@type UClothingSimulationInteractor
+function UClothingSimulationInteractorNv.SetAnimDriveSpringStiffness(InStiffness) end
+function UClothingSimulationInteractorNv.SetAnimDriveDamperStiffness(InStiffness) end
+function UClothingSimulationInteractorNv.EnableGravityOverride(InVector) end
+function UClothingSimulationInteractorNv.DisableGravityOverride() end

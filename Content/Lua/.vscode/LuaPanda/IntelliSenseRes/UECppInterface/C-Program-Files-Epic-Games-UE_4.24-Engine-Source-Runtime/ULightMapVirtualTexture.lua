@@ -1,0 +1,1 @@
+ULightMapVirtualTexture = {} ---@type UVirtualTexture

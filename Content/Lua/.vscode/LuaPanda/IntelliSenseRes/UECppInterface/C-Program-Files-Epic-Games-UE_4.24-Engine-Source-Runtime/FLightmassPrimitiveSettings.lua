@@ -1,0 +1,10 @@
+FLightmassPrimitiveSettings = {}
+FLightmassPrimitiveSettings.bUseTwoSidedLighting = nil
+FLightmassPrimitiveSettings.bShadowIndirectOnly = nil
+FLightmassPrimitiveSettings.bUseEmissiveForStaticLighting = nil
+FLightmassPrimitiveSettings.bUseVertexNormalForHemisphereGather = nil
+FLightmassPrimitiveSettings.EmissiveLightFalloffExponent = nil
+FLightmassPrimitiveSettings.EmissiveLightExplicitInfluenceRadius = nil
+FLightmassPrimitiveSettings.EmissiveBoost = nil
+FLightmassPrimitiveSettings.DiffuseBoost = nil
+FLightmassPrimitiveSettings.FullyOccludedSamplesFraction = nil

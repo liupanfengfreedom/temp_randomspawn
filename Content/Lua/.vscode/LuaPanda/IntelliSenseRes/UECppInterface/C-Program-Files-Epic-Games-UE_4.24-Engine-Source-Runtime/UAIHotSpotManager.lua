@@ -1,0 +1,1 @@
+UAIHotSpotManager = {} ---@type UObject

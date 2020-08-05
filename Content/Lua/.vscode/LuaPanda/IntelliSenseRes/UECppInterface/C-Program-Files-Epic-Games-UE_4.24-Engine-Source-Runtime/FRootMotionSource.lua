@@ -1,0 +1,14 @@
+FRootMotionSource = {}
+FRootMotionSource.Priority = nil
+FRootMotionSource.LocalID = nil
+FRootMotionSource.AccumulateMode = nil
+FRootMotionSource.InstanceName = nil
+FRootMotionSource.StartTime = nil
+FRootMotionSource.CurrentTime = nil
+FRootMotionSource.PreviousTime = nil
+FRootMotionSource.Duration = nil
+FRootMotionSource.Status = nil
+FRootMotionSource.Settings = nil
+FRootMotionSource.bInLocalSpace = nil
+FRootMotionSource.RootMotionParams = nil
+FRootMotionSource.FinishVelocityParams = nil

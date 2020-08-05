@@ -1,0 +1,3 @@
+UMaterialExpressionRuntimeVirtualTextureReplace = {} ---@type UMaterialExpression
+UMaterialExpressionRuntimeVirtualTextureReplace.Default = nil
+UMaterialExpressionRuntimeVirtualTextureReplace.VirtualTextureOutput = nil

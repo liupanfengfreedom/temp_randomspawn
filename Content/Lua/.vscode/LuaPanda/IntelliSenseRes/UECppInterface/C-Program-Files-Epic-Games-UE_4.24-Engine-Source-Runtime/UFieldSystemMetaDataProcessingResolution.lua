@@ -1,0 +1,3 @@
+UFieldSystemMetaDataProcessingResolution = {} ---@type UFieldSystemMetaData
+UFieldSystemMetaDataProcessingResolution.ResolutionType = nil
+function UFieldSystemMetaDataProcessingResolution.SetMetaDataaProcessingResolutionType(ResolutionType) end

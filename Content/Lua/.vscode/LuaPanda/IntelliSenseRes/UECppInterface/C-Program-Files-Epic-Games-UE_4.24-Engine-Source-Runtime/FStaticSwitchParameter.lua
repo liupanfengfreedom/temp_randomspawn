@@ -1,0 +1,2 @@
+FStaticSwitchParameter = {}
+FStaticSwitchParameter.Value = nil

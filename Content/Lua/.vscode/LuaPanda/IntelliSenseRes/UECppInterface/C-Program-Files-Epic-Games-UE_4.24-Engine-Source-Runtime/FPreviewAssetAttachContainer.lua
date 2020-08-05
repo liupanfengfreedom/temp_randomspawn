@@ -1,0 +1,2 @@
+FPreviewAssetAttachContainer = {}
+FPreviewAssetAttachContainer.AttachedObjects = nil

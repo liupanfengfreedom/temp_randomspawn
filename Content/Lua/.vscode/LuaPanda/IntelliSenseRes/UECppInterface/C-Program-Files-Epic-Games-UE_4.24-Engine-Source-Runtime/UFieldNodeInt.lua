@@ -1,0 +1,1 @@
+UFieldNodeInt = {} ---@type UFieldNodeBase

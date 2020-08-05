@@ -1,0 +1,1 @@
+UPluginCommandlet = {} ---@type UCommandlet

@@ -1,0 +1,11 @@
+FLiveLinkSourceBufferManagementSettings = {}
+FLiveLinkSourceBufferManagementSettings.ValidEngineTime = nil
+FLiveLinkSourceBufferManagementSettings.EngineTimeOffset = nil
+FLiveLinkSourceBufferManagementSettings.TimecodeFrameRate = nil
+FLiveLinkSourceBufferManagementSettings.bGenerateSubFrame = nil
+FLiveLinkSourceBufferManagementSettings.SourceTimecodeFrameRate = nil
+FLiveLinkSourceBufferManagementSettings.ValidTimecodeFrame = nil
+FLiveLinkSourceBufferManagementSettings.TimecodeFrameOffset = nil
+FLiveLinkSourceBufferManagementSettings.LatestOffset = nil
+FLiveLinkSourceBufferManagementSettings.MaxNumberOfFrameToBuffered = nil
+FLiveLinkSourceBufferManagementSettings.bKeepAtLeastOneFrame = nil

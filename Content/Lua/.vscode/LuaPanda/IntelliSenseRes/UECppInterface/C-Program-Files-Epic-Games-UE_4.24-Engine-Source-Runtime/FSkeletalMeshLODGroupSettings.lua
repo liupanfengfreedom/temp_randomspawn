@@ -1,0 +1,9 @@
+FSkeletalMeshLODGroupSettings = {}
+FSkeletalMeshLODGroupSettings.ScreenSize = nil
+FSkeletalMeshLODGroupSettings.LODHysteresis = nil
+FSkeletalMeshLODGroupSettings.BoneFilterActionOption = nil
+FSkeletalMeshLODGroupSettings.BoneList = nil
+FSkeletalMeshLODGroupSettings.BonesToPrioritize = nil
+FSkeletalMeshLODGroupSettings.WeightOfPrioritization = nil
+FSkeletalMeshLODGroupSettings.BakePose = nil
+FSkeletalMeshLODGroupSettings.ReductionSettings = nil

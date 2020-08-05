@@ -1,0 +1,2 @@
+FAssetBundleData = {}
+FAssetBundleData.Bundles = nil

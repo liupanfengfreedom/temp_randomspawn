@@ -1,0 +1,15 @@
+UAutomationTestSettings = {} ---@type UObject
+UAutomationTestSettings.EngineTestModules = nil
+UAutomationTestSettings.EditorTestModules = nil
+UAutomationTestSettings.AutomationTestmap = nil
+UAutomationTestSettings.EditorPerformanceTestMaps = nil
+UAutomationTestSettings.AssetsToOpen = nil
+UAutomationTestSettings.BuildPromotionTest = nil
+UAutomationTestSettings.MaterialEditorPromotionTest = nil
+UAutomationTestSettings.ParticleEditorPromotionTest = nil
+UAutomationTestSettings.BlueprintEditorPromotionTest = nil
+UAutomationTestSettings.TestLevelFolders = nil
+UAutomationTestSettings.ExternalTools = nil
+UAutomationTestSettings.ImportExportTestDefinitions = nil
+UAutomationTestSettings.LaunchOnSettings = nil
+UAutomationTestSettings.DefaultScreenshotResolution = nil

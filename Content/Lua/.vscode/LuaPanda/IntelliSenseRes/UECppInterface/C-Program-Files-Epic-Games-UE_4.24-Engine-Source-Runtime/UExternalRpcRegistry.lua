@@ -1,0 +1,1 @@
+UExternalRpcRegistry = {} ---@type UObject

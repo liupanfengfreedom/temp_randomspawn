@@ -1,0 +1,15 @@
+UParticleModule = {} ---@type UObject
+UParticleModule.bSpawnModule = nil
+UParticleModule.bUpdateModule = nil
+UParticleModule.bFinalUpdateModule = nil
+UParticleModule.bUpdateForGPUEmitter = nil
+UParticleModule.bCurvesAsColor = nil
+UParticleModule.b3DDrawMode = nil
+UParticleModule.bSupported3DDrawMode = nil
+UParticleModule.bEnabled = nil
+UParticleModule.bEditable = nil
+UParticleModule.LODDuplicate = nil
+UParticleModule.bSupportsRandomSeed = nil
+UParticleModule.bRequiresLoopingNotification = nil
+UParticleModule.LODValidity = nil
+UParticleModule.ModuleEditorColor = nil

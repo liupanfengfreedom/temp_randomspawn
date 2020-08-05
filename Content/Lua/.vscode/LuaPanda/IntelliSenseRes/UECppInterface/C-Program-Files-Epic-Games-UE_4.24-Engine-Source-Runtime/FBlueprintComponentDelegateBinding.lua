@@ -1,0 +1,4 @@
+FBlueprintComponentDelegateBinding = {}
+FBlueprintComponentDelegateBinding.ComponentPropertyName = nil
+FBlueprintComponentDelegateBinding.DelegatePropertyName = nil
+FBlueprintComponentDelegateBinding.FunctionNameToBind = nil

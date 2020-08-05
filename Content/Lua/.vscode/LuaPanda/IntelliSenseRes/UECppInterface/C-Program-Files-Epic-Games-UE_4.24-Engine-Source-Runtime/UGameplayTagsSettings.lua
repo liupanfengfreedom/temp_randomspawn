@@ -1,0 +1,13 @@
+UGameplayTagsSettings = {} ---@type UGameplayTagsList
+UGameplayTagsSettings.ImportTagsFromConfig = nil
+UGameplayTagsSettings.WarnOnInvalidTags = nil
+UGameplayTagsSettings.FastReplication = nil
+UGameplayTagsSettings.InvalidTagCharacters = nil
+UGameplayTagsSettings.CategoryRemapping = nil
+UGameplayTagsSettings.GameplayTagTableList = nil
+UGameplayTagsSettings.GameplayTagRedirects = nil
+UGameplayTagsSettings.CommonlyReplicatedTags = nil
+UGameplayTagsSettings.NumBitsForContainerSize = nil
+UGameplayTagsSettings.NetIndexFirstBitSegment = nil
+UGameplayTagsSettings.RestrictedConfigFiles = nil
+UGameplayTagsSettings.RestrictedTagList = nil

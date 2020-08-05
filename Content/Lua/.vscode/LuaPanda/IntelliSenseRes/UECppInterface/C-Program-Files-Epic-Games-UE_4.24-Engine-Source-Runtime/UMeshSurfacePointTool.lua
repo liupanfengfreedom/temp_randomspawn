@@ -1,0 +1,1 @@
+UMeshSurfacePointTool = {} ---@type USingleSelectionTool

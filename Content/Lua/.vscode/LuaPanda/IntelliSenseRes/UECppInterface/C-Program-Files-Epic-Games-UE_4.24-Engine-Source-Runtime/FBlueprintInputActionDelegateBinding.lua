@@ -1,0 +1,4 @@
+FBlueprintInputActionDelegateBinding = {}
+FBlueprintInputActionDelegateBinding.InputActionName = nil
+FBlueprintInputActionDelegateBinding.InputKeyEvent = nil
+FBlueprintInputActionDelegateBinding.FunctionNameToBind = nil

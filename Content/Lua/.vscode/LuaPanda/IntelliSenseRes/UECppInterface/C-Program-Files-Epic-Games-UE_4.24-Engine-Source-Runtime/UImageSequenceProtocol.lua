@@ -1,0 +1,1 @@
+UImageSequenceProtocol = {} ---@type UFrameGrabberProtocol

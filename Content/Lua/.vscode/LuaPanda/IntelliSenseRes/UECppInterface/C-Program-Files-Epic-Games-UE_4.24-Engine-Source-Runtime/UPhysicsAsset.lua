@@ -1,0 +1,13 @@
+UPhysicsAsset = {} ---@type UObject
+UPhysicsAsset.DefaultSkelMesh_DEPRECATED = nil
+UPhysicsAsset.PreviewSkeletalMesh = nil
+UPhysicsAsset.PhysicalAnimationProfiles = nil
+UPhysicsAsset.ConstraintProfiles = nil
+UPhysicsAsset.CurrentPhysicalAnimationProfileName = nil
+UPhysicsAsset.CurrentConstraintProfileName = nil
+UPhysicsAsset.BoundsBodies = nil
+UPhysicsAsset.SkeletalBodySetups = nil
+UPhysicsAsset.ConstraintSetup = nil
+UPhysicsAsset.bNotForDedicatedServer = nil
+UPhysicsAsset.ThumbnailInfo = nil
+UPhysicsAsset.BodySetup_DEPRECATED = nil

@@ -1,0 +1,2 @@
+FNavGraphNode = {}
+FNavGraphNode.Owner = nil

@@ -1,0 +1,10 @@
+UBlueprintPlatformLibrary = {} ---@type UBlueprintFunctionLibrary
+function UBlueprintPlatformLibrary.ClearAllLocalNotifications() end
+function UBlueprintPlatformLibrary.ScheduleLocalNotificationAtTime(FireDateTime, LocalTime, Title, Body, Action, ActivationEvent) end
+function UBlueprintPlatformLibrary.ScheduleLocalNotificationFromNow(inSecondsFromNow, Title, Body, Action, ActivationEvent) end
+function UBlueprintPlatformLibrary.ScheduleLocalNotificationBadgeAtTime(FireDateTime, LocalTime, ActivationEvent) end
+function UBlueprintPlatformLibrary.ScheduleLocalNotificationBadgeFromNow(inSecondsFromNow, ActivationEvent) end
+function UBlueprintPlatformLibrary.CancelLocalNotification(ActivationEvent) end
+function UBlueprintPlatformLibrary.CancelLocalNotificationById(NotificationId) end
+function UBlueprintPlatformLibrary.GetLaunchNotification(NotificationLaunchedApp, ActivationEvent, FireDate) end
+function UBlueprintPlatformLibrary.GetDeviceOrientation() end

@@ -1,0 +1,1 @@
+UTestObject = {} ---@type UObject

@@ -1,0 +1,1 @@
+USimulatedClientNetConnection = {} ---@type UNetConnection

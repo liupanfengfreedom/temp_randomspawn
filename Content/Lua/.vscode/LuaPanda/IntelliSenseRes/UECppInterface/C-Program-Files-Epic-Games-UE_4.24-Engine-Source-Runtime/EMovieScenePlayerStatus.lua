@@ -1,0 +1,9 @@
+EMovieScenePlayerStatus = {}
+EMovieScenePlayerStatus.Stopped = nil
+EMovieScenePlayerStatus.Playing = nil
+EMovieScenePlayerStatus.Recording = nil
+EMovieScenePlayerStatus.Scrubbing = nil
+EMovieScenePlayerStatus.Jumping = nil
+EMovieScenePlayerStatus.Stepping = nil
+EMovieScenePlayerStatus.Paused = nil
+EMovieScenePlayerStatus.MAX = nil

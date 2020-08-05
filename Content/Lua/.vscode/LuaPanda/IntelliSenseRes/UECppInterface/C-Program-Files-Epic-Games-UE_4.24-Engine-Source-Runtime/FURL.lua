@@ -1,0 +1,9 @@
+FURL = {}
+FURL.Protocol = nil
+FURL.Host = nil
+FURL.Port = nil
+FURL.Valid = nil
+FURL.Map = nil
+FURL.RedirectURL = nil
+FURL.Op = nil
+FURL.Portal = nil

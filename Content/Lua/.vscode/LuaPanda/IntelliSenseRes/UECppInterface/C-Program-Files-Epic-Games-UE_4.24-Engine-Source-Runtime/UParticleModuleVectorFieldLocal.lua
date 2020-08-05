@@ -1,0 +1,12 @@
+UParticleModuleVectorFieldLocal = {} ---@type UParticleModuleVectorFieldBase
+UParticleModuleVectorFieldLocal.VectorField = nil
+UParticleModuleVectorFieldLocal.RelativeTranslation = nil
+UParticleModuleVectorFieldLocal.RelativeRotation = nil
+UParticleModuleVectorFieldLocal.RelativeScale3D = nil
+UParticleModuleVectorFieldLocal.Intensity = nil
+UParticleModuleVectorFieldLocal.Tightness = nil
+UParticleModuleVectorFieldLocal.bIgnoreComponentTransform = nil
+UParticleModuleVectorFieldLocal.bTileX = nil
+UParticleModuleVectorFieldLocal.bTileY = nil
+UParticleModuleVectorFieldLocal.bTileZ = nil
+UParticleModuleVectorFieldLocal.bUseFixDT = nil

@@ -1,0 +1,2 @@
+FPortalApplicationWindowNavigateToResponse = {}
+FPortalApplicationWindowNavigateToResponse.Result = nil

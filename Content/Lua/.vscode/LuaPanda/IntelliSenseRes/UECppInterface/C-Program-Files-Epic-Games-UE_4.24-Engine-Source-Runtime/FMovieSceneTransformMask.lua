@@ -1,0 +1,2 @@
+FMovieSceneTransformMask = {}
+FMovieSceneTransformMask.Mask = nil

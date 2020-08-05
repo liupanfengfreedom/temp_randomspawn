@@ -1,0 +1,1 @@
+UInterpGroupInstDirector = {} ---@type UInterpGroupInst

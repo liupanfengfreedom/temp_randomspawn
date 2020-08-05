@@ -1,0 +1,9 @@
+EAndroidScreenOrientation = {}
+EAndroidScreenOrientation.Portrait = nil
+EAndroidScreenOrientation.ReversePortrait = nil
+EAndroidScreenOrientation.SensorPortrait = nil
+EAndroidScreenOrientation.Landscape = nil
+EAndroidScreenOrientation.ReverseLandscape = nil
+EAndroidScreenOrientation.SensorLandscape = nil
+EAndroidScreenOrientation.Sensor = nil
+EAndroidScreenOrientation.FullSensor = nil

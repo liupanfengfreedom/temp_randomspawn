@@ -1,0 +1,2 @@
+FAIDataProviderTypedValue = {}
+FAIDataProviderTypedValue.PropertyType = nil

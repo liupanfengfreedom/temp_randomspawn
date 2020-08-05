@@ -1,0 +1,2 @@
+FFloatCurve = {}
+FFloatCurve.FloatCurve = nil

@@ -1,0 +1,9 @@
+UIntSerialization = {} ---@type UObject
+UIntSerialization.UnsignedInt16Variable = nil
+UIntSerialization.UnsignedInt32Variable = nil
+UIntSerialization.UnsignedInt64Variable = nil
+UIntSerialization.SignedInt8Variable = nil
+UIntSerialization.SignedInt16Variable = nil
+UIntSerialization.SignedInt64Variable = nil
+UIntSerialization.UnsignedInt8Variable = nil
+UIntSerialization.SignedInt32Variable = nil

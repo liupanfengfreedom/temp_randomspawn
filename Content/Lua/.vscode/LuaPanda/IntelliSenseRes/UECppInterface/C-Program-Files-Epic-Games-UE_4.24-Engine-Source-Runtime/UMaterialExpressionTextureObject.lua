@@ -1,0 +1,1 @@
+UMaterialExpressionTextureObject = {} ---@type UMaterialExpressionTextureBase

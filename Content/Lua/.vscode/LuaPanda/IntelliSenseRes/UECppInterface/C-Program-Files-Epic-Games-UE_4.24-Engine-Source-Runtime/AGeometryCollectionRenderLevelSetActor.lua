@@ -1,0 +1,7 @@
+AGeometryCollectionRenderLevelSetActor = {} ---@type AActor
+AGeometryCollectionRenderLevelSetActor.TargetVolumeTexture = nil
+AGeometryCollectionRenderLevelSetActor.RayMarchMaterial = nil
+AGeometryCollectionRenderLevelSetActor.SurfaceTolerance = nil
+AGeometryCollectionRenderLevelSetActor.Isovalue = nil
+AGeometryCollectionRenderLevelSetActor.Enabled = nil
+AGeometryCollectionRenderLevelSetActor.RenderVolumeBoundingBox = nil

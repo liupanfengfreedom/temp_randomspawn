@@ -1,0 +1,1 @@
+UMaterialExpressionLightVector = {} ---@type UMaterialExpression

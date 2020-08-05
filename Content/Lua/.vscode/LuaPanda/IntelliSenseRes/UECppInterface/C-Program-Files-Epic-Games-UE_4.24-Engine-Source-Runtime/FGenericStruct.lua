@@ -1,0 +1,2 @@
+FGenericStruct = {}
+FGenericStruct.Data = nil

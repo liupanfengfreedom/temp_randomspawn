@@ -1,0 +1,2 @@
+FMovieSceneEulerTransformPropertySectionTemplate = {}
+FMovieSceneEulerTransformPropertySectionTemplate.TemplateData = nil

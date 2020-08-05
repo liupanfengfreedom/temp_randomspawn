@@ -1,0 +1,1 @@
+UMaterialExpressionSceneTexelSize = {} ---@type UMaterialExpression

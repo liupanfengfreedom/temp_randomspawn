@@ -1,0 +1,2 @@
+FLevelStreamingWrapper = {}
+FLevelStreamingWrapper.StreamingLevel = nil

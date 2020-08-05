@@ -1,0 +1,2 @@
+FRecordedTransformTrack = {}
+FRecordedTransformTrack.Records = nil

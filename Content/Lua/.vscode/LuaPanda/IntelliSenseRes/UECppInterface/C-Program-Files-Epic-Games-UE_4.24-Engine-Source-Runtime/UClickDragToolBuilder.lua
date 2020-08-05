@@ -1,0 +1,1 @@
+UClickDragToolBuilder = {} ---@type UInteractiveToolBuilder

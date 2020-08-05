@@ -1,0 +1,3 @@
+EPhysicsTransformUpdateMode = {}
+EPhysicsTransformUpdateMode.SimulationUpatesComponentTransform = nil
+EPhysicsTransformUpdateMode.ComponentTransformIsKinematic = nil

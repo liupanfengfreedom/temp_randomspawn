@@ -1,0 +1,1 @@
+UGizmoObjectModifyStateTarget = {} ---@type UObject

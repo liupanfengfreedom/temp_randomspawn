@@ -1,0 +1,12 @@
+UCommandlet = {} ---@type UObject
+UCommandlet.HelpDescription = nil
+UCommandlet.HelpUsage = nil
+UCommandlet.HelpWebLink = nil
+UCommandlet.HelpParamNames = nil
+UCommandlet.HelpParamDescriptions = nil
+UCommandlet.IsServer = nil
+UCommandlet.IsClient = nil
+UCommandlet.IsEditor = nil
+UCommandlet.LogToConsole = nil
+UCommandlet.ShowErrorCount = nil
+UCommandlet.ShowProgress = nil

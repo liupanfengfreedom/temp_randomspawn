@@ -1,0 +1,9 @@
+FPhysicalAnimationData = {}
+FPhysicalAnimationData.BodyName = nil
+FPhysicalAnimationData.bIsLocalSimulation = nil
+FPhysicalAnimationData.OrientationStrength = nil
+FPhysicalAnimationData.AngularVelocityStrength = nil
+FPhysicalAnimationData.PositionStrength = nil
+FPhysicalAnimationData.VelocityStrength = nil
+FPhysicalAnimationData.MaxLinearForce = nil
+FPhysicalAnimationData.MaxAngularForce = nil

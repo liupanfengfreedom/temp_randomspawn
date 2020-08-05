@@ -1,0 +1,2 @@
+FLiveLinkConnectMessage = {}
+FLiveLinkConnectMessage.LiveLinkVersion = nil

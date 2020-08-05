@@ -1,0 +1,2 @@
+FBehaviorInfo = {}
+FBehaviorInfo.Behavior = nil

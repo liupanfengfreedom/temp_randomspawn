@@ -1,0 +1,1 @@
+ANavigationGraph = {} ---@type ANavigationData

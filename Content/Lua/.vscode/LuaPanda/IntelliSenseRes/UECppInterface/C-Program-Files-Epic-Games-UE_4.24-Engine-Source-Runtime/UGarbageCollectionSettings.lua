@@ -1,0 +1,1 @@
+UGarbageCollectionSettings = {} ---@type UDeveloperSettings

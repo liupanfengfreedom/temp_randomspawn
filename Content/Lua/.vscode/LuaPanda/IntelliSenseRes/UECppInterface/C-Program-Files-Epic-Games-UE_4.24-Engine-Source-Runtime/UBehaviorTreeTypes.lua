@@ -1,0 +1,1 @@
+UBehaviorTreeTypes = {} ---@type UObject

@@ -1,0 +1,14 @@
+FAnimNode_PoseDriver = {}
+FAnimNode_PoseDriver.SourcePose = nil
+FAnimNode_PoseDriver.SourceBones = nil
+FAnimNode_PoseDriver.OnlyDriveBones = nil
+FAnimNode_PoseDriver.PoseTargets = nil
+FAnimNode_PoseDriver.EvalSpaceBone = nil
+FAnimNode_PoseDriver.RBFParams = nil
+FAnimNode_PoseDriver.SourceBone_DEPRECATED = nil
+FAnimNode_PoseDriver.TwistAxis_DEPRECATED = nil
+FAnimNode_PoseDriver.Type_DEPRECATED = nil
+FAnimNode_PoseDriver.RadialScaling_DEPRECATED = nil
+FAnimNode_PoseDriver.DriveSource = nil
+FAnimNode_PoseDriver.DriveOutput = nil
+FAnimNode_PoseDriver.bOnlyDriveSelectedBones = nil

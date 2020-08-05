@@ -1,0 +1,2 @@
+FWorldPSCPool = {}
+FWorldPSCPool.WorldParticleSystemPools = nil

@@ -1,0 +1,1 @@
+UVisualLoggerAutomationTests = {} ---@type UObject

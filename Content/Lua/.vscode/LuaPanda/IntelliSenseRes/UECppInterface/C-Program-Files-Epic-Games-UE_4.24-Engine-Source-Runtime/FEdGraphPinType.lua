@@ -1,0 +1,11 @@
+FEdGraphPinType = {}
+FEdGraphPinType.PinCategory = nil
+FEdGraphPinType.PinSubCategory = nil
+FEdGraphPinType.PinSubCategoryObject = nil
+FEdGraphPinType.PinSubCategoryMemberReference = nil
+FEdGraphPinType.PinValueType = nil
+FEdGraphPinType.ContainerType = nil
+FEdGraphPinType.bIsArray_DEPRECATED = nil
+FEdGraphPinType.bIsReference = nil
+FEdGraphPinType.bIsConst = nil
+FEdGraphPinType.bIsWeakPointer = nil

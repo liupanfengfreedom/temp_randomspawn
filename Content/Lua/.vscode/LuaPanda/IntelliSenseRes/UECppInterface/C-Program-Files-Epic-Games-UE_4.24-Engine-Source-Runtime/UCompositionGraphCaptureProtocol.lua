@@ -1,0 +1,8 @@
+UCompositionGraphCaptureProtocol = {} ---@type UMovieSceneImageCaptureProtocolBase
+UCompositionGraphCaptureProtocol.IncludeRenderPasses = nil
+UCompositionGraphCaptureProtocol.bCaptureFramesInHDR = nil
+UCompositionGraphCaptureProtocol.HDRCompressionQuality = nil
+UCompositionGraphCaptureProtocol.CaptureGamut = nil
+UCompositionGraphCaptureProtocol.PostProcessingMaterial = nil
+UCompositionGraphCaptureProtocol.bDisableScreenPercentage = nil
+UCompositionGraphCaptureProtocol.PostProcessingMaterialPtr = nil

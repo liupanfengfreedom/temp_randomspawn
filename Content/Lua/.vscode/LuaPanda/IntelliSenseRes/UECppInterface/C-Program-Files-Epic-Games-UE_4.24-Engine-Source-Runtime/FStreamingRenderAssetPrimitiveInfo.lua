@@ -1,0 +1,6 @@
+FStreamingRenderAssetPrimitiveInfo = {}
+FStreamingRenderAssetPrimitiveInfo.RenderAsset = nil
+FStreamingRenderAssetPrimitiveInfo.Bounds = nil
+FStreamingRenderAssetPrimitiveInfo.TexelFactor = nil
+FStreamingRenderAssetPrimitiveInfo.PackedRelativeBox = nil
+FStreamingRenderAssetPrimitiveInfo.bAllowInvalidTexelFactorWhenUnregistered = nil

@@ -1,0 +1,11 @@
+ALandscape = {} ---@type ALandscapeProxy
+ALandscape.bCanHaveLayersContent = nil
+ALandscape.LandscapeSplinesTargetLayerGuid = nil
+ALandscape.LandscapeLayers = nil
+ALandscape.HeightmapRTList = nil
+ALandscape.WeightmapRTList = nil
+ALandscape.LandscapeSplinesAffectedComponents = nil
+ALandscape.bLandscapeLayersAreInitialized = nil
+ALandscape.WasCompilingShaders = nil
+ALandscape.LayerContentUpdateModes = nil
+ALandscape.bSplineLayerUpdateRequested = nil

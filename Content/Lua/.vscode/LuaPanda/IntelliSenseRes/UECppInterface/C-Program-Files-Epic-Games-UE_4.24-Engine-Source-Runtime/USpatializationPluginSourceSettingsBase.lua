@@ -1,0 +1,1 @@
+USpatializationPluginSourceSettingsBase = {} ---@type UObject

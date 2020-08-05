@@ -1,0 +1,2 @@
+FAutomationWorkerRequestNextNetworkCommand = {}
+FAutomationWorkerRequestNextNetworkCommand.ExecutionCount = nil

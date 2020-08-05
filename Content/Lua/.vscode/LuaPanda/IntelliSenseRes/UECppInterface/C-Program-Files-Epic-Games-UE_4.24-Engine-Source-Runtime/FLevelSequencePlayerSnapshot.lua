@@ -1,0 +1,12 @@
+FLevelSequencePlayerSnapshot = {}
+FLevelSequencePlayerSnapshot.MasterName = nil
+FLevelSequencePlayerSnapshot.MasterTime = nil
+FLevelSequencePlayerSnapshot.SourceTime = nil
+FLevelSequencePlayerSnapshot.CurrentShotName = nil
+FLevelSequencePlayerSnapshot.CurrentShotLocalTime = nil
+FLevelSequencePlayerSnapshot.CurrentShotSourceTime = nil
+FLevelSequencePlayerSnapshot.SourceTimecode = nil
+FLevelSequencePlayerSnapshot.CameraComponent = nil
+FLevelSequencePlayerSnapshot.Settings = nil
+FLevelSequencePlayerSnapshot.ActiveShot = nil
+FLevelSequencePlayerSnapshot.ShotID = nil

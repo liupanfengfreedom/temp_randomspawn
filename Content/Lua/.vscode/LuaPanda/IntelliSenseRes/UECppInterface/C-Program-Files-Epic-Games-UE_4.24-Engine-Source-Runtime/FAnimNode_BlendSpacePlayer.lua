@@ -1,0 +1,10 @@
+FAnimNode_BlendSpacePlayer = {}
+FAnimNode_BlendSpacePlayer.X = nil
+FAnimNode_BlendSpacePlayer.Y = nil
+FAnimNode_BlendSpacePlayer.Z = nil
+FAnimNode_BlendSpacePlayer.PlayRate = nil
+FAnimNode_BlendSpacePlayer.bLoop = nil
+FAnimNode_BlendSpacePlayer.bResetPlayTimeWhenBlendSpaceChanges = nil
+FAnimNode_BlendSpacePlayer.StartPosition = nil
+FAnimNode_BlendSpacePlayer.BlendSpace = nil
+FAnimNode_BlendSpacePlayer.PreviousBlendSpace = nil

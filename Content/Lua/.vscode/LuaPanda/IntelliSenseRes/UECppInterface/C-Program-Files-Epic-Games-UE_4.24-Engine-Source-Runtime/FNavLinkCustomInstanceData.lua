@@ -1,0 +1,2 @@
+FNavLinkCustomInstanceData = {}
+FNavLinkCustomInstanceData.NavLinkUserId = nil

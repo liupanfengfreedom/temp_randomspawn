@@ -1,0 +1,10 @@
+FParticleEvent_GenerateInfo = {}
+FParticleEvent_GenerateInfo.Type = nil
+FParticleEvent_GenerateInfo.Frequency = nil
+FParticleEvent_GenerateInfo.ParticleFrequency = nil
+FParticleEvent_GenerateInfo.FirstTimeOnly = nil
+FParticleEvent_GenerateInfo.LastTimeOnly = nil
+FParticleEvent_GenerateInfo.UseReflectedImpactVector = nil
+FParticleEvent_GenerateInfo.bUseOrbitOffset = nil
+FParticleEvent_GenerateInfo.CustomName = nil
+FParticleEvent_GenerateInfo.ParticleModuleEventsToSendToGame = nil

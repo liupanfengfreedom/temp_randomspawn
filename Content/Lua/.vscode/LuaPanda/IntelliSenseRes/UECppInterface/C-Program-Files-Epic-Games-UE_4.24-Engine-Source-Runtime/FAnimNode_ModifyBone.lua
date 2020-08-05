@@ -1,0 +1,11 @@
+FAnimNode_ModifyBone = {}
+FAnimNode_ModifyBone.BoneToModify = nil
+FAnimNode_ModifyBone.Translation = nil
+FAnimNode_ModifyBone.Rotation = nil
+FAnimNode_ModifyBone.Scale = nil
+FAnimNode_ModifyBone.TranslationMode = nil
+FAnimNode_ModifyBone.RotationMode = nil
+FAnimNode_ModifyBone.ScaleMode = nil
+FAnimNode_ModifyBone.TranslationSpace = nil
+FAnimNode_ModifyBone.RotationSpace = nil
+FAnimNode_ModifyBone.ScaleSpace = nil

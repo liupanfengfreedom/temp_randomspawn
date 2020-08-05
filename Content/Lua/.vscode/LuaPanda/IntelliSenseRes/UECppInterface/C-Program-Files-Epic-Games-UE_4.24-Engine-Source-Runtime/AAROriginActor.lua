@@ -1,0 +1,1 @@
+AAROriginActor = {} ---@type AActor

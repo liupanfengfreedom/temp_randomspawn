@@ -1,0 +1,14 @@
+FSolverCollisionData = {}
+FSolverCollisionData.Location = nil
+FSolverCollisionData.AccumulatedImpulse = nil
+FSolverCollisionData.Normal = nil
+FSolverCollisionData.Velocity1 = nil
+FSolverCollisionData.Velocity2 = nil
+FSolverCollisionData.AngularVelocity1 = nil
+FSolverCollisionData.AngularVelocity2 = nil
+FSolverCollisionData.Mass1 = nil
+FSolverCollisionData.Mass2 = nil
+FSolverCollisionData.ParticleIndex = nil
+FSolverCollisionData.LevelsetIndex = nil
+FSolverCollisionData.ParticleIndexMesh = nil
+FSolverCollisionData.LevelsetIndexMesh = nil

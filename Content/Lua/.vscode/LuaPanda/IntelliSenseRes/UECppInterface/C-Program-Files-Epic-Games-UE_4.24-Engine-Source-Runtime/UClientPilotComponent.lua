@@ -1,0 +1,1 @@
+UClientPilotComponent = {} ---@type UObject

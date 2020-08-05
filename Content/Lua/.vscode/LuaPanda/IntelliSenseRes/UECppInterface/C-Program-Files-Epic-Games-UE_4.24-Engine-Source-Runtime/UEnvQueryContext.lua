@@ -1,0 +1,1 @@
+UEnvQueryContext = {} ---@type UObject

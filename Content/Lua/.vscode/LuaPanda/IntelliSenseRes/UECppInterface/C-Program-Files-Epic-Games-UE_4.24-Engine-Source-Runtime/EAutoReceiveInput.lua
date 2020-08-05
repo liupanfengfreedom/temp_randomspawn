@@ -1,0 +1,10 @@
+EAutoReceiveInput = {}
+EAutoReceiveInput.Disabled = nil
+EAutoReceiveInput.Player0 = nil
+EAutoReceiveInput.Player1 = nil
+EAutoReceiveInput.Player2 = nil
+EAutoReceiveInput.Player3 = nil
+EAutoReceiveInput.Player4 = nil
+EAutoReceiveInput.Player5 = nil
+EAutoReceiveInput.Player6 = nil
+EAutoReceiveInput.Player7 = nil

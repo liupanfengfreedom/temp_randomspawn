@@ -1,0 +1,3 @@
+FMovieSceneLevelVisibilitySectionTemplate = {}
+FMovieSceneLevelVisibilitySectionTemplate.Visibility = nil
+FMovieSceneLevelVisibilitySectionTemplate.LevelNames = nil

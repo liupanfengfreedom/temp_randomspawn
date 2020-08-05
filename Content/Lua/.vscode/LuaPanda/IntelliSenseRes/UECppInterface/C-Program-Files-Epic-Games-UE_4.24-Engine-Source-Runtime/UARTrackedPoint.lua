@@ -1,0 +1,1 @@
+UARTrackedPoint = {} ---@type UARTrackedGeometry

@@ -1,0 +1,2 @@
+FBoneReference = {}
+FBoneReference.BoneName = nil

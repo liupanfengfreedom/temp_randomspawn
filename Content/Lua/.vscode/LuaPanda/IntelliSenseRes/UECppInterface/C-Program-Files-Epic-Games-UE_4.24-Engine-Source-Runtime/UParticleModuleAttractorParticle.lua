@@ -1,0 +1,10 @@
+UParticleModuleAttractorParticle = {} ---@type UParticleModuleAttractorBase
+UParticleModuleAttractorParticle.EmitterName = nil
+UParticleModuleAttractorParticle.Range = nil
+UParticleModuleAttractorParticle.bStrengthByDistance = nil
+UParticleModuleAttractorParticle.Strength = nil
+UParticleModuleAttractorParticle.bAffectBaseVelocity = nil
+UParticleModuleAttractorParticle.SelectionMethod = nil
+UParticleModuleAttractorParticle.bRenewSource = nil
+UParticleModuleAttractorParticle.bInheritSourceVel = nil
+UParticleModuleAttractorParticle.LastSelIndex = nil

@@ -1,0 +1,15 @@
+URuntimeVirtualTexture = {} ---@type UObject
+URuntimeVirtualTexture.MaterialType = nil
+URuntimeVirtualTexture.bCompressTextures = nil
+URuntimeVirtualTexture.bEnable = nil
+URuntimeVirtualTexture.bClearTextures = nil
+URuntimeVirtualTexture.bSinglePhysicalSpace = nil
+URuntimeVirtualTexture.bPrivateSpace = nil
+URuntimeVirtualTexture.bEnableScalability = nil
+URuntimeVirtualTexture.Size_DEPRECATED = nil
+URuntimeVirtualTexture.TileCount = nil
+URuntimeVirtualTexture.TileSize = nil
+URuntimeVirtualTexture.TileBorderSize = nil
+URuntimeVirtualTexture.RemoveLowMips = nil
+URuntimeVirtualTexture.StreamLowMips = nil
+URuntimeVirtualTexture.StreamingTexture = nil

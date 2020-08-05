@@ -1,0 +1,1 @@
+ULocalMessage = {} ---@type UObject

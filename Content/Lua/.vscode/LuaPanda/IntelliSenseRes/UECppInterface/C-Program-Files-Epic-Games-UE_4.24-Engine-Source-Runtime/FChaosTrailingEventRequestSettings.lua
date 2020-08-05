@@ -1,0 +1,7 @@
+FChaosTrailingEventRequestSettings = {}
+FChaosTrailingEventRequestSettings.MaxNumberOfResults = nil
+FChaosTrailingEventRequestSettings.MinMass = nil
+FChaosTrailingEventRequestSettings.MinSpeed = nil
+FChaosTrailingEventRequestSettings.MinAngularSpeed = nil
+FChaosTrailingEventRequestSettings.MaxDistance = nil
+FChaosTrailingEventRequestSettings.SortMethod = nil

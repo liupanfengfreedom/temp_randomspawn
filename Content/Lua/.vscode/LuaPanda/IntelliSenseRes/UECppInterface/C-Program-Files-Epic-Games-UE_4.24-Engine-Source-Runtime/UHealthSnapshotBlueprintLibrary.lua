@@ -1,0 +1,4 @@
+UHealthSnapshotBlueprintLibrary = {} ---@type UBlueprintFunctionLibrary
+function UHealthSnapshotBlueprintLibrary.StartPerformanceSnapshots() end
+function UHealthSnapshotBlueprintLibrary.StopPerformanceSnapshots() end
+function UHealthSnapshotBlueprintLibrary.LogPerformanceSnapshot(SnapshotTitle) end

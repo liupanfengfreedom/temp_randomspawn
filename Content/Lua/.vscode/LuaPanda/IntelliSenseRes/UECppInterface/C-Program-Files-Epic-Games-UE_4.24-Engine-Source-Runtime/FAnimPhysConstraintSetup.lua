@@ -1,0 +1,16 @@
+FAnimPhysConstraintSetup = {}
+FAnimPhysConstraintSetup.LinearXLimitType = nil
+FAnimPhysConstraintSetup.LinearYLimitType = nil
+FAnimPhysConstraintSetup.LinearZLimitType = nil
+FAnimPhysConstraintSetup.LinearAxesMin = nil
+FAnimPhysConstraintSetup.LinearAxesMax = nil
+FAnimPhysConstraintSetup.AngularConstraintType = nil
+FAnimPhysConstraintSetup.TwistAxis = nil
+FAnimPhysConstraintSetup.AngularTargetAxis = nil
+FAnimPhysConstraintSetup.ConeAngle = nil
+FAnimPhysConstraintSetup.AngularXAngle_DEPRECATED = nil
+FAnimPhysConstraintSetup.AngularYAngle_DEPRECATED = nil
+FAnimPhysConstraintSetup.AngularZAngle_DEPRECATED = nil
+FAnimPhysConstraintSetup.AngularLimitsMin = nil
+FAnimPhysConstraintSetup.AngularLimitsMax = nil
+FAnimPhysConstraintSetup.AngularTarget = nil

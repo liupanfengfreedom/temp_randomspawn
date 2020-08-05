@@ -1,0 +1,26 @@
+UChaosDestructionListener = {} ---@type USceneComponent
+UChaosDestructionListener.bIsCollisionEventListeningEnabled = nil
+UChaosDestructionListener.bIsBreakingEventListeningEnabled = nil
+UChaosDestructionListener.bIsTrailingEventListeningEnabled = nil
+UChaosDestructionListener.CollisionEventRequestSettings = nil
+UChaosDestructionListener.BreakingEventRequestSettings = nil
+UChaosDestructionListener.TrailingEventRequestSettings = nil
+UChaosDestructionListener.ChaosSolverActors = nil
+UChaosDestructionListener.GeometryCollectionActors = nil
+UChaosDestructionListener.OnCollisionEvents = nil
+UChaosDestructionListener.OnBreakingEvents = nil
+UChaosDestructionListener.OnTrailingEvents = nil
+function UChaosDestructionListener.AddChaosSolverActor(ChaosSolverActor) end
+function UChaosDestructionListener.RemoveChaosSolverActor(ChaosSolverActor) end
+function UChaosDestructionListener.AddGeometryCollectionActor(GeometryCollectionActor) end
+function UChaosDestructionListener.RemoveGeometryCollectionActor(GeometryCollectionActor) end
+function UChaosDestructionListener.SetCollisionEventRequestSettings(InSettings) end
+function UChaosDestructionListener.SetBreakingEventRequestSettings(InSettings) end
+function UChaosDestructionListener.SetTrailingEventRequestSettings(InSettings) end
+function UChaosDestructionListener.SetCollisionEventEnabled(bIsEnabled) end
+function UChaosDestructionListener.SetBreakingEventEnabled(bIsEnabled) end
+function UChaosDestructionListener.SetTrailingEventEnabled(bIsEnabled) end
+function UChaosDestructionListener.IsEventListening() end
+function UChaosDestructionListener.SortCollisionEvents(CollisionEvents, SortMethod) end
+function UChaosDestructionListener.SortBreakingEvents(BreakingEvents, SortMethod) end
+function UChaosDestructionListener.SortTrailingEvents(TrailingEvents, SortMethod) end

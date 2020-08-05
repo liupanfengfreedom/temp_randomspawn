@@ -1,0 +1,4 @@
+FMovieSceneSequenceReplProperties = {}
+FMovieSceneSequenceReplProperties.LastKnownPosition = nil
+FMovieSceneSequenceReplProperties.LastKnownStatus = nil
+FMovieSceneSequenceReplProperties.LastKnownNumLoops = nil

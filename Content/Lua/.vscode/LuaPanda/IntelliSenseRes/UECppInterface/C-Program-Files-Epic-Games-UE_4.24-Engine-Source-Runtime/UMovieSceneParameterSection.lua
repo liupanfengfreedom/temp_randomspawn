@@ -1,0 +1,5 @@
+UMovieSceneParameterSection = {} ---@type UMovieSceneSection
+UMovieSceneParameterSection.ScalarParameterNamesAndCurves = nil
+UMovieSceneParameterSection.VectorParameterNamesAndCurves = nil
+UMovieSceneParameterSection.ColorParameterNamesAndCurves = nil
+UMovieSceneParameterSection.TransformParameterNamesAndCurves = nil

@@ -1,0 +1,2 @@
+FAIDataProviderBoolValue = {}
+FAIDataProviderBoolValue.DefaultValue = nil

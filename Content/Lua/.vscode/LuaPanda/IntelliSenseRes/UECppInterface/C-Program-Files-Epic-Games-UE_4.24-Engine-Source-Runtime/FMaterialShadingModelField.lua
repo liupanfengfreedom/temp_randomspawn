@@ -1,0 +1,2 @@
+FMaterialShadingModelField = {}
+FMaterialShadingModelField.ShadingModelField = nil

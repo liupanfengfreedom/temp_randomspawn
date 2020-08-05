@@ -1,0 +1,2 @@
+FEngineServiceTerminate = {}
+FEngineServiceTerminate.UserName = nil

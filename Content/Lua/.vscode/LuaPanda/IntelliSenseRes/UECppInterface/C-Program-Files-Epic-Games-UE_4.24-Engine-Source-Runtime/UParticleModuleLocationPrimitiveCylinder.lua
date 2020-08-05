@@ -1,0 +1,5 @@
+UParticleModuleLocationPrimitiveCylinder = {} ---@type UParticleModuleLocationPrimitiveBase
+UParticleModuleLocationPrimitiveCylinder.RadialVelocity = nil
+UParticleModuleLocationPrimitiveCylinder.StartRadius = nil
+UParticleModuleLocationPrimitiveCylinder.StartHeight = nil
+UParticleModuleLocationPrimitiveCylinder.HeightAxis = nil

@@ -1,0 +1,9 @@
+EMovieSceneBuiltInEasing = {}
+EMovieSceneBuiltInEasing.Linear = nil
+EMovieSceneBuiltInEasing.SinIn = nil
+EMovieSceneBuiltInEasing.QuadIn = nil
+EMovieSceneBuiltInEasing.CubicIn = nil
+EMovieSceneBuiltInEasing.QuartIn = nil
+EMovieSceneBuiltInEasing.QuintIn = nil
+EMovieSceneBuiltInEasing.ExpoIn = nil
+EMovieSceneBuiltInEasing.CircIn = nil

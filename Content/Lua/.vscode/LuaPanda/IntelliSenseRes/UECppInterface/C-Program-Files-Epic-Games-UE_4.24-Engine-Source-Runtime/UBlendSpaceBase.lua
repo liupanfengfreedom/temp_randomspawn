@@ -1,0 +1,10 @@
+UBlendSpaceBase = {} ---@type UAnimationAsset
+UBlendSpaceBase.bRotationBlendInMeshSpace = nil
+UBlendSpaceBase.PreviewBasePose = nil
+UBlendSpaceBase.AnimLength = nil
+UBlendSpaceBase.TargetWeightInterpolationSpeedPerSec = nil
+UBlendSpaceBase.NotifyTriggerMode = nil
+UBlendSpaceBase.PerBoneBlend = nil
+UBlendSpaceBase.SampleIndexWithMarkers = nil
+UBlendSpaceBase.SampleData = nil
+UBlendSpaceBase.GridSamples = nil

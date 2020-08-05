@@ -1,0 +1,13 @@
+FExposedValueCopyRecord = {}
+FExposedValueCopyRecord.SourceProperty_DEPRECATED = nil
+FExposedValueCopyRecord.SourcePropertyName = nil
+FExposedValueCopyRecord.SourceSubPropertyName = nil
+FExposedValueCopyRecord.SourceArrayIndex = nil
+FExposedValueCopyRecord.bInstanceIsTarget = nil
+FExposedValueCopyRecord.PostCopyOperation = nil
+FExposedValueCopyRecord.CopyType = nil
+FExposedValueCopyRecord.DestProperty = nil
+FExposedValueCopyRecord.DestArrayIndex = nil
+FExposedValueCopyRecord.Size = nil
+FExposedValueCopyRecord.CachedSourceProperty = nil
+FExposedValueCopyRecord.CachedSourceStructSubProperty = nil

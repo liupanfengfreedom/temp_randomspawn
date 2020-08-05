@@ -1,0 +1,1 @@
+UInputCoreTypes = {} ---@type UObject

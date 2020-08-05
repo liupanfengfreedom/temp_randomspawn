@@ -1,0 +1,10 @@
+UDataTable = {} ---@type UObject
+UDataTable.bStripFromClientBuilds = nil
+UDataTable.bIgnoreExtraFields = nil
+UDataTable.bIgnoreMissingFields = nil
+UDataTable.ImportKeyField = nil
+UDataTable.AssetImportData = nil
+UDataTable.ImportPath_DEPRECATED = nil
+UDataTable.RowStructName = nil
+UDataTable.RowsSerializedWithTags = nil
+UDataTable.TemporarilyReferencedObjects = nil

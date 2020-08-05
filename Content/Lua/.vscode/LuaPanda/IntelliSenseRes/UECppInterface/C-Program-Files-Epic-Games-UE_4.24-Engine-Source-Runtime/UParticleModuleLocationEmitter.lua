@@ -1,0 +1,7 @@
+UParticleModuleLocationEmitter = {} ---@type UParticleModuleLocationBase
+UParticleModuleLocationEmitter.EmitterName = nil
+UParticleModuleLocationEmitter.SelectionMethod = nil
+UParticleModuleLocationEmitter.InheritSourceVelocity = nil
+UParticleModuleLocationEmitter.InheritSourceVelocityScale = nil
+UParticleModuleLocationEmitter.bInheritSourceRotation = nil
+UParticleModuleLocationEmitter.InheritSourceRotationScale = nil

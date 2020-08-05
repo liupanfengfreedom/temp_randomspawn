@@ -1,0 +1,11 @@
+FFriendsMarkupStyle = {}
+FFriendsMarkupStyle.MarkupButtonStyle = nil
+FFriendsMarkupStyle.MarkupTextStyle = nil
+FFriendsMarkupStyle.MarkupBackground = nil
+FFriendsMarkupStyle.ButtonColor = nil
+FFriendsMarkupStyle.ButtonHoverColor = nil
+FFriendsMarkupStyle.TipColor = nil
+FFriendsMarkupStyle.SeperatorBrush = nil
+FFriendsMarkupStyle.SeperatorThickness = nil
+FFriendsMarkupStyle.MarkupPadding = nil
+FFriendsMarkupStyle.ButtonPadding = nil

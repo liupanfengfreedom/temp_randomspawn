@@ -1,0 +1,23 @@
+UWidgetLayoutLibrary = {} ---@type UBlueprintFunctionLibrary
+function UWidgetLayoutLibrary.ProjectWorldLocationToWidgetPosition(PlayerController, WorldLocation, ScreenPosition) end
+function UWidgetLayoutLibrary.GetViewportScale(WorldContextObject) end
+function UWidgetLayoutLibrary.GetViewportSize(WorldContextObject) end
+function UWidgetLayoutLibrary.GetViewportWidgetGeometry(WorldContextObject) end
+function UWidgetLayoutLibrary.GetPlayerScreenWidgetGeometry(PlayerController) end
+function UWidgetLayoutLibrary.GetMousePositionOnPlatform() end
+function UWidgetLayoutLibrary.GetMousePositionOnViewport(WorldContextObject) end
+function UWidgetLayoutLibrary.GetMousePositionScaledByDPI(Player, LocationX, LocationY) end
+function UWidgetLayoutLibrary.SlotAsBorderSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsCanvasSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsGridSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsHorizontalBoxSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsOverlaySlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsUniformGridSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsVerticalBoxSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsScrollBoxSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsSafeBoxSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsScaleBoxSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsSizeBoxSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsWrapBoxSlot(Widget) end
+function UWidgetLayoutLibrary.SlotAsWidgetSwitcherSlot(Widget) end
+function UWidgetLayoutLibrary.RemoveAllWidgets(WorldContextObject) end

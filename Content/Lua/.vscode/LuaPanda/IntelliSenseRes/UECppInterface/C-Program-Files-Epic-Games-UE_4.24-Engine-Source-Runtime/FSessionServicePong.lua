@@ -1,0 +1,11 @@
+FSessionServicePong = {}
+FSessionServicePong.Authorized = nil
+FSessionServicePong.BuildDate = nil
+FSessionServicePong.DeviceName = nil
+FSessionServicePong.InstanceId = nil
+FSessionServicePong.InstanceName = nil
+FSessionServicePong.PlatformName = nil
+FSessionServicePong.SessionId = nil
+FSessionServicePong.SessionName = nil
+FSessionServicePong.SessionOwner = nil
+FSessionServicePong.Standalone = nil

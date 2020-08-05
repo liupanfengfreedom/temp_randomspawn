@@ -1,0 +1,6 @@
+EWorldPositionIncludedOffsets = {}
+EWorldPositionIncludedOffsets.WPT_Default = nil
+EWorldPositionIncludedOffsets.WPT_ExcludeAllShaderOffsets = nil
+EWorldPositionIncludedOffsets.WPT_CameraRelative = nil
+EWorldPositionIncludedOffsets.WPT_CameraRelativeNoOffsets = nil
+EWorldPositionIncludedOffsets.WPT_MAX = nil

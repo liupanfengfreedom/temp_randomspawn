@@ -1,0 +1,2 @@
+FLightmassDirectionalLightSettings = {}
+FLightmassDirectionalLightSettings.LightSourceAngle = nil

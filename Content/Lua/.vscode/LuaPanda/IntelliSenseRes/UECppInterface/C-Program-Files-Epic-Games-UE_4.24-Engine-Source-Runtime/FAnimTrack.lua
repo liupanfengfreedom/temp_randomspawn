@@ -1,0 +1,2 @@
+FAnimTrack = {}
+FAnimTrack.AnimSegments = nil

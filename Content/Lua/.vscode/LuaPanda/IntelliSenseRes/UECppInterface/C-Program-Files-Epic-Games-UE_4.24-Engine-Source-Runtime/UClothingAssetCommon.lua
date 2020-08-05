@@ -1,0 +1,9 @@
+UClothingAssetCommon = {} ---@type UClothingAssetBase
+UClothingAssetCommon.PhysicsAsset = nil
+UClothingAssetCommon.ClothSimConfig = nil
+UClothingAssetCommon.ClothLodData = nil
+UClothingAssetCommon.LodMap = nil
+UClothingAssetCommon.UsedBoneNames = nil
+UClothingAssetCommon.UsedBoneIndices = nil
+UClothingAssetCommon.ReferenceBoneIndex = nil
+UClothingAssetCommon.CustomData = nil

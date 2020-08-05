@@ -1,0 +1,2 @@
+FAnimNotifyArray = {}
+FAnimNotifyArray.Notifies = nil

@@ -1,0 +1,2 @@
+FChaosHandlerSet = {}
+FChaosHandlerSet.ChaosHandlers = nil

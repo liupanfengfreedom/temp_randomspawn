@@ -1,0 +1,15 @@
+UMediaSoundComponent = {} ---@type USynthComponent
+UMediaSoundComponent.Channels = nil
+UMediaSoundComponent.DynamicRateAdjustment = nil
+UMediaSoundComponent.RateAdjustmentFactor = nil
+UMediaSoundComponent.RateAdjustmentRange = nil
+UMediaSoundComponent.MediaPlayer = nil
+function UMediaSoundComponent.BP_GetAttenuationSettingsToApply(OutAttenuationSettings) end
+function UMediaSoundComponent.GetMediaPlayer() end
+function UMediaSoundComponent.SetMediaPlayer(NewMediaPlayer) end
+function UMediaSoundComponent.SetEnableSpectralAnalysis(bInSpectralAnalysisEnabled) end
+function UMediaSoundComponent.SetSpectralAnalysisSettings(InFrequenciesToAnalyze) end
+function UMediaSoundComponent.GetSpectralData() end
+function UMediaSoundComponent.SetEnableEnvelopeFollowing(bInEnvelopeFollowing) end
+function UMediaSoundComponent.SetEnvelopeFollowingsettings(AttackTimeMsec, ReleaseTimeMsec) end
+function UMediaSoundComponent.GetEnvelopeValue() end

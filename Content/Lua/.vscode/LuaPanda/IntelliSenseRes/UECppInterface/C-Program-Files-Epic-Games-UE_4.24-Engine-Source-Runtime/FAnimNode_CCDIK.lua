@@ -1,0 +1,11 @@
+FAnimNode_CCDIK = {}
+FAnimNode_CCDIK.EffectorLocation = nil
+FAnimNode_CCDIK.EffectorLocationSpace = nil
+FAnimNode_CCDIK.EffectorTarget = nil
+FAnimNode_CCDIK.TipBone = nil
+FAnimNode_CCDIK.RootBone = nil
+FAnimNode_CCDIK.Precision = nil
+FAnimNode_CCDIK.MaxIterations = nil
+FAnimNode_CCDIK.bStartFromTail = nil
+FAnimNode_CCDIK.bEnableRotationLimit = nil
+FAnimNode_CCDIK.RotationLimitPerJoints = nil

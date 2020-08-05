@@ -1,0 +1,2 @@
+FMovieSceneEvaluationTemplateSerialNumber = {}
+FMovieSceneEvaluationTemplateSerialNumber.Value = nil

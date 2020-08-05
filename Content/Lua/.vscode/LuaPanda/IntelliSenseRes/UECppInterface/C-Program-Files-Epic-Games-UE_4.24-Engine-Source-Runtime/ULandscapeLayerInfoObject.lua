@@ -1,0 +1,12 @@
+ULandscapeLayerInfoObject = {} ---@type UObject
+ULandscapeLayerInfoObject.LayerName = nil
+ULandscapeLayerInfoObject.PhysMaterial = nil
+ULandscapeLayerInfoObject.Hardness = nil
+ULandscapeLayerInfoObject.bNoWeightBlend = nil
+ULandscapeLayerInfoObject.SplineFalloffModulationTexture = nil
+ULandscapeLayerInfoObject.SplineFalloffModulationColorMask = nil
+ULandscapeLayerInfoObject.SplineFalloffModulationTiling = nil
+ULandscapeLayerInfoObject.SplineFalloffModulationBias = nil
+ULandscapeLayerInfoObject.SplineFalloffModulationScale = nil
+ULandscapeLayerInfoObject.IsReferencedFromLoadedData = nil
+ULandscapeLayerInfoObject.LayerUsageDebugColor = nil

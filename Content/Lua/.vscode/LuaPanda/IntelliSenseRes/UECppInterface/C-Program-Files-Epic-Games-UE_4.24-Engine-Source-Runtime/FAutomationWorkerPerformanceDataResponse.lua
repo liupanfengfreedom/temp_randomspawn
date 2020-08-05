@@ -1,0 +1,3 @@
+FAutomationWorkerPerformanceDataResponse = {}
+FAutomationWorkerPerformanceDataResponse.bSuccess = nil
+FAutomationWorkerPerformanceDataResponse.ErrorMessage = nil

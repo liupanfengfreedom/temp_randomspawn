@@ -1,0 +1,2 @@
+FIntervalCountdown = {}
+FIntervalCountdown.Interval = nil

@@ -1,0 +1,7 @@
+FChaosCollisionEventRequestSettings = {}
+FChaosCollisionEventRequestSettings.MaxNumberResults = nil
+FChaosCollisionEventRequestSettings.MinMass = nil
+FChaosCollisionEventRequestSettings.MinSpeed = nil
+FChaosCollisionEventRequestSettings.MinImpulse = nil
+FChaosCollisionEventRequestSettings.MaxDistance = nil
+FChaosCollisionEventRequestSettings.SortMethod = nil

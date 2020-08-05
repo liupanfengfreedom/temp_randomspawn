@@ -1,0 +1,3 @@
+UAsyncActionLoadPrimaryAssetClassList = {} ---@type UAsyncActionLoadPrimaryAssetBase
+UAsyncActionLoadPrimaryAssetClassList.Completed = nil
+function UAsyncActionLoadPrimaryAssetClassList.AsyncLoadPrimaryAssetClassList(WorldContextObject, PrimaryAssetList, LoadBundles) end

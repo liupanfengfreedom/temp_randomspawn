@@ -1,0 +1,10 @@
+UVRNotificationsComponent = {} ---@type UActorComponent
+UVRNotificationsComponent.HMDTrackingInitializingAndNeedsHMDToBeTrackedDelegate = nil
+UVRNotificationsComponent.HMDTrackingInitializedDelegate = nil
+UVRNotificationsComponent.HMDRecenteredDelegate = nil
+UVRNotificationsComponent.HMDLostDelegate = nil
+UVRNotificationsComponent.HMDReconnectedDelegate = nil
+UVRNotificationsComponent.HMDConnectCanceledDelegate = nil
+UVRNotificationsComponent.HMDPutOnHeadDelegate = nil
+UVRNotificationsComponent.HMDRemovedFromHeadDelegate = nil
+UVRNotificationsComponent.VRControllerRecenteredDelegate = nil

@@ -1,0 +1,1 @@
+UMaterialExpressionParticleSpeed = {} ---@type UMaterialExpression

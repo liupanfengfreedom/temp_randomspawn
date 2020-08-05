@@ -1,0 +1,8 @@
+FActorComponentInstanceData = {}
+FActorComponentInstanceData.SourceComponentTemplate = nil
+FActorComponentInstanceData.SourceComponentCreationMethod = nil
+FActorComponentInstanceData.SourceComponentTypeSerializedIndex = nil
+FActorComponentInstanceData.SavedProperties = nil
+FActorComponentInstanceData.DuplicatedObjects = nil
+FActorComponentInstanceData.ReferencedObjects = nil
+FActorComponentInstanceData.ReferencedNames = nil

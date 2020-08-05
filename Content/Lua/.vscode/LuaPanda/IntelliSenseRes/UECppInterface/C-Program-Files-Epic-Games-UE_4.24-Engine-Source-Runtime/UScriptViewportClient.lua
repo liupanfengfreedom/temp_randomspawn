@@ -1,0 +1,1 @@
+UScriptViewportClient = {} ---@type UObject

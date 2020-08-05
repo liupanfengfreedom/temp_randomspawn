@@ -1,0 +1,12 @@
+FSkeletalMeshBuildSettings = {}
+FSkeletalMeshBuildSettings.bRecomputeNormals = nil
+FSkeletalMeshBuildSettings.bRecomputeTangents = nil
+FSkeletalMeshBuildSettings.bUseMikkTSpace = nil
+FSkeletalMeshBuildSettings.bComputeWeightedNormals = nil
+FSkeletalMeshBuildSettings.bRemoveDegenerates = nil
+FSkeletalMeshBuildSettings.bUseHighPrecisionTangentBasis = nil
+FSkeletalMeshBuildSettings.bUseFullPrecisionUVs = nil
+FSkeletalMeshBuildSettings.bBuildAdjacencyBuffer = nil
+FSkeletalMeshBuildSettings.ThresholdPosition = nil
+FSkeletalMeshBuildSettings.ThresholdTangentNormal = nil
+FSkeletalMeshBuildSettings.ThresholdUV = nil

@@ -1,0 +1,14 @@
+FAnimNode_SpringBone = {}
+FAnimNode_SpringBone.SpringBone = nil
+FAnimNode_SpringBone.MaxDisplacement = nil
+FAnimNode_SpringBone.SpringStiffness = nil
+FAnimNode_SpringBone.SpringDamping = nil
+FAnimNode_SpringBone.ErrorResetThresh = nil
+FAnimNode_SpringBone.bNoZSpring_DEPRECATED = nil
+FAnimNode_SpringBone.bLimitDisplacement = nil
+FAnimNode_SpringBone.bTranslateX = nil
+FAnimNode_SpringBone.bTranslateY = nil
+FAnimNode_SpringBone.bTranslateZ = nil
+FAnimNode_SpringBone.bRotateX = nil
+FAnimNode_SpringBone.bRotateY = nil
+FAnimNode_SpringBone.bRotateZ = nil

@@ -1,0 +1,4 @@
+UMaterialExpressionSingleLayerWaterMaterialOutput = {} ---@type UMaterialExpressionCustomOutput
+UMaterialExpressionSingleLayerWaterMaterialOutput.ScatteringCoefficients = nil
+UMaterialExpressionSingleLayerWaterMaterialOutput.AbsorptionCoefficients = nil
+UMaterialExpressionSingleLayerWaterMaterialOutput.PhaseG = nil

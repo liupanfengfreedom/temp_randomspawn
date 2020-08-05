@@ -1,0 +1,1 @@
+ULegacyLevelSequenceDirectorBlueprint = {} ---@type UBlueprint

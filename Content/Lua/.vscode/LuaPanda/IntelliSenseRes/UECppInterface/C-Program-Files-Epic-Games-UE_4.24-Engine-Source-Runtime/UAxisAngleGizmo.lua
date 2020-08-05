@@ -1,0 +1,14 @@
+UAxisAngleGizmo = {} ---@type UInteractiveGizmo
+UAxisAngleGizmo.AxisSource = nil
+UAxisAngleGizmo.AngleSource = nil
+UAxisAngleGizmo.HitTarget = nil
+UAxisAngleGizmo.StateTarget = nil
+UAxisAngleGizmo.bInInteraction = nil
+UAxisAngleGizmo.RotationOrigin = nil
+UAxisAngleGizmo.RotationAxis = nil
+UAxisAngleGizmo.RotationPlaneX = nil
+UAxisAngleGizmo.RotationPlaneY = nil
+UAxisAngleGizmo.InteractionStartPoint = nil
+UAxisAngleGizmo.InteractionCurPoint = nil
+UAxisAngleGizmo.InteractionStartAngle = nil
+UAxisAngleGizmo.InteractionCurAngle = nil

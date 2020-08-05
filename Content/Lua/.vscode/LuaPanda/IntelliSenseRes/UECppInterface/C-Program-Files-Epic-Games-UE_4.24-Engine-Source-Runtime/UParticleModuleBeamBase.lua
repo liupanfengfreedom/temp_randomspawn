@@ -1,0 +1,1 @@
+UParticleModuleBeamBase = {} ---@type UParticleModule

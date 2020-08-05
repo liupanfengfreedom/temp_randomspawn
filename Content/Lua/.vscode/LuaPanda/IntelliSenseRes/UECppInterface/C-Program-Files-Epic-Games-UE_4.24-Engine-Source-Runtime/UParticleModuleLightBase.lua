@@ -1,0 +1,1 @@
+UParticleModuleLightBase = {} ---@type UParticleModule

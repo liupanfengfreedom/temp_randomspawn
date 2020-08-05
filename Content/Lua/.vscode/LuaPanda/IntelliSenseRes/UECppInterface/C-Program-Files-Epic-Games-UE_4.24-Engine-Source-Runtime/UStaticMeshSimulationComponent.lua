@@ -1,0 +1,19 @@
+UStaticMeshSimulationComponent = {} ---@type UActorComponent
+UStaticMeshSimulationComponent.Simulating = nil
+UStaticMeshSimulationComponent.bNotifyCollisions = nil
+UStaticMeshSimulationComponent.ObjectType = nil
+UStaticMeshSimulationComponent.Mass = nil
+UStaticMeshSimulationComponent.CollisionType = nil
+UStaticMeshSimulationComponent.ImplicitType = nil
+UStaticMeshSimulationComponent.MinLevelSetResolution = nil
+UStaticMeshSimulationComponent.MaxLevelSetResolution = nil
+UStaticMeshSimulationComponent.InitialVelocityType = nil
+UStaticMeshSimulationComponent.InitialLinearVelocity = nil
+UStaticMeshSimulationComponent.InitialAngularVelocity = nil
+UStaticMeshSimulationComponent.DamageThreshold = nil
+UStaticMeshSimulationComponent.PhysicalMaterial = nil
+UStaticMeshSimulationComponent.ChaosSolverActor = nil
+UStaticMeshSimulationComponent.OnChaosPhysicsCollision = nil
+UStaticMeshSimulationComponent.SimulatedComponents = nil
+function UStaticMeshSimulationComponent.ReceivePhysicsCollision(CollisionInfo) end
+function UStaticMeshSimulationComponent.ForceRecreatePhysicsState() end

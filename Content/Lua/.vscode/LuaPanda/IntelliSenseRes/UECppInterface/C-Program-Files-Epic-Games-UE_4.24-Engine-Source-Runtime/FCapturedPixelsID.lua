@@ -1,0 +1,2 @@
+FCapturedPixelsID = {}
+FCapturedPixelsID.Identifiers = nil

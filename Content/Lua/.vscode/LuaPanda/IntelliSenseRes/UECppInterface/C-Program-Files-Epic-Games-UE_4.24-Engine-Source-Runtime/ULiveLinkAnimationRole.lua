@@ -1,0 +1,1 @@
+ULiveLinkAnimationRole = {} ---@type ULiveLinkBasicRole

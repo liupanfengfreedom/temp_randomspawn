@@ -1,0 +1,24 @@
+UPhysicsHandleComponent = {} ---@type UActorComponent
+UPhysicsHandleComponent.GrabbedComponent = nil
+UPhysicsHandleComponent.bSoftAngularConstraint = nil
+UPhysicsHandleComponent.bSoftLinearConstraint = nil
+UPhysicsHandleComponent.bInterpolateTarget = nil
+UPhysicsHandleComponent.LinearDamping = nil
+UPhysicsHandleComponent.LinearStiffness = nil
+UPhysicsHandleComponent.AngularDamping = nil
+UPhysicsHandleComponent.AngularStiffness = nil
+UPhysicsHandleComponent.InterpolationSpeed = nil
+function UPhysicsHandleComponent.GrabComponent(Component, InBoneName, GrabLocation, bConstrainRotation) end
+function UPhysicsHandleComponent.GrabComponentAtLocation(Component, InBoneName, GrabLocation) end
+function UPhysicsHandleComponent.GrabComponentAtLocationWithRotation(Component, InBoneName, Location, Rotation) end
+function UPhysicsHandleComponent.ReleaseComponent() end
+function UPhysicsHandleComponent.GetGrabbedComponent() end
+function UPhysicsHandleComponent.SetTargetLocation(NewLocation) end
+function UPhysicsHandleComponent.SetTargetRotation(NewRotation) end
+function UPhysicsHandleComponent.SetTargetLocationAndRotation(NewLocation, NewRotation) end
+function UPhysicsHandleComponent.GetTargetLocationAndRotation(TargetLocation, TargetRotation) end
+function UPhysicsHandleComponent.SetLinearDamping(NewLinearDamping) end
+function UPhysicsHandleComponent.SetLinearStiffness(NewLinearStiffness) end
+function UPhysicsHandleComponent.SetAngularDamping(NewAngularDamping) end
+function UPhysicsHandleComponent.SetAngularStiffness(NewAngularStiffness) end
+function UPhysicsHandleComponent.SetInterpolationSpeed(NewInterpolationSpeed) end

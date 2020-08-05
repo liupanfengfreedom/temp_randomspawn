@@ -1,0 +1,2 @@
+FStreamingLevelsToConsider = {}
+FStreamingLevelsToConsider.StreamingLevels = nil

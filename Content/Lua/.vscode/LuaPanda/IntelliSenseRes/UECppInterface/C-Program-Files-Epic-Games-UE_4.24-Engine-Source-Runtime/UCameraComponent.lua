@@ -1,0 +1,30 @@
+UCameraComponent = {} ---@type USceneComponent
+UCameraComponent.FieldOfView = nil
+UCameraComponent.OrthoWidth = nil
+UCameraComponent.OrthoNearClipPlane = nil
+UCameraComponent.OrthoFarClipPlane = nil
+UCameraComponent.AspectRatio = nil
+UCameraComponent.bConstrainAspectRatio = nil
+UCameraComponent.bUseFieldOfViewForLOD = nil
+UCameraComponent.bCameraMeshHiddenInGame = nil
+UCameraComponent.bLockToHmd = nil
+UCameraComponent.bUsePawnControlRotation = nil
+UCameraComponent.ProjectionMode = nil
+UCameraComponent.CameraMesh = nil
+UCameraComponent.PostProcessBlendWeight = nil
+UCameraComponent.PostProcessSettings = nil
+UCameraComponent.bUseControllerViewRotation_DEPRECATED = nil
+function UCameraComponent.SetFieldOfView(InFieldOfView) end
+function UCameraComponent.SetOrthoWidth(InOrthoWidth) end
+function UCameraComponent.SetOrthoNearClipPlane(InOrthoNearClipPlane) end
+function UCameraComponent.SetOrthoFarClipPlane(InOrthoFarClipPlane) end
+function UCameraComponent.SetAspectRatio(InAspectRatio) end
+function UCameraComponent.SetConstraintAspectRatio(bInConstrainAspectRatio) end
+function UCameraComponent.SetUseFieldOfViewForLOD(bInUseFieldOfViewForLOD) end
+function UCameraComponent.GetFilmbackText() end
+function UCameraComponent.SetProjectionMode(InProjectionMode) end
+function UCameraComponent.SetPostProcessBlendWeight(InPostProcessBlendWeight) end
+function UCameraComponent.GetCameraView(DeltaTime, DesiredView) end
+function UCameraComponent.AddOrUpdateBlendable(InBlendableObject) end
+function UCameraComponent.RemoveBlendable(InBlendableObject) end
+function UCameraComponent.OnCameraMeshHiddenChanged() end

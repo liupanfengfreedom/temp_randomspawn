@@ -1,0 +1,9 @@
+FMovieSceneEvent = {}
+FMovieSceneEvent.Ptrs = nil
+FMovieSceneEvent.PayloadVariables = nil
+FMovieSceneEvent.CompiledFunctionName = nil
+FMovieSceneEvent.BoundObjectPinName = nil
+FMovieSceneEvent.GraphGuid = nil
+FMovieSceneEvent.NodeGuid = nil
+FMovieSceneEvent.WeakCachedEndpoint = nil
+FMovieSceneEvent.FunctionEntry_DEPRECATED = nil

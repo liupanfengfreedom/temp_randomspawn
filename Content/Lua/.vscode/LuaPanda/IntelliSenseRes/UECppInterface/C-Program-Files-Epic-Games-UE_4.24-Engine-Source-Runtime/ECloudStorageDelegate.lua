@@ -1,0 +1,9 @@
+ECloudStorageDelegate = {}
+ECloudStorageDelegate.CSD_KeyValueReadComplete = nil
+ECloudStorageDelegate.CSD_KeyValueWriteComplete = nil
+ECloudStorageDelegate.CSD_ValueChanged = nil
+ECloudStorageDelegate.CSD_DocumentQueryComplete = nil
+ECloudStorageDelegate.CSD_DocumentReadComplete = nil
+ECloudStorageDelegate.CSD_DocumentWriteComplete = nil
+ECloudStorageDelegate.CSD_DocumentConflictDetected = nil
+ECloudStorageDelegate.CSD_MAX = nil

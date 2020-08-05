@@ -1,0 +1,2 @@
+FMovieSceneMaterialParameterCollectionTemplate = {}
+FMovieSceneMaterialParameterCollectionTemplate.MPC = nil

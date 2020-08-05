@@ -1,0 +1,1 @@
+FClothCollisionPrim_SphereConnection = {}

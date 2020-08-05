@@ -1,0 +1,2 @@
+FMovieSceneRootEvaluationTemplateInstance = {}
+FMovieSceneRootEvaluationTemplateInstance.DirectorInstances = nil

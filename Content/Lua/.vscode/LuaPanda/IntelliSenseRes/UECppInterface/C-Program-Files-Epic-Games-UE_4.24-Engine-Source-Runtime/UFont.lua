@@ -1,0 +1,17 @@
+UFont = {} ---@type UObject
+UFont.FontCacheType = nil
+UFont.Characters = nil
+UFont.Textures = nil
+UFont.IsRemapped = nil
+UFont.EmScale = nil
+UFont.Ascent = nil
+UFont.Descent = nil
+UFont.Leading = nil
+UFont.Kerning = nil
+UFont.ImportOptions = nil
+UFont.NumCharacters = nil
+UFont.MaxCharHeight = nil
+UFont.ScalingFactor = nil
+UFont.LegacyFontSize = nil
+UFont.LegacyFontName = nil
+UFont.CompositeFont = nil

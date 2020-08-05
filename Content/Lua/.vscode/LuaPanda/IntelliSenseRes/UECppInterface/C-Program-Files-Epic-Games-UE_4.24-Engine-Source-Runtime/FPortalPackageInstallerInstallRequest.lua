@@ -1,0 +1,4 @@
+FPortalPackageInstallerInstallRequest = {}
+FPortalPackageInstallerInstallRequest.AppName = nil
+FPortalPackageInstallerInstallRequest.BuildLabel = nil
+FPortalPackageInstallerInstallRequest.DestinationPath = nil

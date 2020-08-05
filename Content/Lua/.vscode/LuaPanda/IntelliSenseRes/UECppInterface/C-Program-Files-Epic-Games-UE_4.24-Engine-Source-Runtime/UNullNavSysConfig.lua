@@ -1,0 +1,1 @@
+UNullNavSysConfig = {} ---@type UNavigationSystemConfig

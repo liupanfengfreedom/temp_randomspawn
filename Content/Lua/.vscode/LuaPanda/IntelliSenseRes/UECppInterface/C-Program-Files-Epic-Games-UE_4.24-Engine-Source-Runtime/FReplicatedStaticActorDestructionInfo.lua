@@ -1,0 +1,2 @@
+FReplicatedStaticActorDestructionInfo = {}
+FReplicatedStaticActorDestructionInfo.ObjClass = nil

@@ -1,0 +1,9 @@
+UAnimBlueprintGeneratedClass = {} ---@type UBlueprintGeneratedClass
+UAnimBlueprintGeneratedClass.BakedStateMachines = nil
+UAnimBlueprintGeneratedClass.TargetSkeleton = nil
+UAnimBlueprintGeneratedClass.AnimNotifies = nil
+UAnimBlueprintGeneratedClass.OrderedSavedPoseIndicesMap = nil
+UAnimBlueprintGeneratedClass.SyncGroupNames = nil
+UAnimBlueprintGeneratedClass.EvaluateGraphExposedInputs = nil
+UAnimBlueprintGeneratedClass.GraphAssetPlayerInformation = nil
+UAnimBlueprintGeneratedClass.GraphBlendOptions = nil

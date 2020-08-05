@@ -1,0 +1,1 @@
+UParticleModuleTrailBase = {} ---@type UParticleModule

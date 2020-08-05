@@ -1,0 +1,1 @@
+UMovieSceneImageCaptureProtocolBase = {} ---@type UMovieSceneCaptureProtocolBase

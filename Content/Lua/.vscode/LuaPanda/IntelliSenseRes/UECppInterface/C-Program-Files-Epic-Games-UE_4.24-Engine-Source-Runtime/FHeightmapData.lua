@@ -1,0 +1,2 @@
+FHeightmapData = {}
+FHeightmapData.Texture = nil

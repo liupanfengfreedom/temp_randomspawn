@@ -1,0 +1,9 @@
+FAnimNode_ScaleChainLength = {}
+FAnimNode_ScaleChainLength.InputPose = nil
+FAnimNode_ScaleChainLength.DefaultChainLength = nil
+FAnimNode_ScaleChainLength.ChainStartBone = nil
+FAnimNode_ScaleChainLength.ChainEndBone = nil
+FAnimNode_ScaleChainLength.TargetLocation = nil
+FAnimNode_ScaleChainLength.Alpha = nil
+FAnimNode_ScaleChainLength.AlphaScaleBias = nil
+FAnimNode_ScaleChainLength.ChainInitialLength = nil

@@ -1,0 +1,2 @@
+FCachedPoseIndices = {}
+FCachedPoseIndices.OrderedSavedPoseNodeIndices = nil

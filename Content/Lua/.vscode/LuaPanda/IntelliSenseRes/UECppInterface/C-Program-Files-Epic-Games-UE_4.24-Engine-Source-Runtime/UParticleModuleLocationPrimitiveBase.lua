@@ -1,0 +1,11 @@
+UParticleModuleLocationPrimitiveBase = {} ---@type UParticleModuleLocationBase
+UParticleModuleLocationPrimitiveBase.Positive_X = nil
+UParticleModuleLocationPrimitiveBase.Positive_Y = nil
+UParticleModuleLocationPrimitiveBase.Positive_Z = nil
+UParticleModuleLocationPrimitiveBase.Negative_X = nil
+UParticleModuleLocationPrimitiveBase.Negative_Y = nil
+UParticleModuleLocationPrimitiveBase.Negative_Z = nil
+UParticleModuleLocationPrimitiveBase.SurfaceOnly = nil
+UParticleModuleLocationPrimitiveBase.Velocity = nil
+UParticleModuleLocationPrimitiveBase.VelocityScale = nil
+UParticleModuleLocationPrimitiveBase.StartLocation = nil

@@ -1,0 +1,9 @@
+UTouchInterface = {} ---@type UObject
+UTouchInterface.Controls = nil
+UTouchInterface.ActiveOpacity = nil
+UTouchInterface.InactiveOpacity = nil
+UTouchInterface.TimeUntilDeactive = nil
+UTouchInterface.TimeUntilReset = nil
+UTouchInterface.ActivationDelay = nil
+UTouchInterface.bPreventRecenter = nil
+UTouchInterface.StartupDelay = nil

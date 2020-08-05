@@ -1,0 +1,11 @@
+FLandscapeSplineInterpPoint = {}
+FLandscapeSplineInterpPoint.Center = nil
+FLandscapeSplineInterpPoint.Left = nil
+FLandscapeSplineInterpPoint.Right = nil
+FLandscapeSplineInterpPoint.FalloffLeft = nil
+FLandscapeSplineInterpPoint.FalloffRight = nil
+FLandscapeSplineInterpPoint.LayerLeft = nil
+FLandscapeSplineInterpPoint.LayerRight = nil
+FLandscapeSplineInterpPoint.LayerFalloffLeft = nil
+FLandscapeSplineInterpPoint.LayerFalloffRight = nil
+FLandscapeSplineInterpPoint.StartEndFalloff = nil

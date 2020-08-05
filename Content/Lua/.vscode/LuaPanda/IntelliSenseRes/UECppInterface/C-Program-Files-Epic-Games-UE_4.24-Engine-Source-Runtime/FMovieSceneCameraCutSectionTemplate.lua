@@ -1,0 +1,4 @@
+FMovieSceneCameraCutSectionTemplate = {}
+FMovieSceneCameraCutSectionTemplate.CameraBindingID = nil
+FMovieSceneCameraCutSectionTemplate.CutTransform = nil
+FMovieSceneCameraCutSectionTemplate.bHasCutTransform = nil

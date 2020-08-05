@@ -1,0 +1,5 @@
+FBlueprintWidgetAnimationDelegateBinding = {}
+FBlueprintWidgetAnimationDelegateBinding.Action = nil
+FBlueprintWidgetAnimationDelegateBinding.AnimationToBind = nil
+FBlueprintWidgetAnimationDelegateBinding.FunctionNameToBind = nil
+FBlueprintWidgetAnimationDelegateBinding.UserTag = nil

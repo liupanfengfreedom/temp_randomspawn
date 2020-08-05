@@ -1,0 +1,11 @@
+FAutomationWorkerFindWorkersResponse = {}
+FAutomationWorkerFindWorkersResponse.DeviceName = nil
+FAutomationWorkerFindWorkersResponse.InstanceName = nil
+FAutomationWorkerFindWorkersResponse.Platform = nil
+FAutomationWorkerFindWorkersResponse.OSVersionName = nil
+FAutomationWorkerFindWorkersResponse.ModelName = nil
+FAutomationWorkerFindWorkersResponse.GPUName = nil
+FAutomationWorkerFindWorkersResponse.CPUModelName = nil
+FAutomationWorkerFindWorkersResponse.RAMInGB = nil
+FAutomationWorkerFindWorkersResponse.RenderModeName = nil
+FAutomationWorkerFindWorkersResponse.SessionId = nil

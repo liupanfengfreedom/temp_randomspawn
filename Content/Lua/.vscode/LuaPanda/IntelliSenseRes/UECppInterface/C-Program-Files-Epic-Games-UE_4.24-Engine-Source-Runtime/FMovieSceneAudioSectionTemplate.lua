@@ -1,0 +1,2 @@
+FMovieSceneAudioSectionTemplate = {}
+FMovieSceneAudioSectionTemplate.AudioSection = nil

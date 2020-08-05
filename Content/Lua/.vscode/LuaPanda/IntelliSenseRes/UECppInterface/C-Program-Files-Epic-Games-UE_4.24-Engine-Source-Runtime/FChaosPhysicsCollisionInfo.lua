@@ -1,0 +1,12 @@
+FChaosPhysicsCollisionInfo = {}
+FChaosPhysicsCollisionInfo.Component = nil
+FChaosPhysicsCollisionInfo.OtherComponent = nil
+FChaosPhysicsCollisionInfo.Location = nil
+FChaosPhysicsCollisionInfo.Normal = nil
+FChaosPhysicsCollisionInfo.AccumulatedImpulse = nil
+FChaosPhysicsCollisionInfo.Velocity = nil
+FChaosPhysicsCollisionInfo.OtherVelocity = nil
+FChaosPhysicsCollisionInfo.AngularVelocity = nil
+FChaosPhysicsCollisionInfo.OtherAngularVelocity = nil
+FChaosPhysicsCollisionInfo.Mass = nil
+FChaosPhysicsCollisionInfo.OtherMass = nil

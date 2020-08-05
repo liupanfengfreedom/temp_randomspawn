@@ -1,0 +1,2 @@
+FMovieSceneExpansionState = {}
+FMovieSceneExpansionState.bExpanded = nil

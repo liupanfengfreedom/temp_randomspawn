@@ -1,0 +1,2 @@
+FKey = {}
+FKey.KeyName = nil

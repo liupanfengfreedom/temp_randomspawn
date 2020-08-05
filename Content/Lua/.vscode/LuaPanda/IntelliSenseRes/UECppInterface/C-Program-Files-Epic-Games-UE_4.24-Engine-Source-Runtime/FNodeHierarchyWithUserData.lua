@@ -1,0 +1,2 @@
+FNodeHierarchyWithUserData = {}
+FNodeHierarchyWithUserData.Hierarchy = nil

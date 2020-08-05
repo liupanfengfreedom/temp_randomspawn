@@ -1,0 +1,1 @@
+UMaterialExpressionCustomOutput = {} ---@type UMaterialExpression

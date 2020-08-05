@@ -1,0 +1,10 @@
+FCanvasUVTri = {}
+FCanvasUVTri.V0_Pos = nil
+FCanvasUVTri.V0_UV = nil
+FCanvasUVTri.V0_Color = nil
+FCanvasUVTri.V1_Pos = nil
+FCanvasUVTri.V1_UV = nil
+FCanvasUVTri.V1_Color = nil
+FCanvasUVTri.V2_Pos = nil
+FCanvasUVTri.V2_UV = nil
+FCanvasUVTri.V2_Color = nil

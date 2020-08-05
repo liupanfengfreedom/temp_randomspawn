@@ -1,0 +1,1 @@
+ULevelStreamingAlwaysLoaded = {} ---@type ULevelStreaming

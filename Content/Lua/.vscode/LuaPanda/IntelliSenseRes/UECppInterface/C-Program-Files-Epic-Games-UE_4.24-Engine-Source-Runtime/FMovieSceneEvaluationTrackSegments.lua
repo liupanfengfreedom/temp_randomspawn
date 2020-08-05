@@ -1,0 +1,3 @@
+FMovieSceneEvaluationTrackSegments = {}
+FMovieSceneEvaluationTrackSegments.SegmentIdentifierToIndex = nil
+FMovieSceneEvaluationTrackSegments.SortedSegments = nil

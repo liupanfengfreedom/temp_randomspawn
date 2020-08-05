@@ -1,0 +1,2 @@
+FCompositionGraphCapturePasses = {}
+FCompositionGraphCapturePasses.Value = nil

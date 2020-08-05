@@ -1,0 +1,17 @@
+UAnimClassData = {} ---@type UObject
+UAnimClassData.BakedStateMachines = nil
+UAnimClassData.TargetSkeleton = nil
+UAnimClassData.AnimNotifies = nil
+UAnimClassData.OrderedSavedPoseIndicesMap = nil
+UAnimClassData.AnimBlueprintFunctions = nil
+UAnimClassData.AnimNodeProperties = nil
+UAnimClassData.LinkedAnimGraphNodeProperties = nil
+UAnimClassData.LinkedAnimLayerNodeProperties = nil
+UAnimClassData.PreUpdateNodeProperties = nil
+UAnimClassData.DynamicResetNodeProperties = nil
+UAnimClassData.StateMachineNodeProperties = nil
+UAnimClassData.InitializationNodeProperties = nil
+UAnimClassData.GraphNameAssetPlayers = nil
+UAnimClassData.SyncGroupNames = nil
+UAnimClassData.EvaluateGraphExposedInputs = nil
+UAnimClassData.GraphBlendOptions = nil

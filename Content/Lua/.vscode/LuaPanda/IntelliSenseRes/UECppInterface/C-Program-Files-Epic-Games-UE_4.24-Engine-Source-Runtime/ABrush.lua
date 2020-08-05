@@ -1,0 +1,13 @@
+ABrush = {} ---@type AActor
+ABrush.BrushType = nil
+ABrush.BrushColor = nil
+ABrush.PolyFlags = nil
+ABrush.bColored = nil
+ABrush.bSolidWhenSelected = nil
+ABrush.bPlaceableFromClassBrowser = nil
+ABrush.bNotForClientOrServer = nil
+ABrush.Brush = nil
+ABrush.BrushComponent = nil
+ABrush.BrushBuilder = nil
+ABrush.bInManipulation = nil
+ABrush.SavedSelections = nil

@@ -1,0 +1,1 @@
+UParticleModuleTypeDataBase = {} ---@type UParticleModule

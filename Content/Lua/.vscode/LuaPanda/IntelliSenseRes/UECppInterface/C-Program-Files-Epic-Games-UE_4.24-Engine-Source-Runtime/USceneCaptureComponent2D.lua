@@ -1,0 +1,19 @@
+USceneCaptureComponent2D = {} ---@type USceneCaptureComponent
+USceneCaptureComponent2D.ProjectionType = nil
+USceneCaptureComponent2D.FOVAngle = nil
+USceneCaptureComponent2D.OrthoWidth = nil
+USceneCaptureComponent2D.TextureTarget = nil
+USceneCaptureComponent2D.CompositeMode = nil
+USceneCaptureComponent2D.PostProcessSettings = nil
+USceneCaptureComponent2D.PostProcessBlendWeight = nil
+USceneCaptureComponent2D.bOverride_CustomNearClippingPlane = nil
+USceneCaptureComponent2D.CustomNearClippingPlane = nil
+USceneCaptureComponent2D.bUseCustomProjectionMatrix = nil
+USceneCaptureComponent2D.CustomProjectionMatrix = nil
+USceneCaptureComponent2D.bEnableClipPlane = nil
+USceneCaptureComponent2D.ClipPlaneBase = nil
+USceneCaptureComponent2D.ClipPlaneNormal = nil
+USceneCaptureComponent2D.bCameraCutThisFrame = nil
+USceneCaptureComponent2D.bConsiderUnrenderedOpaquePixelAsFullyTranslucent = nil
+function USceneCaptureComponent2D.AddOrUpdateBlendable(InBlendableObject) end
+function USceneCaptureComponent2D.CaptureScene() end

@@ -1,0 +1,1 @@
+UMovieSceneFadeTrack = {} ---@type UMovieSceneFloatTrack

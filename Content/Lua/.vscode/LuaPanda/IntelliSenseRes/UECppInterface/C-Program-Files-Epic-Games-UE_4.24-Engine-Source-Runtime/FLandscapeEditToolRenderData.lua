@@ -1,0 +1,10 @@
+FLandscapeEditToolRenderData = {}
+FLandscapeEditToolRenderData.ToolMaterial = nil
+FLandscapeEditToolRenderData.GizmoMaterial = nil
+FLandscapeEditToolRenderData.SelectedType = nil
+FLandscapeEditToolRenderData.DebugChannelR = nil
+FLandscapeEditToolRenderData.DebugChannelG = nil
+FLandscapeEditToolRenderData.DebugChannelB = nil
+FLandscapeEditToolRenderData.DataTexture = nil
+FLandscapeEditToolRenderData.LayerContributionTexture = nil
+FLandscapeEditToolRenderData.DirtyTexture = nil

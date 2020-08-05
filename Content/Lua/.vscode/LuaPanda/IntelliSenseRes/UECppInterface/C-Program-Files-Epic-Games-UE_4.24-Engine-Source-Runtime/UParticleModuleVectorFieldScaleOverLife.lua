@@ -1,0 +1,3 @@
+UParticleModuleVectorFieldScaleOverLife = {} ---@type UParticleModuleVectorFieldBase
+UParticleModuleVectorFieldScaleOverLife.VectorFieldScaleOverLife_DEPRECATED = nil
+UParticleModuleVectorFieldScaleOverLife.VectorFieldScaleOverLifeRaw = nil

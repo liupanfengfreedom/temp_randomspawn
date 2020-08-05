@@ -1,0 +1,2 @@
+FClothVertBoneData = {}
+FClothVertBoneData.NumInfluences = nil

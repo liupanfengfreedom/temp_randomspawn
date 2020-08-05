@@ -1,0 +1,2 @@
+FRootMotionSourceStatus = {}
+FRootMotionSourceStatus.Flags = nil

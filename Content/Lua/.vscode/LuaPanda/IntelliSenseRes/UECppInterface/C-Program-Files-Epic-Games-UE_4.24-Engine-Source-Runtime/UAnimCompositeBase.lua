@@ -1,0 +1,1 @@
+UAnimCompositeBase = {} ---@type UAnimSequenceBase

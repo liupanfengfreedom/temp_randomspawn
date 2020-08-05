@@ -1,0 +1,2 @@
+FAnimCurveParam = {}
+FAnimCurveParam.Name = nil

@@ -1,0 +1,13 @@
+ETouchIndex = {}
+ETouchIndex.Touch1 = nil
+ETouchIndex.Touch2 = nil
+ETouchIndex.Touch3 = nil
+ETouchIndex.Touch4 = nil
+ETouchIndex.Touch5 = nil
+ETouchIndex.Touch6 = nil
+ETouchIndex.Touch7 = nil
+ETouchIndex.Touch8 = nil
+ETouchIndex.Touch9 = nil
+ETouchIndex.Touch10 = nil
+ETouchIndex.CursorPointerIndex = nil
+ETouchIndex.MAX_TOUCHES = nil

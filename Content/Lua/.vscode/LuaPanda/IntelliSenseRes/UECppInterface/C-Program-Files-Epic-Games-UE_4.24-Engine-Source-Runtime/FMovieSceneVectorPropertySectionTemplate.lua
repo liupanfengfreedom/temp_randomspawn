@@ -1,0 +1,3 @@
+FMovieSceneVectorPropertySectionTemplate = {}
+FMovieSceneVectorPropertySectionTemplate.NumChannelsUsed = nil
+FMovieSceneVectorPropertySectionTemplate.BlendType = nil

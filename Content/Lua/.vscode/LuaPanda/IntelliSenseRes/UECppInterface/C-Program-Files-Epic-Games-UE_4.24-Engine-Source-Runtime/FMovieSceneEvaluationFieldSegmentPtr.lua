@@ -1,0 +1,2 @@
+FMovieSceneEvaluationFieldSegmentPtr = {}
+FMovieSceneEvaluationFieldSegmentPtr.SegmentID = nil

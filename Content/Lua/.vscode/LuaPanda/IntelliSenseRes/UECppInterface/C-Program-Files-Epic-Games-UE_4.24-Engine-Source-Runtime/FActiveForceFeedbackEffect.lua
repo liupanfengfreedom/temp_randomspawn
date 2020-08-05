@@ -1,0 +1,2 @@
+FActiveForceFeedbackEffect = {}
+FActiveForceFeedbackEffect.ForceFeedbackEffect = nil

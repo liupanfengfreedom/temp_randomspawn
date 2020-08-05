@@ -1,0 +1,11 @@
+FAnimNode_Fabrik = {}
+FAnimNode_Fabrik.EffectorTransform = nil
+FAnimNode_Fabrik.EffectorTarget = nil
+FAnimNode_Fabrik.TipBone = nil
+FAnimNode_Fabrik.RootBone = nil
+FAnimNode_Fabrik.Precision = nil
+FAnimNode_Fabrik.MaxIterations = nil
+FAnimNode_Fabrik.EffectorTransformSpace = nil
+FAnimNode_Fabrik.EffectorRotationSource = nil
+FAnimNode_Fabrik.bEnableDebugDraw = nil
+FAnimNode_Fabrik.EffectorTransformBone_DEPRECATED = nil

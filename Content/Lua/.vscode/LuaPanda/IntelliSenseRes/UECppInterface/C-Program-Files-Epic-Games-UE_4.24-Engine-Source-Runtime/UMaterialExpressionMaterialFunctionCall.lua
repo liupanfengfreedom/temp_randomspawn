@@ -1,0 +1,6 @@
+UMaterialExpressionMaterialFunctionCall = {} ---@type UMaterialExpression
+UMaterialExpressionMaterialFunctionCall.MaterialFunction = nil
+UMaterialExpressionMaterialFunctionCall.FunctionInputs = nil
+UMaterialExpressionMaterialFunctionCall.FunctionOutputs = nil
+UMaterialExpressionMaterialFunctionCall.FunctionParameterInfo = nil
+function UMaterialExpressionMaterialFunctionCall.SetMaterialFunction(NewMaterialFunction) end

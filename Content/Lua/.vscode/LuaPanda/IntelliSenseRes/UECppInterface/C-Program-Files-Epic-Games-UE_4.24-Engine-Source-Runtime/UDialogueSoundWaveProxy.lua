@@ -1,0 +1,1 @@
+UDialogueSoundWaveProxy = {} ---@type USoundBase

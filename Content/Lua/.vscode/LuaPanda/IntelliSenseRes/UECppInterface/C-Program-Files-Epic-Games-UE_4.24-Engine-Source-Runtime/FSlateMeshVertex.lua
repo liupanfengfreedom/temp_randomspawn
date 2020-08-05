@@ -1,0 +1,9 @@
+FSlateMeshVertex = {}
+FSlateMeshVertex.Position = nil
+FSlateMeshVertex.Color = nil
+FSlateMeshVertex.UV0 = nil
+FSlateMeshVertex.UV1 = nil
+FSlateMeshVertex.UV2 = nil
+FSlateMeshVertex.UV3 = nil
+FSlateMeshVertex.UV4 = nil
+FSlateMeshVertex.UV5 = nil

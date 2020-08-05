@@ -1,0 +1,3 @@
+UGeometryCollectionDebugDrawComponent = {} ---@type UActorComponent
+UGeometryCollectionDebugDrawComponent.GeometryCollectionDebugDrawActor = nil
+UGeometryCollectionDebugDrawComponent.GeometryCollectionRenderLevelSetActor = nil

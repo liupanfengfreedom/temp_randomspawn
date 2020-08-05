@@ -1,0 +1,2 @@
+FNodeChain = {}
+FNodeChain.Nodes = nil

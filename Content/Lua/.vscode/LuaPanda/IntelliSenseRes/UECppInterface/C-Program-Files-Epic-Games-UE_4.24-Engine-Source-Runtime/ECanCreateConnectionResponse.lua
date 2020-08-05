@@ -1,0 +1,8 @@
+ECanCreateConnectionResponse = {}
+ECanCreateConnectionResponse.CONNECT_RESPONSE_MAKE = nil
+ECanCreateConnectionResponse.CONNECT_RESPONSE_DISALLOW = nil
+ECanCreateConnectionResponse.CONNECT_RESPONSE_BREAK_OTHERS_A = nil
+ECanCreateConnectionResponse.CONNECT_RESPONSE_BREAK_OTHERS_B = nil
+ECanCreateConnectionResponse.CONNECT_RESPONSE_BREAK_OTHERS_AB = nil
+ECanCreateConnectionResponse.CONNECT_RESPONSE_MAKE_WITH_CONVERSION_NODE = nil
+ECanCreateConnectionResponse.CONNECT_RESPONSE_MAX = nil

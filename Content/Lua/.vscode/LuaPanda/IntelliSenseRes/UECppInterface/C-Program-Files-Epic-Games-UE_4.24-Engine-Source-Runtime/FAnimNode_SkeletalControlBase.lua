@@ -1,0 +1,11 @@
+FAnimNode_SkeletalControlBase = {}
+FAnimNode_SkeletalControlBase.ComponentPose = nil
+FAnimNode_SkeletalControlBase.LODThreshold = nil
+FAnimNode_SkeletalControlBase.ActualAlpha = nil
+FAnimNode_SkeletalControlBase.AlphaInputType = nil
+FAnimNode_SkeletalControlBase.bAlphaBoolEnabled = nil
+FAnimNode_SkeletalControlBase.Alpha = nil
+FAnimNode_SkeletalControlBase.AlphaScaleBias = nil
+FAnimNode_SkeletalControlBase.AlphaBoolBlend = nil
+FAnimNode_SkeletalControlBase.AlphaCurveName = nil
+FAnimNode_SkeletalControlBase.AlphaScaleBiasClamp = nil

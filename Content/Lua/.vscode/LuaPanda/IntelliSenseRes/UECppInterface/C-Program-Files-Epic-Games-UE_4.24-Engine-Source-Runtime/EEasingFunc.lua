@@ -1,0 +1,15 @@
+EEasingFunc = {}
+EEasingFunc.Linear = nil
+EEasingFunc.Step = nil
+EEasingFunc.SinusoidalIn = nil
+EEasingFunc.SinusoidalOut = nil
+EEasingFunc.SinusoidalInOut = nil
+EEasingFunc.EaseIn = nil
+EEasingFunc.EaseOut = nil
+EEasingFunc.EaseInOut = nil
+EEasingFunc.ExpoIn = nil
+EEasingFunc.ExpoOut = nil
+EEasingFunc.ExpoInOut = nil
+EEasingFunc.CircularIn = nil
+EEasingFunc.CircularOut = nil
+EEasingFunc.CircularInOut = nil

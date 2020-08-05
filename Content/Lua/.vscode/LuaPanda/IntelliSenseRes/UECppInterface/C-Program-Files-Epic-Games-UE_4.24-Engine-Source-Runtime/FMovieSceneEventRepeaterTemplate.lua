@@ -1,0 +1,2 @@
+FMovieSceneEventRepeaterTemplate = {}
+FMovieSceneEventRepeaterTemplate.EventToTrigger = nil

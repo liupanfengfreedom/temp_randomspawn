@@ -1,0 +1,11 @@
+UMaterialFunction = {} ---@type UMaterialFunctionInterface
+UMaterialFunction.ParentFunction = nil
+UMaterialFunction.Description = nil
+UMaterialFunction.FunctionExpressions = nil
+UMaterialFunction.bExposeToLibrary = nil
+UMaterialFunction.bPrefixParameterNames = nil
+UMaterialFunction.LibraryCategories_DEPRECATED = nil
+UMaterialFunction.LibraryCategoriesText = nil
+UMaterialFunction.FunctionEditorComments = nil
+UMaterialFunction.PreviewMaterial = nil
+UMaterialFunction.bReentrantFlag = nil

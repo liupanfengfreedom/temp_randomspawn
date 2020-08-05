@@ -1,0 +1,10 @@
+FPoseDriverTarget = {}
+FPoseDriverTarget.BoneTransforms = nil
+FPoseDriverTarget.TargetRotation = nil
+FPoseDriverTarget.TargetScale = nil
+FPoseDriverTarget.DistanceMethod = nil
+FPoseDriverTarget.FunctionType = nil
+FPoseDriverTarget.bApplyCustomCurve = nil
+FPoseDriverTarget.CustomCurve = nil
+FPoseDriverTarget.DrivenName = nil
+FPoseDriverTarget.bIsHidden = nil

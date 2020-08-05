@@ -1,0 +1,1 @@
+UShaderPlatformQualitySettings = {} ---@type UObject

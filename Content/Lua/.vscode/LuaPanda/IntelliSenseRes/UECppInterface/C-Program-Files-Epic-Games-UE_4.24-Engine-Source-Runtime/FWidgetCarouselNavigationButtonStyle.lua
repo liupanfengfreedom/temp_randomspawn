@@ -1,0 +1,4 @@
+FWidgetCarouselNavigationButtonStyle = {}
+FWidgetCarouselNavigationButtonStyle.InnerButtonStyle = nil
+FWidgetCarouselNavigationButtonStyle.NavigationButtonLeftImage = nil
+FWidgetCarouselNavigationButtonStyle.NavigationButtonRightImage = nil

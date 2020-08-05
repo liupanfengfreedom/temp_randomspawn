@@ -1,0 +1,17 @@
+FTextureLODGroup = {}
+FTextureLODGroup.Group = nil
+FTextureLODGroup.LODBias = nil
+FTextureLODGroup.LODBias_Smaller = nil
+FTextureLODGroup.LODBias_Smallest = nil
+FTextureLODGroup.NumStreamedMips = nil
+FTextureLODGroup.MipGenSettings = nil
+FTextureLODGroup.MinLODSize = nil
+FTextureLODGroup.MaxLODSize = nil
+FTextureLODGroup.MaxLODSize_Smaller = nil
+FTextureLODGroup.MaxLODSize_Smallest = nil
+FTextureLODGroup.OptionalLODBias = nil
+FTextureLODGroup.OptionalMaxLODSize = nil
+FTextureLODGroup.MinMagFilter = nil
+FTextureLODGroup.MipFilter = nil
+FTextureLODGroup.MipLoadOptions = nil
+FTextureLODGroup.DuplicateNonOptionalMips = nil

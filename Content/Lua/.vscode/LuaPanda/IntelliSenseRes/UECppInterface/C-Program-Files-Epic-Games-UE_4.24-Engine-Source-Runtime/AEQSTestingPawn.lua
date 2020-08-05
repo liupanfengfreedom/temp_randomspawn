@@ -1,0 +1,15 @@
+AEQSTestingPawn = {} ---@type ACharacter
+AEQSTestingPawn.QueryTemplate = nil
+AEQSTestingPawn.QueryParams = nil
+AEQSTestingPawn.QueryConfig = nil
+AEQSTestingPawn.TimeLimitPerStep = nil
+AEQSTestingPawn.StepToDebugDraw = nil
+AEQSTestingPawn.HighlightMode = nil
+AEQSTestingPawn.bDrawLabels = nil
+AEQSTestingPawn.bDrawFailedItems = nil
+AEQSTestingPawn.bReRunQueryOnlyOnFinishedMove = nil
+AEQSTestingPawn.bShouldBeVisibleInGame = nil
+AEQSTestingPawn.bTickDuringGame = nil
+AEQSTestingPawn.QueryingMode = nil
+AEQSTestingPawn.NavAgentProperties = nil
+AEQSTestingPawn.EdRenderComp = nil

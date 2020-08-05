@@ -1,0 +1,9 @@
+FSearchBoxStyle = {}
+FSearchBoxStyle.TextBoxStyle = nil
+FSearchBoxStyle.ActiveFontInfo = nil
+FSearchBoxStyle.UpArrowImage = nil
+FSearchBoxStyle.DownArrowImage = nil
+FSearchBoxStyle.GlassImage = nil
+FSearchBoxStyle.ClearImage = nil
+FSearchBoxStyle.ImagePadding = nil
+FSearchBoxStyle.bLeftAlignButtons = nil

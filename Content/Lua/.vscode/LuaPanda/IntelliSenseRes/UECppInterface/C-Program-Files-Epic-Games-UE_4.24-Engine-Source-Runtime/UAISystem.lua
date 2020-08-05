@@ -1,0 +1,21 @@
+UAISystem = {} ---@type UAISystemBase
+UAISystem.PerceptionSystemClassName = nil
+UAISystem.HotSpotManagerClassName = nil
+UAISystem.AcceptanceRadius = nil
+UAISystem.PathfollowingRegularPathPointAcceptanceRadius = nil
+UAISystem.PathfollowingNavLinkAcceptanceRadius = nil
+UAISystem.bFinishMoveOnGoalOverlap = nil
+UAISystem.bAcceptPartialPaths = nil
+UAISystem.bAllowStrafing = nil
+UAISystem.bEnableBTAITasks = nil
+UAISystem.bAllowControllersAsEQSQuerier = nil
+UAISystem.bEnableDebuggerPlugin = nil
+UAISystem.DefaultSightCollisionChannel = nil
+UAISystem.BehaviorTreeManager = nil
+UAISystem.EnvironmentQueryManager = nil
+UAISystem.PerceptionSystem = nil
+UAISystem.AllProxyObjects = nil
+UAISystem.HotSpotManager = nil
+UAISystem.NavLocalGrids = nil
+function UAISystem.AIIgnorePlayers() end
+function UAISystem.AILoggingVerbose() end

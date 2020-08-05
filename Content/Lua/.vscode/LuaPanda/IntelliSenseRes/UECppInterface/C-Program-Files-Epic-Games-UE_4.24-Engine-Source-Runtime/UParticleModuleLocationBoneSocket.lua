@@ -1,0 +1,12 @@
+UParticleModuleLocationBoneSocket = {} ---@type UParticleModuleLocationBase
+UParticleModuleLocationBoneSocket.SourceType = nil
+UParticleModuleLocationBoneSocket.UniversalOffset = nil
+UParticleModuleLocationBoneSocket.SourceLocations = nil
+UParticleModuleLocationBoneSocket.SelectionMethod = nil
+UParticleModuleLocationBoneSocket.bUpdatePositionEachFrame = nil
+UParticleModuleLocationBoneSocket.bOrientMeshEmitters = nil
+UParticleModuleLocationBoneSocket.bInheritBoneVelocity = nil
+UParticleModuleLocationBoneSocket.InheritVelocityScale = nil
+UParticleModuleLocationBoneSocket.SkelMeshActorParamName = nil
+UParticleModuleLocationBoneSocket.NumPreSelectedIndices = nil
+UParticleModuleLocationBoneSocket.EditorSkelMesh = nil

@@ -1,0 +1,15 @@
+EMaterialExposedViewProperty = {}
+EMaterialExposedViewProperty.MEVP_BufferSize = nil
+EMaterialExposedViewProperty.MEVP_FieldOfView = nil
+EMaterialExposedViewProperty.MEVP_TanHalfFieldOfView = nil
+EMaterialExposedViewProperty.MEVP_ViewSize = nil
+EMaterialExposedViewProperty.MEVP_WorldSpaceViewPosition = nil
+EMaterialExposedViewProperty.MEVP_WorldSpaceCameraPosition = nil
+EMaterialExposedViewProperty.MEVP_ViewportOffset = nil
+EMaterialExposedViewProperty.MEVP_TemporalSampleCount = nil
+EMaterialExposedViewProperty.MEVP_TemporalSampleIndex = nil
+EMaterialExposedViewProperty.MEVP_TemporalSampleOffset = nil
+EMaterialExposedViewProperty.MEVP_RuntimeVirtualTextureOutputLevel = nil
+EMaterialExposedViewProperty.MEVP_RuntimeVirtualTextureOutputDerivative = nil
+EMaterialExposedViewProperty.MEVP_PreExposure = nil
+EMaterialExposedViewProperty.MEVP_MAX = nil

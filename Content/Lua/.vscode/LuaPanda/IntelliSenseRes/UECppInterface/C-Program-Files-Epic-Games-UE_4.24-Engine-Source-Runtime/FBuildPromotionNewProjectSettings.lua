@@ -1,0 +1,3 @@
+FBuildPromotionNewProjectSettings = {}
+FBuildPromotionNewProjectSettings.NewProjectFolderOverride = nil
+FBuildPromotionNewProjectSettings.NewProjectNameOverride = nil

@@ -1,0 +1,1 @@
+ULiveLinkCameraRole = {} ---@type ULiveLinkTransformRole

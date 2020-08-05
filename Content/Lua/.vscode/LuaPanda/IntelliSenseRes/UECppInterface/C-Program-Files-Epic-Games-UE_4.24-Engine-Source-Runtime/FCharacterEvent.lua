@@ -1,0 +1,1 @@
+FCharacterEvent = {}

@@ -1,0 +1,12 @@
+UHierarchicalInstancedStaticMeshComponent = {} ---@type UInstancedStaticMeshComponent
+UHierarchicalInstancedStaticMeshComponent.SortedInstances = nil
+UHierarchicalInstancedStaticMeshComponent.NumBuiltInstances = nil
+UHierarchicalInstancedStaticMeshComponent.BuiltInstanceBounds = nil
+UHierarchicalInstancedStaticMeshComponent.UnbuiltInstanceBounds = nil
+UHierarchicalInstancedStaticMeshComponent.UnbuiltInstanceBoundsList = nil
+UHierarchicalInstancedStaticMeshComponent.bEnableDensityScaling = nil
+UHierarchicalInstancedStaticMeshComponent.OcclusionLayerNumNodes = nil
+UHierarchicalInstancedStaticMeshComponent.CacheMeshExtendedBounds = nil
+UHierarchicalInstancedStaticMeshComponent.bDisableCollision = nil
+UHierarchicalInstancedStaticMeshComponent.InstanceCountToRender = nil
+function UHierarchicalInstancedStaticMeshComponent.RemoveInstances(InstancesToRemove) end

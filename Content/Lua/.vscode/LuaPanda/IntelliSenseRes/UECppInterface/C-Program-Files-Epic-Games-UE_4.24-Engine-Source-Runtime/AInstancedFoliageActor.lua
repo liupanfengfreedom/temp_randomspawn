@@ -1,0 +1,1 @@
+AInstancedFoliageActor = {} ---@type AActor

@@ -1,0 +1,17 @@
+UInterpTrack = {} ---@type UObject
+UInterpTrack.SubTracks = nil
+UInterpTrack.SubTrackGroups = nil
+UInterpTrack.SupportedSubTracks = nil
+UInterpTrack.TrackInstClass = nil
+UInterpTrack.ActiveCondition = nil
+UInterpTrack.TrackTitle = nil
+UInterpTrack.bOnePerGroup = nil
+UInterpTrack.bDirGroupOnly = nil
+UInterpTrack.bDisableTrack = nil
+UInterpTrack.bIsSelected = nil
+UInterpTrack.TrackIcon = nil
+UInterpTrack.bIsAnimControlTrack = nil
+UInterpTrack.bSubTrackOnly = nil
+UInterpTrack.bVisible = nil
+UInterpTrack.bIsRecording = nil
+UInterpTrack.bIsCollapsed = nil

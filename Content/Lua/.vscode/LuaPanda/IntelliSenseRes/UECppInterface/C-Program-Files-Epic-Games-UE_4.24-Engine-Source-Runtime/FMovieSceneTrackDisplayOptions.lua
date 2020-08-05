@@ -1,0 +1,2 @@
+FMovieSceneTrackDisplayOptions = {}
+FMovieSceneTrackDisplayOptions.bShowVerticalFrames = nil

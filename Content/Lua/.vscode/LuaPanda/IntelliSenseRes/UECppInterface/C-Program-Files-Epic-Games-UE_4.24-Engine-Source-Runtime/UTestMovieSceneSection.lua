@@ -1,0 +1,1 @@
+UTestMovieSceneSection = {} ---@type UMovieSceneSection

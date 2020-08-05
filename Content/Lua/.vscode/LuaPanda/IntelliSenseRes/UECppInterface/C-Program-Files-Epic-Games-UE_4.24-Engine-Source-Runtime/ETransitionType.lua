@@ -1,0 +1,9 @@
+ETransitionType = {}
+ETransitionType.None = nil
+ETransitionType.Paused = nil
+ETransitionType.Loading = nil
+ETransitionType.Saving = nil
+ETransitionType.Connecting = nil
+ETransitionType.Precaching = nil
+ETransitionType.WaitingToConnect = nil
+ETransitionType.MAX = nil

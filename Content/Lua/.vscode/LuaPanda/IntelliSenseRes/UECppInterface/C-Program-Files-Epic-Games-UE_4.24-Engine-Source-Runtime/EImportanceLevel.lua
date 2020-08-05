@@ -1,0 +1,9 @@
+EImportanceLevel = {}
+EImportanceLevel.IL_Off = nil
+EImportanceLevel.IL_Lowest = nil
+EImportanceLevel.IL_Low = nil
+EImportanceLevel.IL_Normal = nil
+EImportanceLevel.IL_High = nil
+EImportanceLevel.IL_Highest = nil
+EImportanceLevel.TEMP_BROKEN2 = nil
+EImportanceLevel.EImportanceLevel_MAX = nil

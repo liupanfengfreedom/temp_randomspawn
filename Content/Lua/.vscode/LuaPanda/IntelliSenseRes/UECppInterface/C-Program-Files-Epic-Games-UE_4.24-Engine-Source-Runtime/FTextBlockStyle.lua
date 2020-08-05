@@ -1,0 +1,10 @@
+FTextBlockStyle = {}
+FTextBlockStyle.Font = nil
+FTextBlockStyle.ColorAndOpacity = nil
+FTextBlockStyle.ShadowOffset = nil
+FTextBlockStyle.ShadowColorAndOpacity = nil
+FTextBlockStyle.SelectedBackgroundColor = nil
+FTextBlockStyle.HighlightColor = nil
+FTextBlockStyle.HighlightShape = nil
+FTextBlockStyle.StrikeBrush = nil
+FTextBlockStyle.UnderlineBrush = nil

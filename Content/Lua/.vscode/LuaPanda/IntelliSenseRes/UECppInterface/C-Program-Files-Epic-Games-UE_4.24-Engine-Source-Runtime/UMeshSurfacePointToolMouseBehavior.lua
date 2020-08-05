@@ -1,0 +1,1 @@
+UMeshSurfacePointToolMouseBehavior = {} ---@type UAnyButtonInputBehavior

@@ -1,0 +1,10 @@
+UMaterialExpressionMaterialAttributeLayers = {} ---@type UMaterialExpression
+UMaterialExpressionMaterialAttributeLayers.ParameterName = nil
+UMaterialExpressionMaterialAttributeLayers.ExpressionGUID = nil
+UMaterialExpressionMaterialAttributeLayers.Input = nil
+UMaterialExpressionMaterialAttributeLayers.DefaultLayers = nil
+UMaterialExpressionMaterialAttributeLayers.LayerCallers = nil
+UMaterialExpressionMaterialAttributeLayers.NumActiveLayerCallers = nil
+UMaterialExpressionMaterialAttributeLayers.BlendCallers = nil
+UMaterialExpressionMaterialAttributeLayers.NumActiveBlendCallers = nil
+UMaterialExpressionMaterialAttributeLayers.bIsLayerGraphBuilt = nil

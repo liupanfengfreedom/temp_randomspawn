@@ -1,0 +1,2 @@
+FLevelSequenceBindingReferenceArray = {}
+FLevelSequenceBindingReferenceArray.References = nil

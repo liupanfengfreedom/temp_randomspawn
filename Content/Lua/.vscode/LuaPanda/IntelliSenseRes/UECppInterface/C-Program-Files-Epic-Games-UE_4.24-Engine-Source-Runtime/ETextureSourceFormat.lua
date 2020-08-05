@@ -1,0 +1,11 @@
+ETextureSourceFormat = {}
+ETextureSourceFormat.TSF_Invalid = nil
+ETextureSourceFormat.TSF_G8 = nil
+ETextureSourceFormat.TSF_BGRA8 = nil
+ETextureSourceFormat.TSF_BGRE8 = nil
+ETextureSourceFormat.TSF_RGBA16 = nil
+ETextureSourceFormat.TSF_RGBA16F = nil
+ETextureSourceFormat.TSF_RGBA8 = nil
+ETextureSourceFormat.TSF_RGBE8 = nil
+ETextureSourceFormat.TSF_G16 = nil
+ETextureSourceFormat.TSF_MAX = nil

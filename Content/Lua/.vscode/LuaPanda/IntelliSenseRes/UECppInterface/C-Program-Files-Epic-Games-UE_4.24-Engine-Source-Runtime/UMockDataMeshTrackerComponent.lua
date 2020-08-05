@@ -1,0 +1,13 @@
+UMockDataMeshTrackerComponent = {} ---@type USceneComponent
+UMockDataMeshTrackerComponent.OnMeshTrackerUpdated = nil
+UMockDataMeshTrackerComponent.ScanWorld = nil
+UMockDataMeshTrackerComponent.RequestNormals = nil
+UMockDataMeshTrackerComponent.RequestVertexConfidence = nil
+UMockDataMeshTrackerComponent.VertexColorMode = nil
+UMockDataMeshTrackerComponent.BlockVertexColors = nil
+UMockDataMeshTrackerComponent.VertexColorFromConfidenceZero = nil
+UMockDataMeshTrackerComponent.VertexColorFromConfidenceOne = nil
+UMockDataMeshTrackerComponent.UpdateInterval = nil
+UMockDataMeshTrackerComponent.MRMesh = nil
+function UMockDataMeshTrackerComponent.ConnectMRMesh(InMRMeshPtr) end
+function UMockDataMeshTrackerComponent.DisconnectMRMesh(InMRMeshPtr) end

@@ -1,0 +1,2 @@
+FTransformBaseConstraint = {}
+FTransformBaseConstraint.TransformConstraints = nil

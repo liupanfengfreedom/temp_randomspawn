@@ -1,0 +1,10 @@
+UAnimCompress = {} ---@type UObject
+UAnimCompress.Description = nil
+UAnimCompress.bNeedsSkeleton = nil
+UAnimCompress.bEnableSegmenting = nil
+UAnimCompress.IdealNumFramesPerSegment = nil
+UAnimCompress.MaxNumFramesPerSegment = nil
+UAnimCompress.TranslationCompressionFormat = nil
+UAnimCompress.RotationCompressionFormat = nil
+UAnimCompress.ScaleCompressionFormat = nil
+UAnimCompress.MaxCurveError = nil

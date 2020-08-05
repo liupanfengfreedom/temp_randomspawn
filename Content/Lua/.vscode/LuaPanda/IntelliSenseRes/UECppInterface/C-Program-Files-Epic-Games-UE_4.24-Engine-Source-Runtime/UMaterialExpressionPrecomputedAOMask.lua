@@ -1,0 +1,1 @@
+UMaterialExpressionPrecomputedAOMask = {} ---@type UMaterialExpression

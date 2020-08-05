@@ -1,0 +1,29 @@
+USynthComponent = {} ---@type USceneComponent
+USynthComponent.bAutoDestroy = nil
+USynthComponent.bStopWhenOwnerDestroyed = nil
+USynthComponent.bAllowSpatialization = nil
+USynthComponent.bOverrideAttenuation = nil
+USynthComponent.bOutputToBusOnly = nil
+USynthComponent.AttenuationSettings = nil
+USynthComponent.AttenuationOverrides = nil
+USynthComponent.ConcurrencySettings_DEPRECATED = nil
+USynthComponent.ConcurrencySet = nil
+USynthComponent.SoundClass = nil
+USynthComponent.SourceEffectChain = nil
+USynthComponent.SoundSubmix = nil
+USynthComponent.SoundSubmixSends = nil
+USynthComponent.BusSends = nil
+USynthComponent.Modulation = nil
+USynthComponent.PreEffectBusSends = nil
+USynthComponent.bIsUISound = nil
+USynthComponent.bIsPreviewSound = nil
+USynthComponent.EnvelopeFollowerAttackTime = nil
+USynthComponent.EnvelopeFollowerReleaseTime = nil
+USynthComponent.OnAudioEnvelopeValue = nil
+USynthComponent.Synth = nil
+USynthComponent.AudioComponent = nil
+function USynthComponent.Start() end
+function USynthComponent.Stop() end
+function USynthComponent.IsPlaying() end
+function USynthComponent.SetVolumeMultiplier(VolumeMultiplier) end
+function USynthComponent.SetSubmixSend(Submix, SendLevel) end

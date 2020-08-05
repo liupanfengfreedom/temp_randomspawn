@@ -1,0 +1,2 @@
+FNamedNetDriver = {}
+FNamedNetDriver.NetDriver = nil

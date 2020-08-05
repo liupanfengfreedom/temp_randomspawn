@@ -1,0 +1,16 @@
+FEdGraphSchemaAction = {}
+FEdGraphSchemaAction.MenuDescription = nil
+FEdGraphSchemaAction.TooltipDescription = nil
+FEdGraphSchemaAction.Category = nil
+FEdGraphSchemaAction.Keywords = nil
+FEdGraphSchemaAction.Grouping = nil
+FEdGraphSchemaAction.SectionID = nil
+FEdGraphSchemaAction.MenuDescriptionArray = nil
+FEdGraphSchemaAction.FullSearchTitlesArray = nil
+FEdGraphSchemaAction.FullSearchKeywordsArray = nil
+FEdGraphSchemaAction.FullSearchCategoryArray = nil
+FEdGraphSchemaAction.LocalizedMenuDescriptionArray = nil
+FEdGraphSchemaAction.LocalizedFullSearchTitlesArray = nil
+FEdGraphSchemaAction.LocalizedFullSearchKeywordsArray = nil
+FEdGraphSchemaAction.LocalizedFullSearchCategoryArray = nil
+FEdGraphSchemaAction.SearchText = nil

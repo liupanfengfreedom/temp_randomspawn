@@ -1,0 +1,13 @@
+FHierarchicalSimplification = {}
+FHierarchicalSimplification.TransitionScreenSize = nil
+FHierarchicalSimplification.OverrideDrawDistance = nil
+FHierarchicalSimplification.bUseOverrideDrawDistance = nil
+FHierarchicalSimplification.bAllowSpecificExclusion = nil
+FHierarchicalSimplification.bSimplifyMesh = nil
+FHierarchicalSimplification.bOnlyGenerateClustersForVolumes = nil
+FHierarchicalSimplification.bReusePreviousLevelClusters = nil
+FHierarchicalSimplification.ProxySetting = nil
+FHierarchicalSimplification.MergeSetting = nil
+FHierarchicalSimplification.DesiredBoundRadius = nil
+FHierarchicalSimplification.DesiredFillingPercentage = nil
+FHierarchicalSimplification.MinNumberOfActorsToBuild = nil

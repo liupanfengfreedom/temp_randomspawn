@@ -1,0 +1,10 @@
+UMaterialExpressionSpeedTree = {} ---@type UMaterialExpression
+UMaterialExpressionSpeedTree.GeometryInput = nil
+UMaterialExpressionSpeedTree.WindInput = nil
+UMaterialExpressionSpeedTree.LODInput = nil
+UMaterialExpressionSpeedTree.ExtraBendWS = nil
+UMaterialExpressionSpeedTree.GeometryType = nil
+UMaterialExpressionSpeedTree.WindType = nil
+UMaterialExpressionSpeedTree.LODType = nil
+UMaterialExpressionSpeedTree.BillboardThreshold = nil
+UMaterialExpressionSpeedTree.bAccurateWindVelocities = nil

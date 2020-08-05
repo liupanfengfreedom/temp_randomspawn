@@ -1,0 +1,9 @@
+FSkeletalMeshClothBuildParams = {}
+FSkeletalMeshClothBuildParams.TargetAsset = nil
+FSkeletalMeshClothBuildParams.TargetLod = nil
+FSkeletalMeshClothBuildParams.bRemapParameters = nil
+FSkeletalMeshClothBuildParams.AssetName = nil
+FSkeletalMeshClothBuildParams.LodIndex = nil
+FSkeletalMeshClothBuildParams.SourceSection = nil
+FSkeletalMeshClothBuildParams.bRemoveFromMesh = nil
+FSkeletalMeshClothBuildParams.PhysicsAsset = nil

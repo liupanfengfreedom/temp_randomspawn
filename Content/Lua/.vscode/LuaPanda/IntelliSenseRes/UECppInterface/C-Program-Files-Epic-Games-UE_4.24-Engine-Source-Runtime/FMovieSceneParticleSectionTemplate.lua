@@ -1,0 +1,2 @@
+FMovieSceneParticleSectionTemplate = {}
+FMovieSceneParticleSectionTemplate.ParticleKeys = nil

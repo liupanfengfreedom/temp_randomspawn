@@ -1,0 +1,11 @@
+FFriendsFontStyle = {}
+FFriendsFontStyle.FriendsFontSmall = nil
+FFriendsFontStyle.FriendsFontSmallBold = nil
+FFriendsFontStyle.FriendsFontNormal = nil
+FFriendsFontStyle.FriendsFontNormalBold = nil
+FFriendsFontStyle.FriendsFontLarge = nil
+FFriendsFontStyle.FriendsFontLargeBold = nil
+FFriendsFontStyle.FriendsChatFont = nil
+FFriendsFontStyle.DefaultFontColor = nil
+FFriendsFontStyle.InvertedFontColor = nil
+FFriendsFontStyle.DefaultDullFontColor = nil

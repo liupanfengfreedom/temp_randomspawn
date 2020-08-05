@@ -1,0 +1,6 @@
+FoliageVertexColorMask = {}
+FoliageVertexColorMask.FOLIAGEVERTEXCOLORMASK_Disabled = nil
+FoliageVertexColorMask.FOLIAGEVERTEXCOLORMASK_Red = nil
+FoliageVertexColorMask.FOLIAGEVERTEXCOLORMASK_Green = nil
+FoliageVertexColorMask.FOLIAGEVERTEXCOLORMASK_Blue = nil
+FoliageVertexColorMask.FOLIAGEVERTEXCOLORMASK_Alpha = nil

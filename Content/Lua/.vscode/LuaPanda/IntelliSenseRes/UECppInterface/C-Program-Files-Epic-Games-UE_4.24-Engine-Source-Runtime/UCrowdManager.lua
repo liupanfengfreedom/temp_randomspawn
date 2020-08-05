@@ -1,0 +1,13 @@
+UCrowdManager = {} ---@type UCrowdManagerBase
+UCrowdManager.MyNavData = nil
+UCrowdManager.AvoidanceConfig = nil
+UCrowdManager.SamplingPatterns = nil
+UCrowdManager.MaxAgents = nil
+UCrowdManager.MaxAgentRadius = nil
+UCrowdManager.MaxAvoidedAgents = nil
+UCrowdManager.MaxAvoidedWalls = nil
+UCrowdManager.NavmeshCheckInterval = nil
+UCrowdManager.PathOptimizationInterval = nil
+UCrowdManager.SeparationDirClamp = nil
+UCrowdManager.PathOffsetRadiusMultiplier = nil
+UCrowdManager.bResolveCollisions = nil

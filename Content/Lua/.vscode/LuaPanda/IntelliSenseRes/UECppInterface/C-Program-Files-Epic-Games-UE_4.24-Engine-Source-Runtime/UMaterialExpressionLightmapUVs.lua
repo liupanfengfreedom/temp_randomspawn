@@ -1,0 +1,1 @@
+UMaterialExpressionLightmapUVs = {} ---@type UMaterialExpression

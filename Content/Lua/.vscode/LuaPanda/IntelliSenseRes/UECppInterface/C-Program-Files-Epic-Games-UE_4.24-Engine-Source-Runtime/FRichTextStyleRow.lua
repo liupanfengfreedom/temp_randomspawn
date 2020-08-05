@@ -1,0 +1,2 @@
+FRichTextStyleRow = {}
+FRichTextStyleRow.TextStyle = nil

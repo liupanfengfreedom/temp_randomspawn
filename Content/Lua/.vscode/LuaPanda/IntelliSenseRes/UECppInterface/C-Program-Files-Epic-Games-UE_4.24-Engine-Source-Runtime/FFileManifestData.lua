@@ -1,0 +1,9 @@
+FFileManifestData = {}
+FFileManifestData.Filename = nil
+FFileManifestData.FileHash = nil
+FFileManifestData.FileChunkParts = nil
+FFileManifestData.InstallTags = nil
+FFileManifestData.bIsUnixExecutable = nil
+FFileManifestData.SymlinkTarget = nil
+FFileManifestData.bIsReadOnly = nil
+FFileManifestData.bIsCompressed = nil

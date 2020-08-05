@@ -1,0 +1,2 @@
+FAIMoveRequest = {}
+FAIMoveRequest.GoalActor = nil

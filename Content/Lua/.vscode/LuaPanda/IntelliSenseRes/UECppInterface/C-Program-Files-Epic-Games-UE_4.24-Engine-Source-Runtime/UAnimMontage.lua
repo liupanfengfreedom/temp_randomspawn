@@ -1,0 +1,21 @@
+UAnimMontage = {} ---@type UAnimCompositeBase
+UAnimMontage.BlendInTime_DEPRECATED = nil
+UAnimMontage.BlendOut = nil
+UAnimMontage.BlendOutTime_DEPRECATED = nil
+UAnimMontage.BlendOutTriggerTime = nil
+UAnimMontage.SyncGroup = nil
+UAnimMontage.SyncSlotIndex = nil
+UAnimMontage.MarkerData = nil
+UAnimMontage.CompositeSections = nil
+UAnimMontage.SlotAnimTracks = nil
+UAnimMontage.BranchingPoints_DEPRECATED = nil
+UAnimMontage.bEnableRootMotionTranslation = nil
+UAnimMontage.bEnableRootMotionRotation = nil
+UAnimMontage.bEnableAutoBlendOut = nil
+UAnimMontage.RootMotionRootLock = nil
+UAnimMontage.PreviewBasePose = nil
+UAnimMontage.BranchingPointMarkers = nil
+UAnimMontage.BranchingPointStateNotifyIndices = nil
+UAnimMontage.TimeStretchCurve = nil
+UAnimMontage.TimeStretchCurveName = nil
+function UAnimMontage.GetDefaultBlendOutTime() end

@@ -1,0 +1,2 @@
+FAutomationWorkerRequestTestsReplyComplete = {}
+FAutomationWorkerRequestTestsReplyComplete.Tests = nil

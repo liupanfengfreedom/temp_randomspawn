@@ -1,0 +1,10 @@
+FCurveEdEntry = {}
+FCurveEdEntry.CurveObject = nil
+FCurveEdEntry.CurveColor = nil
+FCurveEdEntry.CurveName = nil
+FCurveEdEntry.bHideCurve = nil
+FCurveEdEntry.bColorCurve = nil
+FCurveEdEntry.bFloatingPointColorCurve = nil
+FCurveEdEntry.bClamp = nil
+FCurveEdEntry.ClampLow = nil
+FCurveEdEntry.ClampHigh = nil

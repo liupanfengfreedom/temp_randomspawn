@@ -1,0 +1,7 @@
+UMaterialExpressionRuntimeVirtualTextureOutput = {} ---@type UMaterialExpressionCustomOutput
+UMaterialExpressionRuntimeVirtualTextureOutput.BaseColor = nil
+UMaterialExpressionRuntimeVirtualTextureOutput.Specular = nil
+UMaterialExpressionRuntimeVirtualTextureOutput.Roughness = nil
+UMaterialExpressionRuntimeVirtualTextureOutput.Normal = nil
+UMaterialExpressionRuntimeVirtualTextureOutput.WorldHeight = nil
+UMaterialExpressionRuntimeVirtualTextureOutput.Opacity = nil

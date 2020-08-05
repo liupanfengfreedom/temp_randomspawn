@@ -1,0 +1,2 @@
+FUniqueNetIdRepl = {}
+FUniqueNetIdRepl.ReplicationBytes = nil

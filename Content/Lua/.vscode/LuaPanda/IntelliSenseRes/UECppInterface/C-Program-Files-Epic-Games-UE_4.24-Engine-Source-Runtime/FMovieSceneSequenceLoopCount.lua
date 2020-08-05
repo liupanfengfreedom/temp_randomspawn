@@ -1,0 +1,2 @@
+FMovieSceneSequenceLoopCount = {}
+FMovieSceneSequenceLoopCount.Value = nil

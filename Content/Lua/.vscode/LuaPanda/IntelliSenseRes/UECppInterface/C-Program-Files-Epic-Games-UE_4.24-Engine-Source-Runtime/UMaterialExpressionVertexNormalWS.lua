@@ -1,0 +1,1 @@
+UMaterialExpressionVertexNormalWS = {} ---@type UMaterialExpression

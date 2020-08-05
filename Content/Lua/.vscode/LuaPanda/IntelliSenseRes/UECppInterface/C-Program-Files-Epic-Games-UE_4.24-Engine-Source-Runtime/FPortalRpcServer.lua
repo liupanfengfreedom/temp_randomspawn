@@ -1,0 +1,2 @@
+FPortalRpcServer = {}
+FPortalRpcServer.ServerAddress = nil

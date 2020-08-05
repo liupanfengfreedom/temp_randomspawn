@@ -1,0 +1,4 @@
+FMovieSceneTemplateGenerationLedger = {}
+FMovieSceneTemplateGenerationLedger.LastTrackIdentifier = nil
+FMovieSceneTemplateGenerationLedger.TrackSignatureToTrackIdentifier = nil
+FMovieSceneTemplateGenerationLedger.SubSectionRanges = nil

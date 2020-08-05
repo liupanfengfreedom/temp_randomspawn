@@ -1,0 +1,1 @@
+USmokeTestCommandlet = {} ---@type UCommandlet

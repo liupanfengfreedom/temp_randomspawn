@@ -1,0 +1,1 @@
+ULiveLinkLightRole = {} ---@type ULiveLinkTransformRole

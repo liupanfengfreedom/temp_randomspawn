@@ -1,0 +1,5 @@
+FPlatformRuntimeAudioCompressionOverrides = {}
+FPlatformRuntimeAudioCompressionOverrides.bOverrideCompressionTimes = nil
+FPlatformRuntimeAudioCompressionOverrides.DurationThreshold = nil
+FPlatformRuntimeAudioCompressionOverrides.MaxNumRandomBranches = nil
+FPlatformRuntimeAudioCompressionOverrides.SoundCueQualityIndex = nil

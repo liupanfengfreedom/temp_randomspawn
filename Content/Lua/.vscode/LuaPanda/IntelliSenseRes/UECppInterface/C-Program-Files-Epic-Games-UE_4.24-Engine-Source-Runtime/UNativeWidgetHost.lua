@@ -1,0 +1,1 @@
+UNativeWidgetHost = {} ---@type UWidget

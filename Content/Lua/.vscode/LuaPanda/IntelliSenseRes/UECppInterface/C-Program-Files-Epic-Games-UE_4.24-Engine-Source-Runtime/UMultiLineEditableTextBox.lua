@@ -1,0 +1,24 @@
+UMultiLineEditableTextBox = {} ---@type UTextLayoutWidget
+UMultiLineEditableTextBox.Text = nil
+UMultiLineEditableTextBox.HintText = nil
+UMultiLineEditableTextBox.HintTextDelegate = nil
+UMultiLineEditableTextBox.WidgetStyle = nil
+UMultiLineEditableTextBox.TextStyle = nil
+UMultiLineEditableTextBox.bIsReadOnly = nil
+UMultiLineEditableTextBox.AllowContextMenu = nil
+UMultiLineEditableTextBox.VirtualKeyboardOptions = nil
+UMultiLineEditableTextBox.VirtualKeyboardDismissAction = nil
+UMultiLineEditableTextBox.Style_DEPRECATED = nil
+UMultiLineEditableTextBox.Font_DEPRECATED = nil
+UMultiLineEditableTextBox.ForegroundColor_DEPRECATED = nil
+UMultiLineEditableTextBox.BackgroundColor_DEPRECATED = nil
+UMultiLineEditableTextBox.ReadOnlyForegroundColor_DEPRECATED = nil
+UMultiLineEditableTextBox.OnTextChanged = nil
+UMultiLineEditableTextBox.OnTextCommitted = nil
+function UMultiLineEditableTextBox.GetText() end
+function UMultiLineEditableTextBox.SetText(InText) end
+function UMultiLineEditableTextBox.GetHintText() end
+function UMultiLineEditableTextBox.SetHintText(InHintText) end
+function UMultiLineEditableTextBox.SetError(InError) end
+function UMultiLineEditableTextBox.SetIsReadOnly(bReadOnly) end
+function UMultiLineEditableTextBox.SetTextStyle(InTextStyle) end

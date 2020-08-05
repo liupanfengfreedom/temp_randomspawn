@@ -1,0 +1,15 @@
+UAnimStreamable = {} ---@type UAnimSequenceBase
+UAnimStreamable.NumFrames = nil
+UAnimStreamable.Interpolation = nil
+UAnimStreamable.RetargetSource = nil
+UAnimStreamable.SourceSequence = nil
+UAnimStreamable.CompressionScheme = nil
+UAnimStreamable.RawDataGuid = nil
+UAnimStreamable.RawAnimationData = nil
+UAnimStreamable.TrackToSkeletonMapTable = nil
+UAnimStreamable.AnimationTrackNames = nil
+UAnimStreamable.CurveCompressionSettings = nil
+UAnimStreamable.bEnableRootMotion = nil
+UAnimStreamable.RootMotionRootLock = nil
+UAnimStreamable.bForceRootLock = nil
+UAnimStreamable.bUseNormalizedRootMotionScale = nil

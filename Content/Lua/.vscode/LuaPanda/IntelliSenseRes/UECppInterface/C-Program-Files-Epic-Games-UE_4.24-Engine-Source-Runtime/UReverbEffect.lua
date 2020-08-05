@@ -1,0 +1,14 @@
+UReverbEffect = {} ---@type UObject
+UReverbEffect.Density = nil
+UReverbEffect.Diffusion = nil
+UReverbEffect.Gain = nil
+UReverbEffect.GainHF = nil
+UReverbEffect.DecayTime = nil
+UReverbEffect.DecayHFRatio = nil
+UReverbEffect.ReflectionsGain = nil
+UReverbEffect.ReflectionsDelay = nil
+UReverbEffect.LateGain = nil
+UReverbEffect.LateDelay = nil
+UReverbEffect.AirAbsorptionGainHF = nil
+UReverbEffect.RoomRolloffFactor = nil
+UReverbEffect.bChanged = nil

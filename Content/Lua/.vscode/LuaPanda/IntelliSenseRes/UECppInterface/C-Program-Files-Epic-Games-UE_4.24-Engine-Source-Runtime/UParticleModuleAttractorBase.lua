@@ -1,0 +1,1 @@
+UParticleModuleAttractorBase = {} ---@type UParticleModule

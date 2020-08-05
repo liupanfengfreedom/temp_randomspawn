@@ -1,0 +1,2 @@
+FMovieSceneSkeletalAnimationSectionTemplate = {}
+FMovieSceneSkeletalAnimationSectionTemplate.Params = nil

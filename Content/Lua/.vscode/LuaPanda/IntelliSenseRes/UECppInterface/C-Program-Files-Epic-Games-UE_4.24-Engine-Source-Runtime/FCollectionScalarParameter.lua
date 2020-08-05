@@ -1,0 +1,2 @@
+FCollectionScalarParameter = {}
+FCollectionScalarParameter.DefaultValue = nil

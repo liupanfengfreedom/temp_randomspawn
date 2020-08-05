@@ -1,0 +1,1 @@
+UThumbnailInfo = {} ---@type UObject

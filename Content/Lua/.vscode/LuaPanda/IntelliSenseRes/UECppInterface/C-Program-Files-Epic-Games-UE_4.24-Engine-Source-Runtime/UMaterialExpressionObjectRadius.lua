@@ -1,0 +1,1 @@
+UMaterialExpressionObjectRadius = {} ---@type UMaterialExpression

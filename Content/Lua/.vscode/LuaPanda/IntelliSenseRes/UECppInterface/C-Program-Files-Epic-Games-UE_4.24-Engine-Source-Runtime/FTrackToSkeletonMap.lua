@@ -1,0 +1,2 @@
+FTrackToSkeletonMap = {}
+FTrackToSkeletonMap.BoneTreeIndex = nil

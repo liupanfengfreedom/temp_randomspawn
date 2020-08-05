@@ -1,0 +1,1 @@
+ATriggerCapsule = {} ---@type ATriggerBase

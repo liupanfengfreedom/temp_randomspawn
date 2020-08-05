@@ -1,0 +1,5 @@
+FPortalPackageInstallerUninstallRequest = {}
+FPortalPackageInstallerUninstallRequest.AppName = nil
+FPortalPackageInstallerUninstallRequest.BuildLabel = nil
+FPortalPackageInstallerUninstallRequest.InstallationPath = nil
+FPortalPackageInstallerUninstallRequest.RemoveUserFiles = nil

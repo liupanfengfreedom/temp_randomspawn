@@ -1,0 +1,1 @@
+ULiveLinkRole = {} ---@type UObject

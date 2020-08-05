@@ -1,0 +1,2 @@
+FTypeface = {}
+FTypeface.Fonts = nil

@@ -1,0 +1,1 @@
+UMaterialExpressionSkyAtmosphereDistantLightScatteredLuminance = {} ---@type UMaterialExpression

@@ -1,0 +1,1 @@
+UFrameGrabberProtocol = {} ---@type UMovieSceneImageCaptureProtocolBase

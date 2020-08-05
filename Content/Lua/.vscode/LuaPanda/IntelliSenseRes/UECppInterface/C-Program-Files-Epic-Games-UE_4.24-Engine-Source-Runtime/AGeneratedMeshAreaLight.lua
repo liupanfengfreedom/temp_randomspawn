@@ -1,0 +1,1 @@
+AGeneratedMeshAreaLight = {} ---@type ASpotLight

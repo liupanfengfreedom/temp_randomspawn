@@ -1,0 +1,1 @@
+UParticleModuleSubUVBase = {} ---@type UParticleModule

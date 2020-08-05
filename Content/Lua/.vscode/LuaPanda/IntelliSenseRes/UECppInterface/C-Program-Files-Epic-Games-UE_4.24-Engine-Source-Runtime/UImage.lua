@@ -1,0 +1,22 @@
+UImage = {} ---@type UWidget
+UImage.Image_DEPRECATED = nil
+UImage.Brush = nil
+UImage.BrushDelegate = nil
+UImage.ColorAndOpacity = nil
+UImage.ColorAndOpacityDelegate = nil
+UImage.bFlipForRightToLeftFlowDirection = nil
+UImage.OnMouseButtonDownEvent = nil
+function UImage.SetColorAndOpacity(InColorAndOpacity) end
+function UImage.SetOpacity(InOpacity) end
+function UImage.SetBrushSize(DesiredSize) end
+function UImage.SetBrushTintColor(TintColor) end
+function UImage.SetBrushResourceObject(ResourceObject) end
+function UImage.SetBrush(InBrush) end
+function UImage.SetBrushFromAsset(Asset) end
+function UImage.SetBrushFromTexture(Texture) end
+function UImage.SetBrushFromAtlasInterface(AtlasRegion) end
+function UImage.SetBrushFromTextureDynamic(Texture) end
+function UImage.SetBrushFromMaterial(Material) end
+function UImage.SetBrushFromSoftTexture(SoftTexture) end
+function UImage.SetBrushFromSoftMaterial(SoftMaterial) end
+function UImage.GetDynamicMaterial() end

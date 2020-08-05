@@ -1,0 +1,2 @@
+FBoundActorProxy = {}
+FBoundActorProxy.BoundActor = nil

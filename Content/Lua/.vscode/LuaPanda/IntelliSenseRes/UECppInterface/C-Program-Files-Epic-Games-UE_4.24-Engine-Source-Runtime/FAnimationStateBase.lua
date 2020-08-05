@@ -1,0 +1,2 @@
+FAnimationStateBase = {}
+FAnimationStateBase.StateName = nil

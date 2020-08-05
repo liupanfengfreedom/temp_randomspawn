@@ -1,0 +1,1 @@
+UMaterialExpressionEyeAdaptation = {} ---@type UMaterialExpression

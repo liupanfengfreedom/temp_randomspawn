@@ -1,0 +1,2 @@
+FAnimSetMeshLinkup = {}
+FAnimSetMeshLinkup.BoneToTrackTable = nil

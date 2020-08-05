@@ -1,0 +1,1 @@
+UEngineBaseTypes = {} ---@type UObject

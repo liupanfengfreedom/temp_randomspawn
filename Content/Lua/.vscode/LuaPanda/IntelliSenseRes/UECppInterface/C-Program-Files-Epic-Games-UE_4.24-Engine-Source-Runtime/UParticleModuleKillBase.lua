@@ -1,0 +1,1 @@
+UParticleModuleKillBase = {} ---@type UParticleModule

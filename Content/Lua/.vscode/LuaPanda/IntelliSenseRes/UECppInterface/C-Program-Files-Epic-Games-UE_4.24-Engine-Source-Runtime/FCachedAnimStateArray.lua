@@ -1,0 +1,2 @@
+FCachedAnimStateArray = {}
+FCachedAnimStateArray.States = nil

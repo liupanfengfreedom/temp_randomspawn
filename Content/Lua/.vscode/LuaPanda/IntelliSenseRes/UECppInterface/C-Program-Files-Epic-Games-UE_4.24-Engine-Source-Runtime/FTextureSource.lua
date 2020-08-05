@@ -1,0 +1,14 @@
+FTextureSource = {}
+FTextureSource.Id = nil
+FTextureSource.BaseBlockX = nil
+FTextureSource.BaseBlockY = nil
+FTextureSource.SizeX = nil
+FTextureSource.SizeY = nil
+FTextureSource.NumSlices = nil
+FTextureSource.NumMips = nil
+FTextureSource.NumLayers = nil
+FTextureSource.bPNGCompressed = nil
+FTextureSource.bGuidIsHash = nil
+FTextureSource.Format = nil
+FTextureSource.LayerFormat = nil
+FTextureSource.Blocks = nil

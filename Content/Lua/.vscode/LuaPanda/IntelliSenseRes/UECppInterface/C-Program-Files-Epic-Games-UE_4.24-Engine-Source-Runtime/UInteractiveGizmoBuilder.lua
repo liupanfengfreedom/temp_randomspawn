@@ -1,0 +1,1 @@
+UInteractiveGizmoBuilder = {} ---@type UObject

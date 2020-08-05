@@ -1,0 +1,10 @@
+FAnimMontageInstance = {}
+FAnimMontageInstance.bPlaying = nil
+FAnimMontageInstance.DefaultBlendTimeMultiplier = nil
+FAnimMontageInstance.NextSections = nil
+FAnimMontageInstance.PrevSections = nil
+FAnimMontageInstance.ActiveStateBranchingPoints = nil
+FAnimMontageInstance.Position = nil
+FAnimMontageInstance.PlayRate = nil
+FAnimMontageInstance.Blend = nil
+FAnimMontageInstance.DisableRootMotionCount = nil

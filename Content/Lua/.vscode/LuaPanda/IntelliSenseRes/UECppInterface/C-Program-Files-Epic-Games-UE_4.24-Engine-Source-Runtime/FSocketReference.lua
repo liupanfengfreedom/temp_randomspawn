@@ -1,0 +1,2 @@
+FSocketReference = {}
+FSocketReference.SocketName = nil

@@ -1,0 +1,2 @@
+FConstrainComponentPropName = {}
+FConstrainComponentPropName.ComponentName = nil

@@ -1,0 +1,1 @@
+UGameInstanceSubsystem = {} ---@type USubsystem

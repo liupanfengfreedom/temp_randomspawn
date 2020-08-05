@@ -1,0 +1,22 @@
+USpringArmComponent = {} ---@type USceneComponent
+USpringArmComponent.TargetArmLength = nil
+USpringArmComponent.SocketOffset = nil
+USpringArmComponent.TargetOffset = nil
+USpringArmComponent.ProbeSize = nil
+USpringArmComponent.ProbeChannel = nil
+USpringArmComponent.bDoCollisionTest = nil
+USpringArmComponent.bUsePawnControlRotation = nil
+USpringArmComponent.bInheritPitch = nil
+USpringArmComponent.bInheritYaw = nil
+USpringArmComponent.bInheritRoll = nil
+USpringArmComponent.bEnableCameraLag = nil
+USpringArmComponent.bEnableCameraRotationLag = nil
+USpringArmComponent.bUseCameraLagSubstepping = nil
+USpringArmComponent.bDrawDebugLagMarkers = nil
+USpringArmComponent.CameraLagSpeed = nil
+USpringArmComponent.CameraRotationLagSpeed = nil
+USpringArmComponent.CameraLagMaxTimeStep = nil
+USpringArmComponent.CameraLagMaxDistance = nil
+function USpringArmComponent.GetTargetRotation() end
+function USpringArmComponent.GetUnfixedCameraPosition() end
+function USpringArmComponent.IsCollisionFixApplied() end

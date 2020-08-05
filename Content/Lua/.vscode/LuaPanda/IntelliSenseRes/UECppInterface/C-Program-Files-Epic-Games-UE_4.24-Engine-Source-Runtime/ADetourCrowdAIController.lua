@@ -1,0 +1,1 @@
+ADetourCrowdAIController = {} ---@type AAIController

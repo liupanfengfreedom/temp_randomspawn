@@ -1,0 +1,1 @@
+UNavMeshRenderingComponent = {} ---@type UPrimitiveComponent

@@ -1,0 +1,1 @@
+AdemocppGameModeBase = {} ---@type ALuaGameModeBase

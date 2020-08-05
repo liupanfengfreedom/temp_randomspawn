@@ -1,0 +1,1 @@
+UInterpTrackInstFade = {} ---@type UInterpTrackInst

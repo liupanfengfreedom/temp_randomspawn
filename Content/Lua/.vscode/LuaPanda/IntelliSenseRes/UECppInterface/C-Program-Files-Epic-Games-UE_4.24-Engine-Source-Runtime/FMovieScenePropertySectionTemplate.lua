@@ -1,0 +1,2 @@
+FMovieScenePropertySectionTemplate = {}
+FMovieScenePropertySectionTemplate.PropertyData = nil

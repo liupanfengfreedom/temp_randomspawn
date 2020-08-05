@@ -1,0 +1,9 @@
+UEdGraph = {} ---@type UObject
+UEdGraph.Schema = nil
+UEdGraph.Nodes = nil
+UEdGraph.bEditable = nil
+UEdGraph.bAllowDeletion = nil
+UEdGraph.bAllowRenaming = nil
+UEdGraph.SubGraphs = nil
+UEdGraph.GraphGuid = nil
+UEdGraph.InterfaceGuid = nil

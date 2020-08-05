@@ -1,0 +1,9 @@
+EUINavigation = {}
+EUINavigation.Left = nil
+EUINavigation.Right = nil
+EUINavigation.Up = nil
+EUINavigation.Down = nil
+EUINavigation.Next = nil
+EUINavigation.Previous = nil
+EUINavigation.Num = nil
+EUINavigation.Invalid = nil

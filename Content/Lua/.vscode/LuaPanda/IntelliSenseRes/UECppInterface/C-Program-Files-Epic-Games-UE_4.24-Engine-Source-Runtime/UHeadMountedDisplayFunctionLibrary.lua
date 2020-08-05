@@ -1,0 +1,33 @@
+UHeadMountedDisplayFunctionLibrary = {} ---@type UBlueprintFunctionLibrary
+function UHeadMountedDisplayFunctionLibrary.IsHeadMountedDisplayEnabled() end
+function UHeadMountedDisplayFunctionLibrary.IsHeadMountedDisplayConnected() end
+function UHeadMountedDisplayFunctionLibrary.EnableHMD(bEnable) end
+function UHeadMountedDisplayFunctionLibrary.GetHMDDeviceName() end
+function UHeadMountedDisplayFunctionLibrary.GetHMDWornState() end
+function UHeadMountedDisplayFunctionLibrary.GetOrientationAndPosition(DeviceRotation, DevicePosition) end
+function UHeadMountedDisplayFunctionLibrary.HasValidTrackingPosition() end
+function UHeadMountedDisplayFunctionLibrary.GetNumOfTrackingSensors() end
+function UHeadMountedDisplayFunctionLibrary.GetTrackingSensorParameters(Origin, Rotation, LeftFOV, RightFOV, TopFOV, BottomFOV, Distance, NearPlane, FarPlane, IsActive) end
+function UHeadMountedDisplayFunctionLibrary.GetPositionalTrackingCameraParameters(CameraOrigin, CameraRotation, HFOV, VFOV, CameraDistance, NearPlane, FarPlane) end
+function UHeadMountedDisplayFunctionLibrary.IsInLowPersistenceMode() end
+function UHeadMountedDisplayFunctionLibrary.EnableLowPersistenceMode(bEnable) end
+function UHeadMountedDisplayFunctionLibrary.ResetOrientationAndPosition() end
+function UHeadMountedDisplayFunctionLibrary.SetClippingPlanes(Near, Far) end
+function UHeadMountedDisplayFunctionLibrary.GetScreenPercentage() end
+function UHeadMountedDisplayFunctionLibrary.GetPixelDensity() end
+function UHeadMountedDisplayFunctionLibrary.SetWorldToMetersScale(WorldContext) end
+function UHeadMountedDisplayFunctionLibrary.GetWorldToMetersScale(WorldContext) end
+function UHeadMountedDisplayFunctionLibrary.SetTrackingOrigin(Origin) end
+function UHeadMountedDisplayFunctionLibrary.GetTrackingOrigin() end
+function UHeadMountedDisplayFunctionLibrary.GetTrackingToWorldTransform(WorldContext) end
+function UHeadMountedDisplayFunctionLibrary.CalibrateExternalTrackingToHMD(ExternalTrackingTransform) end
+function UHeadMountedDisplayFunctionLibrary.UpdateExternalTrackingHMDPosition(ExternalTrackingTransform) end
+function UHeadMountedDisplayFunctionLibrary.GetVRFocusState(bUseFocus, bHasFocus) end
+function UHeadMountedDisplayFunctionLibrary.IsSpectatorScreenModeControllable() end
+function UHeadMountedDisplayFunctionLibrary.SetSpectatorScreenMode(Mode) end
+function UHeadMountedDisplayFunctionLibrary.SetSpectatorScreenTexture(InTexture) end
+function UHeadMountedDisplayFunctionLibrary.SetSpectatorScreenModeTexturePlusEyeLayout(EyeRectMin, EyeRectMax, TextureRectMin, TextureRectMax) end
+function UHeadMountedDisplayFunctionLibrary.EnumerateTrackedDevices() end
+function UHeadMountedDisplayFunctionLibrary.GetDevicePose(XRDeviceId, bIsTracked, Orientation, bHasPositionalTracking, Position) end
+function UHeadMountedDisplayFunctionLibrary.GetDeviceWorldPose(WorldContext, XRDeviceId, bIsTracked, Orientation, bHasPositionalTracking, Position) end
+function UHeadMountedDisplayFunctionLibrary.IsDeviceTracking(XRDeviceId) end

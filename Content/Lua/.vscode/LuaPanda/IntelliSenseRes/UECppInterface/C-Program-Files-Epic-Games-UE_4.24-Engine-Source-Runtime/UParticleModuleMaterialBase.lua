@@ -1,0 +1,1 @@
+UParticleModuleMaterialBase = {} ---@type UParticleModule

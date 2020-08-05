@@ -1,0 +1,2 @@
+FMovieSceneSpawnSectionTemplate = {}
+FMovieSceneSpawnSectionTemplate.Curve = nil

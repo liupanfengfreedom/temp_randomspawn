@@ -1,0 +1,2 @@
+FMovieSceneObjectBindingIDs = {}
+FMovieSceneObjectBindingIDs.IDs = nil

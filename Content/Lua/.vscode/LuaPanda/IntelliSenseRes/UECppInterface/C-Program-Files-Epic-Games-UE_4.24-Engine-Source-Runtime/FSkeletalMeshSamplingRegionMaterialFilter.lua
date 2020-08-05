@@ -1,0 +1,2 @@
+FSkeletalMeshSamplingRegionMaterialFilter = {}
+FSkeletalMeshSamplingRegionMaterialFilter.MaterialName = nil

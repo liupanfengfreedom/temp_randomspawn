@@ -1,0 +1,11 @@
+FAnimationTransitionBetweenStates = {}
+FAnimationTransitionBetweenStates.PreviousState = nil
+FAnimationTransitionBetweenStates.NextState = nil
+FAnimationTransitionBetweenStates.CrossfadeDuration = nil
+FAnimationTransitionBetweenStates.StartNotify = nil
+FAnimationTransitionBetweenStates.EndNotify = nil
+FAnimationTransitionBetweenStates.InterruptNotify = nil
+FAnimationTransitionBetweenStates.BlendMode = nil
+FAnimationTransitionBetweenStates.CustomCurve = nil
+FAnimationTransitionBetweenStates.BlendProfile = nil
+FAnimationTransitionBetweenStates.LogicType = nil

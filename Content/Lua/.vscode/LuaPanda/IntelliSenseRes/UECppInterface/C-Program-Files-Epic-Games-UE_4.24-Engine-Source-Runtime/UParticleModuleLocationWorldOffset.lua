@@ -1,0 +1,1 @@
+UParticleModuleLocationWorldOffset = {} ---@type UParticleModuleLocation

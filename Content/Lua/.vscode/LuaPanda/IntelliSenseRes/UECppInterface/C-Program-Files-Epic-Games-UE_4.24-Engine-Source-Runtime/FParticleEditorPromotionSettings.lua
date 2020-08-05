@@ -1,0 +1,2 @@
+FParticleEditorPromotionSettings = {}
+FParticleEditorPromotionSettings.DefaultParticleAsset = nil

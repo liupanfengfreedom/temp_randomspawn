@@ -1,0 +1,2 @@
+FMovieSceneTrackLabels = {}
+FMovieSceneTrackLabels.Strings = nil

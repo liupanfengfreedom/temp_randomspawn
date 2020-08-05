@@ -1,0 +1,4 @@
+ParticleSystemLODMethod = {}
+ParticleSystemLODMethod.PARTICLESYSTEMLODMETHOD_Automatic = nil
+ParticleSystemLODMethod.PARTICLESYSTEMLODMETHOD_DirectSet = nil
+ParticleSystemLODMethod.PARTICLESYSTEMLODMETHOD_ActivateAutomatic = nil

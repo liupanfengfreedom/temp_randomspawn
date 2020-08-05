@@ -1,0 +1,14 @@
+UInterpTrackMove = {} ---@type UInterpTrack
+UInterpTrackMove.PosTrack = nil
+UInterpTrackMove.EulerTrack = nil
+UInterpTrackMove.LookupTrack = nil
+UInterpTrackMove.LookAtGroupName = nil
+UInterpTrackMove.LinCurveTension = nil
+UInterpTrackMove.AngCurveTension = nil
+UInterpTrackMove.bUseQuatInterpolation = nil
+UInterpTrackMove.bShowArrowAtKeys = nil
+UInterpTrackMove.bDisableMovement = nil
+UInterpTrackMove.bShowTranslationOnCurveEd = nil
+UInterpTrackMove.bShowRotationOnCurveEd = nil
+UInterpTrackMove.bHide3DTrack = nil
+UInterpTrackMove.RotMode = nil

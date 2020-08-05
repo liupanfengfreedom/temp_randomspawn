@@ -1,0 +1,1 @@
+UMaterialExpressionDecalLifetimeOpacity = {} ---@type UMaterialExpression

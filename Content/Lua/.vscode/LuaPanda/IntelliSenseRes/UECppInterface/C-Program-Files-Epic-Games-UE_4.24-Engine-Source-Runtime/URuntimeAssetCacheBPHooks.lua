@@ -1,0 +1,8 @@
+URuntimeAssetCacheBPHooks = {} ---@type UBlueprintFunctionLibrary
+function URuntimeAssetCacheBPHooks.GetSynchronous(CacheBuilder) end
+function URuntimeAssetCacheBPHooks.GetAsynchronous(CacheBuilder, CompletionDelegate) end
+function URuntimeAssetCacheBPHooks.GetCacheSize(Bucket) end
+function URuntimeAssetCacheBPHooks.ClearCache(Bucket) end
+function URuntimeAssetCacheBPHooks.WaitAsynchronousCompletion(Handle) end
+function URuntimeAssetCacheBPHooks.GetAsynchronousResults(Handle) end
+function URuntimeAssetCacheBPHooks.PollAsynchronousCompletion(Handle) end

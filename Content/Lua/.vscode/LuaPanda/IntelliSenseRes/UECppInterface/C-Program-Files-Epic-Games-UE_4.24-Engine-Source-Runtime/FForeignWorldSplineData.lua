@@ -1,0 +1,5 @@
+FForeignWorldSplineData = {}
+FForeignWorldSplineData.ForeignControlPointDataMap_DEPRECATED = nil
+FForeignWorldSplineData.ForeignControlPointData = nil
+FForeignWorldSplineData.ForeignSplineSegmentDataMap_DEPRECATED = nil
+FForeignWorldSplineData.ForeignSplineSegmentData = nil

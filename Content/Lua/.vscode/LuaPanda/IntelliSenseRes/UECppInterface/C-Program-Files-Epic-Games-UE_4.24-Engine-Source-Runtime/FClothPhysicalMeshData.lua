@@ -1,0 +1,14 @@
+FClothPhysicalMeshData = {}
+FClothPhysicalMeshData.Vertices = nil
+FClothPhysicalMeshData.Normals = nil
+FClothPhysicalMeshData.VertexColors = nil
+FClothPhysicalMeshData.Indices = nil
+FClothPhysicalMeshData.MaxDistances = nil
+FClothPhysicalMeshData.BackstopDistances = nil
+FClothPhysicalMeshData.BackstopRadiuses = nil
+FClothPhysicalMeshData.AnimDriveMultipliers = nil
+FClothPhysicalMeshData.InverseMasses = nil
+FClothPhysicalMeshData.BoneData = nil
+FClothPhysicalMeshData.MaxBoneWeights = nil
+FClothPhysicalMeshData.NumFixedVerts = nil
+FClothPhysicalMeshData.SelfCollisionIndices = nil

@@ -1,0 +1,10 @@
+EDemoPlayFailure = {}
+EDemoPlayFailure.Generic = nil
+EDemoPlayFailure.DemoNotFound = nil
+EDemoPlayFailure.Corrupt = nil
+EDemoPlayFailure.InvalidVersion = nil
+EDemoPlayFailure.InitBase = nil
+EDemoPlayFailure.GameSpecificHeader = nil
+EDemoPlayFailure.ReplayStreamerInternal = nil
+EDemoPlayFailure.LoadMap = nil
+EDemoPlayFailure.Serialization = nil

@@ -1,0 +1,1 @@
+UARTypesDummyClass = {} ---@type UObject

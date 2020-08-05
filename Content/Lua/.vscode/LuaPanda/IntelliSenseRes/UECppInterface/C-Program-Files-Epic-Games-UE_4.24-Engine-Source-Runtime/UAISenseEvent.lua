@@ -1,0 +1,1 @@
+UAISenseEvent = {} ---@type UObject

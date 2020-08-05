@@ -1,0 +1,1 @@
+ULevelSequenceBurnInInitSettings = {} ---@type UObject

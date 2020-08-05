@@ -1,0 +1,1 @@
+UMaterialExpressionAtmosphericLightColor = {} ---@type UMaterialExpression

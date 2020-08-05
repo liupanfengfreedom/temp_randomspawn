@@ -1,0 +1,1 @@
+UInteractiveFoliageComponent = {} ---@type UStaticMeshComponent

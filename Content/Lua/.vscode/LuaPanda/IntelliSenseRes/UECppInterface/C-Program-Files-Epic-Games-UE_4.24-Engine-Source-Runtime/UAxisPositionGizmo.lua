@@ -1,0 +1,12 @@
+UAxisPositionGizmo = {} ---@type UInteractiveGizmo
+UAxisPositionGizmo.AxisSource = nil
+UAxisPositionGizmo.ParameterSource = nil
+UAxisPositionGizmo.HitTarget = nil
+UAxisPositionGizmo.StateTarget = nil
+UAxisPositionGizmo.bInInteraction = nil
+UAxisPositionGizmo.InteractionOrigin = nil
+UAxisPositionGizmo.InteractionAxis = nil
+UAxisPositionGizmo.InteractionStartPoint = nil
+UAxisPositionGizmo.InteractionCurPoint = nil
+UAxisPositionGizmo.InteractionStartParameter = nil
+UAxisPositionGizmo.InteractionCurParameter = nil

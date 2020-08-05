@@ -1,0 +1,10 @@
+UCameraAnim = {} ---@type UObject
+UCameraAnim.CameraInterpGroup = nil
+UCameraAnim.PreviewInterpGroup = nil
+UCameraAnim.AnimLength = nil
+UCameraAnim.BoundingBox = nil
+UCameraAnim.bRelativeToInitialTransform = nil
+UCameraAnim.bRelativeToInitialFOV = nil
+UCameraAnim.BaseFOV = nil
+UCameraAnim.BasePostProcessSettings = nil
+UCameraAnim.BasePostProcessBlendWeight = nil

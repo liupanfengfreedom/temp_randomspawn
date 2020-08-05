@@ -1,0 +1,14 @@
+EMenuPlacement = {}
+EMenuPlacement.MenuPlacement_BelowAnchor = nil
+EMenuPlacement.MenuPlacement_CenteredBelowAnchor = nil
+EMenuPlacement.MenuPlacement_BelowRightAnchor = nil
+EMenuPlacement.MenuPlacement_ComboBox = nil
+EMenuPlacement.MenuPlacement_ComboBoxRight = nil
+EMenuPlacement.MenuPlacement_MenuRight = nil
+EMenuPlacement.MenuPlacement_AboveAnchor = nil
+EMenuPlacement.MenuPlacement_CenteredAboveAnchor = nil
+EMenuPlacement.MenuPlacement_AboveRightAnchor = nil
+EMenuPlacement.MenuPlacement_MenuLeft = nil
+EMenuPlacement.MenuPlacement_Center = nil
+EMenuPlacement.MenuPlacement_RightLeftCenter = nil
+EMenuPlacement.MenuPlacement_MatchBottomLeft = nil

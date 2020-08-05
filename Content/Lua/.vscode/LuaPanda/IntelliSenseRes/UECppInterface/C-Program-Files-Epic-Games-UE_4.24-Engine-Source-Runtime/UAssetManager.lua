@@ -1,0 +1,14 @@
+UAssetManager = {} ---@type UObject
+UAssetManager.ObjectReferenceList = nil
+UAssetManager.bIsGlobalAsyncScanEnvironment = nil
+UAssetManager.bShouldGuessTypeAndName = nil
+UAssetManager.bShouldUseSynchronousLoad = nil
+UAssetManager.bIsLoadingFromPakFiles = nil
+UAssetManager.bShouldAcquireMissingChunksOnLoad = nil
+UAssetManager.bOnlyCookProductionAssets = nil
+UAssetManager.bIsBulkScanning = nil
+UAssetManager.bIsPrimaryAssetDirectoryCurrent = nil
+UAssetManager.bIsManagementDatabaseCurrent = nil
+UAssetManager.bUpdateManagementDatabaseAfterScan = nil
+UAssetManager.bIncludeOnlyOnDiskAssets = nil
+UAssetManager.NumberOfSpawnedNotifications = nil

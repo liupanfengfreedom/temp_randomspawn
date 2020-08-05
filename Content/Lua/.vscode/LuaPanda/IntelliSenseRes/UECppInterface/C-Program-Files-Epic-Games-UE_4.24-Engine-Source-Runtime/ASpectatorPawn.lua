@@ -1,0 +1,1 @@
+ASpectatorPawn = {} ---@type ADefaultPawn

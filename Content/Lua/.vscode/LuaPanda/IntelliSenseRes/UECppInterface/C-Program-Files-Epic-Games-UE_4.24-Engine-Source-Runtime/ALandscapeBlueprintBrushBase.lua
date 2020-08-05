@@ -1,0 +1,10 @@
+ALandscapeBlueprintBrushBase = {} ---@type AActor
+ALandscapeBlueprintBrushBase.OwningLandscape = nil
+ALandscapeBlueprintBrushBase.AffectHeightmap = nil
+ALandscapeBlueprintBrushBase.AffectWeightmap = nil
+ALandscapeBlueprintBrushBase.AffectedWeightmapLayers = nil
+ALandscapeBlueprintBrushBase.bIsVisible = nil
+function ALandscapeBlueprintBrushBase.Render(InIsHeightmap, InCombinedResult, InWeightmapLayerName) end
+function ALandscapeBlueprintBrushBase.Initialize(InLandscapeTransform, InLandscapeSize, InLandscapeRenderTargetSize) end
+function ALandscapeBlueprintBrushBase.RequestLandscapeUpdate() end
+function ALandscapeBlueprintBrushBase.GetBlueprintRenderDependencies(OutStreamableAssets) end

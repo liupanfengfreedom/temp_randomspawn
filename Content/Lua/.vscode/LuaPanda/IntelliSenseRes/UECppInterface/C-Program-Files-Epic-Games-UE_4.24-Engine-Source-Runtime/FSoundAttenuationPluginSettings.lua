@@ -1,0 +1,4 @@
+FSoundAttenuationPluginSettings = {}
+FSoundAttenuationPluginSettings.SpatializationPluginSettingsArray = nil
+FSoundAttenuationPluginSettings.OcclusionPluginSettingsArray = nil
+FSoundAttenuationPluginSettings.ReverbPluginSettingsArray = nil

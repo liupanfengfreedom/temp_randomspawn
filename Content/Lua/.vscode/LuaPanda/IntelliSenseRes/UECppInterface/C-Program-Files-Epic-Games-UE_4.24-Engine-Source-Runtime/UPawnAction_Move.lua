@@ -1,0 +1,12 @@
+UPawnAction_Move = {} ---@type UPawnAction
+UPawnAction_Move.GoalActor = nil
+UPawnAction_Move.GoalLocation = nil
+UPawnAction_Move.AcceptableRadius = nil
+UPawnAction_Move.FilterClass = nil
+UPawnAction_Move.bAllowStrafe = nil
+UPawnAction_Move.bFinishOnOverlap = nil
+UPawnAction_Move.bUsePathfinding = nil
+UPawnAction_Move.bAllowPartialPath = nil
+UPawnAction_Move.bProjectGoalToNavigation = nil
+UPawnAction_Move.bUpdatePathToGoal = nil
+UPawnAction_Move.bAbortChildActionOnPathChange = nil

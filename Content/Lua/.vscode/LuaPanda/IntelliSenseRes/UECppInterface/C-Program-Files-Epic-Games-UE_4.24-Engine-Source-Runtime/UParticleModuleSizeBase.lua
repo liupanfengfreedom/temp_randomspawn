@@ -1,0 +1,1 @@
+UParticleModuleSizeBase = {} ---@type UParticleModule

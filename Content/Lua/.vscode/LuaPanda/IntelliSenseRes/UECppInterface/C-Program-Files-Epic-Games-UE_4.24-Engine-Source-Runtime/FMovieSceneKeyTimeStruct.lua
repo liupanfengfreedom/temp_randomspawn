@@ -1,0 +1,2 @@
+FMovieSceneKeyTimeStruct = {}
+FMovieSceneKeyTimeStruct.Time = nil

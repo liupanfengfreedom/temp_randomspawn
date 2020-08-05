@@ -1,0 +1,1 @@
+UARLightEstimate = {} ---@type UObject

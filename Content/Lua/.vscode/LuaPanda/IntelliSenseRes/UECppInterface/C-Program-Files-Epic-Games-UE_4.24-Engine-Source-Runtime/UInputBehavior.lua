@@ -1,0 +1,1 @@
+UInputBehavior = {} ---@type UObject

@@ -1,0 +1,2 @@
+FCollisionProfileName = {}
+FCollisionProfileName.Name = nil

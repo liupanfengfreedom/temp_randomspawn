@@ -1,0 +1,13 @@
+FMovieSceneSequencePlaybackSettings = {}
+FMovieSceneSequencePlaybackSettings.bAutoPlay = nil
+FMovieSceneSequencePlaybackSettings.LoopCount = nil
+FMovieSceneSequencePlaybackSettings.PlayRate = nil
+FMovieSceneSequencePlaybackSettings.StartTime = nil
+FMovieSceneSequencePlaybackSettings.bRandomStartTime = nil
+FMovieSceneSequencePlaybackSettings.bRestoreState = nil
+FMovieSceneSequencePlaybackSettings.bDisableMovementInput = nil
+FMovieSceneSequencePlaybackSettings.bDisableLookAtInput = nil
+FMovieSceneSequencePlaybackSettings.bHidePlayer = nil
+FMovieSceneSequencePlaybackSettings.bHideHud = nil
+FMovieSceneSequencePlaybackSettings.bDisableCameraCuts = nil
+FMovieSceneSequencePlaybackSettings.bPauseAtEnd = nil

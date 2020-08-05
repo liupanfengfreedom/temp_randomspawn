@@ -1,0 +1,1 @@
+UMovieSceneSpawnSection = {} ---@type UMovieSceneBoolSection

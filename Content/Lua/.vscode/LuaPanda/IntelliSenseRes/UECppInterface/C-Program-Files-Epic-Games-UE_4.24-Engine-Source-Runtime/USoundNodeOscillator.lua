@@ -1,0 +1,11 @@
+USoundNodeOscillator = {} ---@type USoundNode
+USoundNodeOscillator.bModulateVolume = nil
+USoundNodeOscillator.bModulatePitch = nil
+USoundNodeOscillator.AmplitudeMin = nil
+USoundNodeOscillator.AmplitudeMax = nil
+USoundNodeOscillator.FrequencyMin = nil
+USoundNodeOscillator.FrequencyMax = nil
+USoundNodeOscillator.OffsetMin = nil
+USoundNodeOscillator.OffsetMax = nil
+USoundNodeOscillator.CenterMin = nil
+USoundNodeOscillator.CenterMax = nil

@@ -1,0 +1,11 @@
+FSplineMeshParams = {}
+FSplineMeshParams.StartPos = nil
+FSplineMeshParams.StartTangent = nil
+FSplineMeshParams.StartScale = nil
+FSplineMeshParams.StartRoll = nil
+FSplineMeshParams.StartOffset = nil
+FSplineMeshParams.EndPos = nil
+FSplineMeshParams.EndScale = nil
+FSplineMeshParams.EndTangent = nil
+FSplineMeshParams.EndRoll = nil
+FSplineMeshParams.EndOffset = nil

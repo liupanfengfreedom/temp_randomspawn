@@ -1,0 +1,13 @@
+FRepRootMotionMontage = {}
+FRepRootMotionMontage.bIsActive = nil
+FRepRootMotionMontage.AnimMontage = nil
+FRepRootMotionMontage.Position = nil
+FRepRootMotionMontage.Location = nil
+FRepRootMotionMontage.Rotation = nil
+FRepRootMotionMontage.MovementBase = nil
+FRepRootMotionMontage.MovementBaseBoneName = nil
+FRepRootMotionMontage.bRelativePosition = nil
+FRepRootMotionMontage.bRelativeRotation = nil
+FRepRootMotionMontage.AuthoritativeRootMotion = nil
+FRepRootMotionMontage.Acceleration = nil
+FRepRootMotionMontage.LinearVelocity = nil

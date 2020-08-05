@@ -1,0 +1,9 @@
+USoundNodeRandom = {} ---@type USoundNode
+USoundNodeRandom.Weights = nil
+USoundNodeRandom.HasBeenUsed = nil
+USoundNodeRandom.NumRandomUsed = nil
+USoundNodeRandom.PreselectAtLevelLoad = nil
+USoundNodeRandom.bShouldExcludeFromBranchCulling = nil
+USoundNodeRandom.bSoundCueExcludedFromBranchCulling = nil
+USoundNodeRandom.bRandomizeWithoutReplacement = nil
+USoundNodeRandom.PIEHiddenNodes = nil

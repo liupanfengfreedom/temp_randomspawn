@@ -1,0 +1,9 @@
+FLiveLinkCameraStaticData = {}
+FLiveLinkCameraStaticData.bIsFieldOfViewSupported = nil
+FLiveLinkCameraStaticData.bIsAspectRatioSupported = nil
+FLiveLinkCameraStaticData.bIsFocalLengthSupported = nil
+FLiveLinkCameraStaticData.bIsProjectionModeSupported = nil
+FLiveLinkCameraStaticData.FilmBackWidth = nil
+FLiveLinkCameraStaticData.FilmBackHeight = nil
+FLiveLinkCameraStaticData.bIsApertureSupported = nil
+FLiveLinkCameraStaticData.bIsFocusDistanceSupported = nil

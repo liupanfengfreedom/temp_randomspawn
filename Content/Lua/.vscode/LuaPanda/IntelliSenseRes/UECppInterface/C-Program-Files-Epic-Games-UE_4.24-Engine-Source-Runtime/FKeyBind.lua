@@ -1,0 +1,12 @@
+FKeyBind = {}
+FKeyBind.Key = nil
+FKeyBind.Command = nil
+FKeyBind.Control = nil
+FKeyBind.Shift = nil
+FKeyBind.Alt = nil
+FKeyBind.Cmd = nil
+FKeyBind.bIgnoreCtrl = nil
+FKeyBind.bIgnoreShift = nil
+FKeyBind.bIgnoreAlt = nil
+FKeyBind.bIgnoreCmd = nil
+FKeyBind.bDisabled = nil

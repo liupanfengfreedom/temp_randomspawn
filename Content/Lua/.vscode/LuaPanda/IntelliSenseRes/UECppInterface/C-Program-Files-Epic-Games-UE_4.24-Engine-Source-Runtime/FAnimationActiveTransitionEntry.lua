@@ -1,0 +1,2 @@
+FAnimationActiveTransitionEntry = {}
+FAnimationActiveTransitionEntry.BlendProfile = nil

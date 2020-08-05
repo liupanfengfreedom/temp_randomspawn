@@ -1,0 +1,11 @@
+FAnimNode_ApplyAdditive = {}
+FAnimNode_ApplyAdditive.Base = nil
+FAnimNode_ApplyAdditive.Additive = nil
+FAnimNode_ApplyAdditive.Alpha = nil
+FAnimNode_ApplyAdditive.AlphaScaleBias = nil
+FAnimNode_ApplyAdditive.LODThreshold = nil
+FAnimNode_ApplyAdditive.AlphaBoolBlend = nil
+FAnimNode_ApplyAdditive.AlphaCurveName = nil
+FAnimNode_ApplyAdditive.AlphaScaleBiasClamp = nil
+FAnimNode_ApplyAdditive.AlphaInputType = nil
+FAnimNode_ApplyAdditive.bAlphaBoolEnabled = nil

@@ -1,0 +1,2 @@
+FGenericTeamId = {}
+FGenericTeamId.TeamID = nil

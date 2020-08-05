@@ -1,0 +1,11 @@
+FCrowdAvoidanceConfig = {}
+FCrowdAvoidanceConfig.VelocityBias = nil
+FCrowdAvoidanceConfig.DesiredVelocityWeight = nil
+FCrowdAvoidanceConfig.CurrentVelocityWeight = nil
+FCrowdAvoidanceConfig.SideBiasWeight = nil
+FCrowdAvoidanceConfig.ImpactTimeWeight = nil
+FCrowdAvoidanceConfig.ImpactTimeRange = nil
+FCrowdAvoidanceConfig.CustomPatternIdx = nil
+FCrowdAvoidanceConfig.AdaptiveDivisions = nil
+FCrowdAvoidanceConfig.AdaptiveRings = nil
+FCrowdAvoidanceConfig.AdaptiveDepth = nil

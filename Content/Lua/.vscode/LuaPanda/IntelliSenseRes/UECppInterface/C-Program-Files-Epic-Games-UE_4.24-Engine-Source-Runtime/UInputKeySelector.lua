@@ -1,0 +1,22 @@
+UInputKeySelector = {} ---@type UWidget
+UInputKeySelector.WidgetStyle = nil
+UInputKeySelector.TextStyle = nil
+UInputKeySelector.SelectedKey = nil
+UInputKeySelector.Font_DEPRECATED = nil
+UInputKeySelector.Margin = nil
+UInputKeySelector.ColorAndOpacity_DEPRECATED = nil
+UInputKeySelector.KeySelectionText = nil
+UInputKeySelector.NoKeySpecifiedText = nil
+UInputKeySelector.bAllowModifierKeys = nil
+UInputKeySelector.bAllowGamepadKeys = nil
+UInputKeySelector.EscapeKeys = nil
+UInputKeySelector.OnKeySelected = nil
+UInputKeySelector.OnIsSelectingKeyChanged = nil
+function UInputKeySelector.SetSelectedKey(InSelectedKey) end
+function UInputKeySelector.SetKeySelectionText(InKeySelectionText) end
+function UInputKeySelector.SetNoKeySpecifiedText(InNoKeySpecifiedText) end
+function UInputKeySelector.SetAllowModifierKeys(bInAllowModifierKeys) end
+function UInputKeySelector.SetAllowGamepadKeys(bInAllowGamepadKeys) end
+function UInputKeySelector.GetIsSelectingKey() end
+function UInputKeySelector.SetTextBlockVisibility(InVisibility) end
+function UInputKeySelector.SetEscapeKeys(InKeys) end

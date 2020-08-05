@@ -1,0 +1,19 @@
+UInterpToMovementComponent = {} ---@type UMovementComponent
+UInterpToMovementComponent.Duration = nil
+UInterpToMovementComponent.bPauseOnImpact = nil
+UInterpToMovementComponent.bSweep = nil
+UInterpToMovementComponent.TeleportType = nil
+UInterpToMovementComponent.BehaviourType = nil
+UInterpToMovementComponent.bCheckIfStillInWorld = nil
+UInterpToMovementComponent.bForceSubStepping = nil
+UInterpToMovementComponent.OnInterpToReverse = nil
+UInterpToMovementComponent.OnInterpToStop = nil
+UInterpToMovementComponent.OnWaitBeginDelegate = nil
+UInterpToMovementComponent.OnWaitEndDelegate = nil
+UInterpToMovementComponent.OnResetDelegate = nil
+UInterpToMovementComponent.MaxSimulationTimeStep = nil
+UInterpToMovementComponent.MaxSimulationIterations = nil
+UInterpToMovementComponent.ControlPoints = nil
+function UInterpToMovementComponent.StopSimulating(HitResult) end
+function UInterpToMovementComponent.RestartMovement() end
+function UInterpToMovementComponent.FinaliseControlPoints() end

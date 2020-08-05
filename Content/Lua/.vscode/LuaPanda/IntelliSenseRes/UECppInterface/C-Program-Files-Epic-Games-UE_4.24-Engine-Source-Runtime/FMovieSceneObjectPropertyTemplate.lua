@@ -1,0 +1,2 @@
+FMovieSceneObjectPropertyTemplate = {}
+FMovieSceneObjectPropertyTemplate.ObjectChannel = nil

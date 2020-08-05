@@ -1,0 +1,1 @@
+UBlueprintFunctionLibrary = {} ---@type UObject

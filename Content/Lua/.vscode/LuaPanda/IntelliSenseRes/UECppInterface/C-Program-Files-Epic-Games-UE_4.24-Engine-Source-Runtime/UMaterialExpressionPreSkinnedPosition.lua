@@ -1,0 +1,1 @@
+UMaterialExpressionPreSkinnedPosition = {} ---@type UMaterialExpression

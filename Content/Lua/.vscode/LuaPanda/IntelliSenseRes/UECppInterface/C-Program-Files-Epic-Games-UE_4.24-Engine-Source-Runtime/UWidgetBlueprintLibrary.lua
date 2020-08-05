@@ -1,0 +1,56 @@
+UWidgetBlueprintLibrary = {} ---@type UBlueprintFunctionLibrary
+function UWidgetBlueprintLibrary.Create(WorldContextObject, WidgetType, OwningPlayer) end
+function UWidgetBlueprintLibrary.CreateDragDropOperation(OperationClass) end
+function UWidgetBlueprintLibrary.SetInputMode_UIOnly(Target) end
+function UWidgetBlueprintLibrary.SetInputMode_UIOnlyEx(PlayerController) end
+function UWidgetBlueprintLibrary.SetInputMode_GameAndUI(Target) end
+function UWidgetBlueprintLibrary.SetInputMode_GameAndUIEx(PlayerController) end
+function UWidgetBlueprintLibrary.SetInputMode_GameOnly(PlayerController) end
+function UWidgetBlueprintLibrary.SetFocusToGameViewport() end
+function UWidgetBlueprintLibrary.DrawBox(Context, Position, Size, Brush) end
+function UWidgetBlueprintLibrary.DrawLine(Context, PositionA, PositionB) end
+function UWidgetBlueprintLibrary.DrawLines(Context, Points) end
+function UWidgetBlueprintLibrary.DrawText(Context, InString, Position) end
+function UWidgetBlueprintLibrary.DrawTextFormatted(Context, Text, Position, Font) end
+function UWidgetBlueprintLibrary.Handled() end
+function UWidgetBlueprintLibrary.Unhandled() end
+function UWidgetBlueprintLibrary.CaptureMouse(Reply, CapturingWidget) end
+function UWidgetBlueprintLibrary.ReleaseMouseCapture(Reply) end
+function UWidgetBlueprintLibrary.LockMouse(Reply, CapturingWidget) end
+function UWidgetBlueprintLibrary.UnlockMouse(Reply) end
+function UWidgetBlueprintLibrary.SetUserFocus(Reply, FocusWidget) end
+function UWidgetBlueprintLibrary.CaptureJoystick(Reply, CapturingWidget) end
+function UWidgetBlueprintLibrary.ClearUserFocus(Reply) end
+function UWidgetBlueprintLibrary.ReleaseJoystickCapture(Reply) end
+function UWidgetBlueprintLibrary.SetMousePosition(Reply, NewMousePosition) end
+function UWidgetBlueprintLibrary.DetectDrag(Reply, WidgetDetectingDrag, DragKey) end
+function UWidgetBlueprintLibrary.DetectDragIfPressed(PointerEvent, WidgetDetectingDrag, DragKey) end
+function UWidgetBlueprintLibrary.EndDragDrop(Reply) end
+function UWidgetBlueprintLibrary.IsDragDropping() end
+function UWidgetBlueprintLibrary.GetDragDroppingContent() end
+function UWidgetBlueprintLibrary.CancelDragDrop() end
+function UWidgetBlueprintLibrary.MakeBrushFromAsset(BrushAsset) end
+function UWidgetBlueprintLibrary.MakeBrushFromTexture(Texture) end
+function UWidgetBlueprintLibrary.MakeBrushFromMaterial(Material) end
+function UWidgetBlueprintLibrary.GetBrushResource(Brush) end
+function UWidgetBlueprintLibrary.GetBrushResourceAsTexture2D(Brush) end
+function UWidgetBlueprintLibrary.GetBrushResourceAsMaterial(Brush) end
+function UWidgetBlueprintLibrary.SetBrushResourceToTexture(Brush, Texture) end
+function UWidgetBlueprintLibrary.SetBrushResourceToMaterial(Brush, Material) end
+function UWidgetBlueprintLibrary.NoResourceBrush() end
+function UWidgetBlueprintLibrary.GetDynamicMaterial(Brush) end
+function UWidgetBlueprintLibrary.DismissAllMenus() end
+function UWidgetBlueprintLibrary.GetAllWidgetsOfClass(WorldContextObject, FoundWidgets, WidgetClass) end
+function UWidgetBlueprintLibrary.GetAllWidgetsWithInterface(WorldContextObject, FoundWidgets, Interface, TopLevelOnly) end
+function UWidgetBlueprintLibrary.GetInputEventFromKeyEvent(Event) end
+function UWidgetBlueprintLibrary.GetKeyEventFromAnalogInputEvent(Event) end
+function UWidgetBlueprintLibrary.GetInputEventFromCharacterEvent(Event) end
+function UWidgetBlueprintLibrary.GetInputEventFromPointerEvent(Event) end
+function UWidgetBlueprintLibrary.GetInputEventFromNavigationEvent(Event) end
+function UWidgetBlueprintLibrary.GetSafeZonePadding(WorldContextObject, SafePadding, SafePaddingScale, SpillOverPadding) end
+function UWidgetBlueprintLibrary.SetColorVisionDeficiencyType(Type, Severity, CorrectDeficiency, ShowCorrectionWithDeficiency) end
+function UWidgetBlueprintLibrary.SetHardwareCursor(WorldContextObject, CursorShape, CursorName, HotSpot) end
+function UWidgetBlueprintLibrary.SetWindowTitleBarState(TitleBarContent, Mode, bTitleBarDragEnabled, bWindowButtonsVisible, bTitleBarVisible) end
+function UWidgetBlueprintLibrary.RestorePreviousWindowTitleBarState() end
+function UWidgetBlueprintLibrary.SetWindowTitleBarOnCloseClickedDelegate(Delegate) end
+function UWidgetBlueprintLibrary.SetWindowTitleBarCloseButtonActive(bActive) end

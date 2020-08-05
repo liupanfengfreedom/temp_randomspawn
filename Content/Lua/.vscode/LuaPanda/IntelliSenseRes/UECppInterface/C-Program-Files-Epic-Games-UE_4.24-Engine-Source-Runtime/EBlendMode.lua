@@ -1,0 +1,9 @@
+EBlendMode = {}
+EBlendMode.BLEND_Opaque = nil
+EBlendMode.BLEND_Masked = nil
+EBlendMode.BLEND_Translucent = nil
+EBlendMode.BLEND_Additive = nil
+EBlendMode.BLEND_Modulate = nil
+EBlendMode.BLEND_AlphaComposite = nil
+EBlendMode.BLEND_AlphaHoldout = nil
+EBlendMode.BLEND_MAX = nil

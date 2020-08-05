@@ -1,0 +1,5 @@
+FAutomationWorkerPerformanceDataRequest = {}
+FAutomationWorkerPerformanceDataRequest.Platform = nil
+FAutomationWorkerPerformanceDataRequest.Hardware = nil
+FAutomationWorkerPerformanceDataRequest.TestName = nil
+FAutomationWorkerPerformanceDataRequest.DataPoints = nil

@@ -1,0 +1,9 @@
+FStructSerializerObjectTestStruct = {}
+FStructSerializerObjectTestStruct.Class = nil
+FStructSerializerObjectTestStruct.SubClass = nil
+FStructSerializerObjectTestStruct.SoftClass = nil
+FStructSerializerObjectTestStruct.Object = nil
+FStructSerializerObjectTestStruct.WeakObject = nil
+FStructSerializerObjectTestStruct.SoftObject = nil
+FStructSerializerObjectTestStruct.ClassPath = nil
+FStructSerializerObjectTestStruct.ObjectPath = nil

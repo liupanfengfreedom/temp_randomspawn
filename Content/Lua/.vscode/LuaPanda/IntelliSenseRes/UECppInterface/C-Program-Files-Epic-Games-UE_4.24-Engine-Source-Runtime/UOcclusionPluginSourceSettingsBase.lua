@@ -1,0 +1,1 @@
+UOcclusionPluginSourceSettingsBase = {} ---@type UObject

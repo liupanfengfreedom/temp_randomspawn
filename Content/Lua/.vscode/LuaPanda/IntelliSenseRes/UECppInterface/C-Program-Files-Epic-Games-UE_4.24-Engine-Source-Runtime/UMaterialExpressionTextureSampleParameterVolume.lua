@@ -1,0 +1,1 @@
+UMaterialExpressionTextureSampleParameterVolume = {} ---@type UMaterialExpressionTextureSampleParameter

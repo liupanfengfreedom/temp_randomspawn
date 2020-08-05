@@ -1,0 +1,25 @@
+AGameMode = {} ---@type AGameModeBase
+AGameMode.MatchState = nil
+AGameMode.bDelayedStart = nil
+AGameMode.NumSpectators = nil
+AGameMode.NumPlayers = nil
+AGameMode.NumBots = nil
+AGameMode.MinRespawnDelay = nil
+AGameMode.NumTravellingPlayers = nil
+AGameMode.EngineMessageClass = nil
+AGameMode.InactivePlayerArray = nil
+AGameMode.InactivePlayerStateLifeSpan = nil
+AGameMode.MaxInactivePlayers = nil
+AGameMode.bHandleDedicatedServerReplays = nil
+function AGameMode.GetMatchState() end
+function AGameMode.IsMatchInProgress() end
+function AGameMode.HasMatchEnded() end
+function AGameMode.StartMatch() end
+function AGameMode.EndMatch() end
+function AGameMode.RestartGame() end
+function AGameMode.AbortMatch() end
+function AGameMode.K2_OnSetMatchState(NewState) end
+function AGameMode.ReadyToStartMatch() end
+function AGameMode.ReadyToEndMatch() end
+function AGameMode.Say(Msg) end
+function AGameMode.SetBandwidthLimit(AsyncIOBandwidthLimit) end

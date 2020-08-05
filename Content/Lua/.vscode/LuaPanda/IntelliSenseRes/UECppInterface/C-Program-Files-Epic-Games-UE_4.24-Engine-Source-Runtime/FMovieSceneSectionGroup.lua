@@ -1,0 +1,2 @@
+FMovieSceneSectionGroup = {}
+FMovieSceneSectionGroup.Sections = nil

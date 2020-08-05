@@ -1,0 +1,17 @@
+FTableRowStyle = {}
+FTableRowStyle.SelectorFocusedBrush = nil
+FTableRowStyle.ActiveHoveredBrush = nil
+FTableRowStyle.ActiveBrush = nil
+FTableRowStyle.InactiveHoveredBrush = nil
+FTableRowStyle.InactiveBrush = nil
+FTableRowStyle.EvenRowBackgroundHoveredBrush = nil
+FTableRowStyle.EvenRowBackgroundBrush = nil
+FTableRowStyle.OddRowBackgroundHoveredBrush = nil
+FTableRowStyle.OddRowBackgroundBrush = nil
+FTableRowStyle.TextColor = nil
+FTableRowStyle.SelectedTextColor = nil
+FTableRowStyle.DropIndicator_Above = nil
+FTableRowStyle.DropIndicator_Onto = nil
+FTableRowStyle.DropIndicator_Below = nil
+FTableRowStyle.ActiveHighlightedBrush = nil
+FTableRowStyle.InactiveHighlightedBrush = nil

@@ -1,0 +1,2 @@
+FPortalPackageInstallerInstallResponse = {}
+FPortalPackageInstallerInstallResponse.Result = nil

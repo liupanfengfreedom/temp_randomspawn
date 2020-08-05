@@ -1,0 +1,2 @@
+FPawnActionStack = {}
+FPawnActionStack.TopAction = nil

@@ -1,0 +1,8 @@
+UGizmoAxisTranslationParameterSource = {} ---@type UGizmoBaseFloatParameterSource
+UGizmoAxisTranslationParameterSource.AxisSource = nil
+UGizmoAxisTranslationParameterSource.TransformSource = nil
+UGizmoAxisTranslationParameterSource.Parameter = nil
+UGizmoAxisTranslationParameterSource.LastChange = nil
+UGizmoAxisTranslationParameterSource.CurTranslationAxis = nil
+UGizmoAxisTranslationParameterSource.CurTranslationOrigin = nil
+UGizmoAxisTranslationParameterSource.InitialTransform = nil

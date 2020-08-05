@@ -1,0 +1,12 @@
+FAtmospherePrecomputeParameters = {}
+FAtmospherePrecomputeParameters.DensityHeight = nil
+FAtmospherePrecomputeParameters.DecayHeight_DEPRECATED = nil
+FAtmospherePrecomputeParameters.MaxScatteringOrder = nil
+FAtmospherePrecomputeParameters.TransmittanceTexWidth = nil
+FAtmospherePrecomputeParameters.TransmittanceTexHeight = nil
+FAtmospherePrecomputeParameters.IrradianceTexWidth = nil
+FAtmospherePrecomputeParameters.IrradianceTexHeight = nil
+FAtmospherePrecomputeParameters.InscatterAltitudeSampleNum = nil
+FAtmospherePrecomputeParameters.InscatterMuNum = nil
+FAtmospherePrecomputeParameters.InscatterMuSNum = nil
+FAtmospherePrecomputeParameters.InscatterNuNum = nil

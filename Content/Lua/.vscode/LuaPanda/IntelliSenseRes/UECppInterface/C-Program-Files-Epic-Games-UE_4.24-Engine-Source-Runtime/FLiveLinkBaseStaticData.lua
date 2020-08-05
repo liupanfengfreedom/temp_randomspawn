@@ -1,0 +1,2 @@
+FLiveLinkBaseStaticData = {}
+FLiveLinkBaseStaticData.PropertyNames = nil

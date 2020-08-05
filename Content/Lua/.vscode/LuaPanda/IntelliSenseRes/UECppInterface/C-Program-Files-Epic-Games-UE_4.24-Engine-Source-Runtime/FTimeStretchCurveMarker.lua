@@ -1,0 +1,2 @@
+FTimeStretchCurveMarker = {}
+FTimeStretchCurveMarker.Alpha = nil

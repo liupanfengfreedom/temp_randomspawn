@@ -1,0 +1,14 @@
+FRigidBodyErrorCorrection = {}
+FRigidBodyErrorCorrection.PingExtrapolation = nil
+FRigidBodyErrorCorrection.PingLimit = nil
+FRigidBodyErrorCorrection.ErrorPerLinearDifference = nil
+FRigidBodyErrorCorrection.ErrorPerAngularDifference = nil
+FRigidBodyErrorCorrection.MaxRestoredStateError = nil
+FRigidBodyErrorCorrection.MaxLinearHardSnapDistance = nil
+FRigidBodyErrorCorrection.PositionLerp = nil
+FRigidBodyErrorCorrection.AngleLerp = nil
+FRigidBodyErrorCorrection.LinearVelocityCoefficient = nil
+FRigidBodyErrorCorrection.AngularVelocityCoefficient = nil
+FRigidBodyErrorCorrection.ErrorAccumulationSeconds = nil
+FRigidBodyErrorCorrection.ErrorAccumulationDistanceSq = nil
+FRigidBodyErrorCorrection.ErrorAccumulationSimilarity = nil

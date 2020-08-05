@@ -1,0 +1,15 @@
+UMaterialInstance = {} ---@type UMaterialInterface
+UMaterialInstance.PhysMaterial = nil
+UMaterialInstance.Parent = nil
+UMaterialInstance.bHasStaticPermutationResource = nil
+UMaterialInstance.bOverrideSubsurfaceProfile = nil
+UMaterialInstance.ScalarParameterValues = nil
+UMaterialInstance.VectorParameterValues = nil
+UMaterialInstance.TextureParameterValues = nil
+UMaterialInstance.RuntimeVirtualTextureParameterValues = nil
+UMaterialInstance.FontParameterValues = nil
+UMaterialInstance.bOverrideBaseProperties_DEPRECATED = nil
+UMaterialInstance.BasePropertyOverrides = nil
+UMaterialInstance.PermutationTextureReferences = nil
+UMaterialInstance.ReferencedTextureGuids = nil
+UMaterialInstance.StaticParameters = nil

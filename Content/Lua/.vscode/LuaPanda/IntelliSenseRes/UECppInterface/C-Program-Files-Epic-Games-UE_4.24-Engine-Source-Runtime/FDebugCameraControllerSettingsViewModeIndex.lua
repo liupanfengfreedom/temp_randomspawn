@@ -1,0 +1,2 @@
+FDebugCameraControllerSettingsViewModeIndex = {}
+FDebugCameraControllerSettingsViewModeIndex.ViewModeIndex = nil

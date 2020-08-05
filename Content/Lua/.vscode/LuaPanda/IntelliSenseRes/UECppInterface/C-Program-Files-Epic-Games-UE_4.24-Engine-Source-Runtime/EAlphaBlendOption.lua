@@ -1,0 +1,15 @@
+EAlphaBlendOption = {}
+EAlphaBlendOption.Cubic = nil
+EAlphaBlendOption.HermiteCubic = nil
+EAlphaBlendOption.Sinusoidal = nil
+EAlphaBlendOption.QuadraticInOut = nil
+EAlphaBlendOption.CubicInOut = nil
+EAlphaBlendOption.QuarticInOut = nil
+EAlphaBlendOption.QuinticInOut = nil
+EAlphaBlendOption.CircularIn = nil
+EAlphaBlendOption.CircularOut = nil
+EAlphaBlendOption.CircularInOut = nil
+EAlphaBlendOption.ExpIn = nil
+EAlphaBlendOption.ExpOut = nil
+EAlphaBlendOption.ExpInOut = nil
+EAlphaBlendOption.Custom = nil

@@ -1,0 +1,1 @@
+UGizmoLambdaHitTarget = {} ---@type UObject

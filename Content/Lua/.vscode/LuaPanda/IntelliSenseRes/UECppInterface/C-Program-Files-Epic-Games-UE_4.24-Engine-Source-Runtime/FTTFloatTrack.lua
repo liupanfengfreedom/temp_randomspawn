@@ -1,0 +1,2 @@
+FTTFloatTrack = {}
+FTTFloatTrack.CurveFloat = nil

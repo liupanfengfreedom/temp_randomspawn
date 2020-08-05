@@ -1,0 +1,2 @@
+FAnimNotifyEventReference = {}
+FAnimNotifyEventReference.NotifySource = nil

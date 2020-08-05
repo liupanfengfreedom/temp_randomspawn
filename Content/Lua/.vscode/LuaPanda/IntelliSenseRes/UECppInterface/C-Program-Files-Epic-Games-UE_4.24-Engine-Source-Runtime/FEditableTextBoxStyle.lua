@@ -1,0 +1,13 @@
+FEditableTextBoxStyle = {}
+FEditableTextBoxStyle.BackgroundImageNormal = nil
+FEditableTextBoxStyle.BackgroundImageHovered = nil
+FEditableTextBoxStyle.BackgroundImageFocused = nil
+FEditableTextBoxStyle.BackgroundImageReadOnly = nil
+FEditableTextBoxStyle.Padding = nil
+FEditableTextBoxStyle.Font = nil
+FEditableTextBoxStyle.ForegroundColor = nil
+FEditableTextBoxStyle.BackgroundColor = nil
+FEditableTextBoxStyle.ReadOnlyForegroundColor = nil
+FEditableTextBoxStyle.HScrollBarPadding = nil
+FEditableTextBoxStyle.VScrollBarPadding = nil
+FEditableTextBoxStyle.ScrollBarStyle = nil

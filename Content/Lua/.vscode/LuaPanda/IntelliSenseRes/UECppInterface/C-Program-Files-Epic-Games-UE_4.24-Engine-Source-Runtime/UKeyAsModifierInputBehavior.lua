@@ -1,0 +1,1 @@
+UKeyAsModifierInputBehavior = {} ---@type UInputBehavior

@@ -1,0 +1,2 @@
+FSessionServicePing = {}
+FSessionServicePing.UserName = nil

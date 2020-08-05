@@ -1,0 +1,2 @@
+FPortalUserGetUserDetailsResponse = {}
+FPortalUserGetUserDetailsResponse.Result = nil

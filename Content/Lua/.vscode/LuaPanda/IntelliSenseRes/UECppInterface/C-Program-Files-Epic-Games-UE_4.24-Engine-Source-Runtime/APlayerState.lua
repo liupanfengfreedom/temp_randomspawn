@@ -1,0 +1,24 @@
+APlayerState = {} ---@type AInfo
+APlayerState.Score = nil
+APlayerState.PlayerName = nil
+APlayerState.PlayerId = nil
+APlayerState.Ping = nil
+APlayerState.bShouldUpdateReplicatedPing = nil
+APlayerState.bIsSpectator = nil
+APlayerState.bOnlySpectator = nil
+APlayerState.bIsABot = nil
+APlayerState.bIsInactive = nil
+APlayerState.bFromPreviousLevel = nil
+APlayerState.StartTime = nil
+APlayerState.EngineMessageClass = nil
+APlayerState.SavedNetworkAddress = nil
+APlayerState.UniqueId = nil
+APlayerState.PlayerNamePrivate = nil
+function APlayerState.OnRep_Score() end
+function APlayerState.OnRep_PlayerName() end
+function APlayerState.OnRep_bIsInactive() end
+function APlayerState.OnRep_PlayerId() end
+function APlayerState.OnRep_UniqueId() end
+function APlayerState.GetPlayerName() end
+function APlayerState.ReceiveOverrideWith(OldPlayerState) end
+function APlayerState.ReceiveCopyProperties(NewPlayerState) end

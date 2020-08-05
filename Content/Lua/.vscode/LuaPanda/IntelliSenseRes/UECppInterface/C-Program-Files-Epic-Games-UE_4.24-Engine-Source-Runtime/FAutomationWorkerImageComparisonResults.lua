@@ -1,0 +1,7 @@
+FAutomationWorkerImageComparisonResults = {}
+FAutomationWorkerImageComparisonResults.UniqueId = nil
+FAutomationWorkerImageComparisonResults.bNew = nil
+FAutomationWorkerImageComparisonResults.bSimilar = nil
+FAutomationWorkerImageComparisonResults.MaxLocalDifference = nil
+FAutomationWorkerImageComparisonResults.GlobalDifference = nil
+FAutomationWorkerImageComparisonResults.ErrorMessage = nil

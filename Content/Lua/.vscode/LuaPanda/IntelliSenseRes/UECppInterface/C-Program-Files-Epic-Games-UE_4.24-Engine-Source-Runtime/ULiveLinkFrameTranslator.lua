@@ -1,0 +1,1 @@
+ULiveLinkFrameTranslator = {} ---@type UObject

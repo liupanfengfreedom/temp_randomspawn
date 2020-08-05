@@ -1,0 +1,1 @@
+UMovieSceneActorReferenceTrack = {} ---@type UMovieScenePropertyTrack

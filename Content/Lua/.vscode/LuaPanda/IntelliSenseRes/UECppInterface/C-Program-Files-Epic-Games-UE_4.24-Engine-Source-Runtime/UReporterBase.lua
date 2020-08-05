@@ -1,0 +1,1 @@
+UReporterBase = {} ---@type UObject

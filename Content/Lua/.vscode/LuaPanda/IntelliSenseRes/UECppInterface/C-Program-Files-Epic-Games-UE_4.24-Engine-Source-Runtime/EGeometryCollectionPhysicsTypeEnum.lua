@@ -1,0 +1,10 @@
+EGeometryCollectionPhysicsTypeEnum = {}
+EGeometryCollectionPhysicsTypeEnum.Chaos_AngularVelocity = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_DynamicState = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_LinearVelocity = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_InitialAngularVelocity = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_InitialLinearVelocity = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_CollisionGroup = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_LinearForce = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_AngularTorque = nil
+EGeometryCollectionPhysicsTypeEnum.Chaos_Max = nil

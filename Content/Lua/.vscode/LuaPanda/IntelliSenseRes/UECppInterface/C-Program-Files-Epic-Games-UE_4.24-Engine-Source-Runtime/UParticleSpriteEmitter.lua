@@ -1,0 +1,1 @@
+UParticleSpriteEmitter = {} ---@type UParticleEmitter

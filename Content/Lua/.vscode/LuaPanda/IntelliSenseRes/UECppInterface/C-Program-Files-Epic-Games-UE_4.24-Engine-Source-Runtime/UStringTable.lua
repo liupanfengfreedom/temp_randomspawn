@@ -1,0 +1,1 @@
+UStringTable = {} ---@type UObject

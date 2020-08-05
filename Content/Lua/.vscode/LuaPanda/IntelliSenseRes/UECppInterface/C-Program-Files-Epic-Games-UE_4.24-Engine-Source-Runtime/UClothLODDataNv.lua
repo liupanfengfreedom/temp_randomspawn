@@ -1,0 +1,1 @@
+UClothLODDataNv = {} ---@type UClothLODDataBase

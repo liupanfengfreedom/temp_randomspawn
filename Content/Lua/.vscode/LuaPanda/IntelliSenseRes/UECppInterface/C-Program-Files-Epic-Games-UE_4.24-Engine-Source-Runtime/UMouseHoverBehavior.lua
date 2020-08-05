@@ -1,0 +1,1 @@
+UMouseHoverBehavior = {} ---@type UInputBehavior

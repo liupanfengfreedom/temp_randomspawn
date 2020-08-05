@@ -1,0 +1,15 @@
+FConstraintProfileProperties = {}
+FConstraintProfileProperties.ProjectionLinearTolerance = nil
+FConstraintProfileProperties.ProjectionAngularTolerance = nil
+FConstraintProfileProperties.LinearBreakThreshold = nil
+FConstraintProfileProperties.AngularBreakThreshold = nil
+FConstraintProfileProperties.LinearLimit = nil
+FConstraintProfileProperties.ConeLimit = nil
+FConstraintProfileProperties.TwistLimit = nil
+FConstraintProfileProperties.LinearDrive = nil
+FConstraintProfileProperties.AngularDrive = nil
+FConstraintProfileProperties.bDisableCollision = nil
+FConstraintProfileProperties.bParentDominates = nil
+FConstraintProfileProperties.bEnableProjection = nil
+FConstraintProfileProperties.bAngularBreakable = nil
+FConstraintProfileProperties.bLinearBreakable = nil

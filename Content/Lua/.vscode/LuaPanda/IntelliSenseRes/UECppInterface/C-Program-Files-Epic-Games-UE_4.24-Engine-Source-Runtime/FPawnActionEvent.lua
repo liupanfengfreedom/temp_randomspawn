@@ -1,0 +1,2 @@
+FPawnActionEvent = {}
+FPawnActionEvent.Action = nil

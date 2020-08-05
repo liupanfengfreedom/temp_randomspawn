@@ -1,0 +1,31 @@
+UBlueprintGameplayTagLibrary = {} ---@type UBlueprintFunctionLibrary
+function UBlueprintGameplayTagLibrary.MatchesTag(TagOne, TagTwo, bExactMatch) end
+function UBlueprintGameplayTagLibrary.MatchesAnyTags(TagOne, OtherContainer, bExactMatch) end
+function UBlueprintGameplayTagLibrary.EqualEqual_GameplayTag(A, B) end
+function UBlueprintGameplayTagLibrary.NotEqual_GameplayTag(A, B) end
+function UBlueprintGameplayTagLibrary.IsGameplayTagValid(GameplayTag) end
+function UBlueprintGameplayTagLibrary.GetTagName(GameplayTag) end
+function UBlueprintGameplayTagLibrary.MakeLiteralGameplayTag(Value) end
+function UBlueprintGameplayTagLibrary.GetNumGameplayTagsInContainer(TagContainer) end
+function UBlueprintGameplayTagLibrary.HasTag(TagContainer, Tag, bExactMatch) end
+function UBlueprintGameplayTagLibrary.HasAnyTags(TagContainer, OtherContainer, bExactMatch) end
+function UBlueprintGameplayTagLibrary.HasAllTags(TagContainer, OtherContainer, bExactMatch) end
+function UBlueprintGameplayTagLibrary.IsTagQueryEmpty(TagQuery) end
+function UBlueprintGameplayTagLibrary.DoesContainerMatchTagQuery(TagContainer, TagQuery) end
+function UBlueprintGameplayTagLibrary.GetAllActorsOfClassMatchingTagQuery(WorldContextObject, ActorClass, GameplayTagQuery, OutActors) end
+function UBlueprintGameplayTagLibrary.AddGameplayTag(TagContainer, Tag) end
+function UBlueprintGameplayTagLibrary.RemoveGameplayTag(TagContainer, Tag) end
+function UBlueprintGameplayTagLibrary.AppendGameplayTagContainers(InOutTagContainer, InTagContainer) end
+function UBlueprintGameplayTagLibrary.EqualEqual_GameplayTagContainer(A, B) end
+function UBlueprintGameplayTagLibrary.NotEqual_GameplayTagContainer(A, B) end
+function UBlueprintGameplayTagLibrary.MakeLiteralGameplayTagContainer(Value) end
+function UBlueprintGameplayTagLibrary.MakeGameplayTagContainerFromArray(GameplayTags) end
+function UBlueprintGameplayTagLibrary.MakeGameplayTagContainerFromTag(SingleTag) end
+function UBlueprintGameplayTagLibrary.BreakGameplayTagContainer(GameplayTagContainer, GameplayTags) end
+function UBlueprintGameplayTagLibrary.MakeGameplayTagQuery(TagQuery) end
+function UBlueprintGameplayTagLibrary.HasAllMatchingGameplayTags(TagContainerInterface, OtherContainer) end
+function UBlueprintGameplayTagLibrary.DoesTagAssetInterfaceHaveTag(TagContainerInterface, Tag) end
+function UBlueprintGameplayTagLibrary.NotEqual_TagTag(A, B) end
+function UBlueprintGameplayTagLibrary.NotEqual_TagContainerTagContainer(A, B) end
+function UBlueprintGameplayTagLibrary.GetDebugStringFromGameplayTagContainer(TagContainer) end
+function UBlueprintGameplayTagLibrary.GetDebugStringFromGameplayTag(GameplayTag) end

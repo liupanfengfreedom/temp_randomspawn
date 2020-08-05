@@ -1,0 +1,2 @@
+FMarkerSyncData = {}
+FMarkerSyncData.AuthoredSyncMarkers = nil

@@ -1,0 +1,10 @@
+EMaterialDecalResponse = {}
+EMaterialDecalResponse.MDR_None = nil
+EMaterialDecalResponse.MDR_ColorNormalRoughness = nil
+EMaterialDecalResponse.MDR_Color = nil
+EMaterialDecalResponse.MDR_ColorNormal = nil
+EMaterialDecalResponse.MDR_ColorRoughness = nil
+EMaterialDecalResponse.MDR_Normal = nil
+EMaterialDecalResponse.MDR_NormalRoughness = nil
+EMaterialDecalResponse.MDR_Roughness = nil
+EMaterialDecalResponse.MDR_MAX = nil

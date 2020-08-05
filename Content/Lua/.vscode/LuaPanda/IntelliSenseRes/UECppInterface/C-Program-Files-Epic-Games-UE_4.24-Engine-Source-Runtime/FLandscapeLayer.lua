@@ -1,0 +1,10 @@
+FLandscapeLayer = {}
+FLandscapeLayer.Guid = nil
+FLandscapeLayer.Name = nil
+FLandscapeLayer.bVisible = nil
+FLandscapeLayer.bLocked = nil
+FLandscapeLayer.HeightmapAlpha = nil
+FLandscapeLayer.WeightmapAlpha = nil
+FLandscapeLayer.BlendMode = nil
+FLandscapeLayer.Brushes = nil
+FLandscapeLayer.WeightmapLayerAllocationBlend = nil

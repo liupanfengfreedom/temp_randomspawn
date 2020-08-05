@@ -1,0 +1,4 @@
+FBlueprintComponentChangedPropertyInfo = {}
+FBlueprintComponentChangedPropertyInfo.PropertyName = nil
+FBlueprintComponentChangedPropertyInfo.ArrayIndex = nil
+FBlueprintComponentChangedPropertyInfo.PropertyScope = nil

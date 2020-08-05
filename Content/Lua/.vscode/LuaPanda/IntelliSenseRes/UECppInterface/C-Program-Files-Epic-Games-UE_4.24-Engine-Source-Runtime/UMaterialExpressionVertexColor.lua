@@ -1,0 +1,1 @@
+UMaterialExpressionVertexColor = {} ---@type UMaterialExpression

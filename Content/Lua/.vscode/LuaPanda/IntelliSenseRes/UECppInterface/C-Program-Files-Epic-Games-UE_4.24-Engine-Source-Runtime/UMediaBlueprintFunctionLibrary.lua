@@ -1,0 +1,4 @@
+UMediaBlueprintFunctionLibrary = {} ---@type UBlueprintFunctionLibrary
+function UMediaBlueprintFunctionLibrary.EnumerateAudioCaptureDevices(OutDevices) end
+function UMediaBlueprintFunctionLibrary.EnumerateVideoCaptureDevices(OutDevices) end
+function UMediaBlueprintFunctionLibrary.EnumerateWebcamCaptureDevices(OutDevices) end

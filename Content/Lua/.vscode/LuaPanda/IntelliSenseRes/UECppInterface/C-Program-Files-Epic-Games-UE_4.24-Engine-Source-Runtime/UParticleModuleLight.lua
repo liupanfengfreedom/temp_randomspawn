@@ -1,0 +1,13 @@
+UParticleModuleLight = {} ---@type UParticleModuleLightBase
+UParticleModuleLight.bUseInverseSquaredFalloff = nil
+UParticleModuleLight.bAffectsTranslucency = nil
+UParticleModuleLight.bPreviewLightRadius = nil
+UParticleModuleLight.SpawnFraction = nil
+UParticleModuleLight.ColorScaleOverLife = nil
+UParticleModuleLight.BrightnessOverLife = nil
+UParticleModuleLight.RadiusScale = nil
+UParticleModuleLight.LightExponent = nil
+UParticleModuleLight.LightingChannels = nil
+UParticleModuleLight.VolumetricScatteringIntensity = nil
+UParticleModuleLight.bHighQualityLights = nil
+UParticleModuleLight.bShadowCastingLights = nil

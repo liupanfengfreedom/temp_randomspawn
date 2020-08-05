@@ -1,0 +1,6 @@
+FUpdateLevelStreamingLevelStatus = {}
+FUpdateLevelStreamingLevelStatus.PackageName = nil
+FUpdateLevelStreamingLevelStatus.LODIndex = nil
+FUpdateLevelStreamingLevelStatus.bNewShouldBeLoaded = nil
+FUpdateLevelStreamingLevelStatus.bNewShouldBeVisible = nil
+FUpdateLevelStreamingLevelStatus.bNewShouldBlockOnLoad = nil

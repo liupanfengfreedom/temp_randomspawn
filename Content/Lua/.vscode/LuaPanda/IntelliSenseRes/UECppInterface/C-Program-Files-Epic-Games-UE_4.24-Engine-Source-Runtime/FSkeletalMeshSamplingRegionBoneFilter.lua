@@ -1,0 +1,4 @@
+FSkeletalMeshSamplingRegionBoneFilter = {}
+FSkeletalMeshSamplingRegionBoneFilter.BoneName = nil
+FSkeletalMeshSamplingRegionBoneFilter.bIncludeOrExclude = nil
+FSkeletalMeshSamplingRegionBoneFilter.bApplyToChildren = nil

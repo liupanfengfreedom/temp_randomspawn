@@ -1,0 +1,2 @@
+FLiveLinkClearSubject = {}
+FLiveLinkClearSubject.SubjectName = nil

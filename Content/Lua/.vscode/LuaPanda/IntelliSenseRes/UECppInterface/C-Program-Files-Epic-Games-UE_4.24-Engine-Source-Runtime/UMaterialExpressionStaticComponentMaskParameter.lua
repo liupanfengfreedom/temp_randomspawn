@@ -1,0 +1,6 @@
+UMaterialExpressionStaticComponentMaskParameter = {} ---@type UMaterialExpressionParameter
+UMaterialExpressionStaticComponentMaskParameter.Input = nil
+UMaterialExpressionStaticComponentMaskParameter.DefaultR = nil
+UMaterialExpressionStaticComponentMaskParameter.DefaultG = nil
+UMaterialExpressionStaticComponentMaskParameter.DefaultB = nil
+UMaterialExpressionStaticComponentMaskParameter.DefaultA = nil

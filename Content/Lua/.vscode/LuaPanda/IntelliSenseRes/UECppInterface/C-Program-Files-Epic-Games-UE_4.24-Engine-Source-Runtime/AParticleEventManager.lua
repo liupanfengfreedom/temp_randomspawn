@@ -1,0 +1,1 @@
+AParticleEventManager = {} ---@type AActor

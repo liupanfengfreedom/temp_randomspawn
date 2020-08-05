@@ -1,0 +1,1 @@
+USingleClickTool = {} ---@type UInteractiveTool

@@ -1,0 +1,13 @@
+FAudioEQEffect = {}
+FAudioEQEffect.FrequencyCenter0 = nil
+FAudioEQEffect.Gain0 = nil
+FAudioEQEffect.Bandwidth0 = nil
+FAudioEQEffect.FrequencyCenter1 = nil
+FAudioEQEffect.Gain1 = nil
+FAudioEQEffect.Bandwidth1 = nil
+FAudioEQEffect.FrequencyCenter2 = nil
+FAudioEQEffect.Gain2 = nil
+FAudioEQEffect.Bandwidth2 = nil
+FAudioEQEffect.FrequencyCenter3 = nil
+FAudioEQEffect.Gain3 = nil
+FAudioEQEffect.Bandwidth3 = nil

@@ -1,0 +1,14 @@
+FSubmixEffectReverbFastSettings = {}
+FSubmixEffectReverbFastSettings.Density = nil
+FSubmixEffectReverbFastSettings.Diffusion = nil
+FSubmixEffectReverbFastSettings.Gain = nil
+FSubmixEffectReverbFastSettings.GainHF = nil
+FSubmixEffectReverbFastSettings.DecayTime = nil
+FSubmixEffectReverbFastSettings.DecayHFRatio = nil
+FSubmixEffectReverbFastSettings.ReflectionsGain = nil
+FSubmixEffectReverbFastSettings.ReflectionsDelay = nil
+FSubmixEffectReverbFastSettings.LateGain = nil
+FSubmixEffectReverbFastSettings.LateDelay = nil
+FSubmixEffectReverbFastSettings.AirAbsorptionGainHF = nil
+FSubmixEffectReverbFastSettings.WetLevel = nil
+FSubmixEffectReverbFastSettings.DryLevel = nil

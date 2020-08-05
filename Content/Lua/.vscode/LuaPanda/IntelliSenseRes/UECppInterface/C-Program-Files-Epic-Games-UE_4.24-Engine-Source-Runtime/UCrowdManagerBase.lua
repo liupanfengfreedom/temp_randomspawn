@@ -1,0 +1,1 @@
+UCrowdManagerBase = {} ---@type UObject

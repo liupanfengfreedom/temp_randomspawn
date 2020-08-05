@@ -1,0 +1,1 @@
+UMovieSceneSlomoSection = {} ---@type UMovieSceneFloatSection

@@ -1,0 +1,2 @@
+FMovieSceneEnumPropertySectionTemplate = {}
+FMovieSceneEnumPropertySectionTemplate.EnumCurve = nil

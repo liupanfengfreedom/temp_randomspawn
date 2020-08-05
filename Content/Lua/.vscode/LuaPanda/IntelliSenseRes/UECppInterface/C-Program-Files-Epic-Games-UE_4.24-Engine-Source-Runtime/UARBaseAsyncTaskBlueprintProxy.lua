@@ -1,0 +1,1 @@
+UARBaseAsyncTaskBlueprintProxy = {} ---@type UBlueprintAsyncActionBase

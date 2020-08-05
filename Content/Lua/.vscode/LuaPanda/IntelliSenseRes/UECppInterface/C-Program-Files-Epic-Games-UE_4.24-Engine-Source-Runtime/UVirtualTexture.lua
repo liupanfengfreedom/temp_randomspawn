@@ -1,0 +1,1 @@
+UVirtualTexture = {} ---@type UObject

@@ -1,0 +1,6 @@
+EGeometryCollectionDebugDrawActorHideGeometry = {}
+EGeometryCollectionDebugDrawActorHideGeometry.HideNone = nil
+EGeometryCollectionDebugDrawActorHideGeometry.HideWithCollision = nil
+EGeometryCollectionDebugDrawActorHideGeometry.HideSelected = nil
+EGeometryCollectionDebugDrawActorHideGeometry.HideWholeCollection = nil
+EGeometryCollectionDebugDrawActorHideGeometry.HideAll = nil

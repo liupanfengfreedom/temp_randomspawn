@@ -1,0 +1,1 @@
+UMaterialExpressionObjectPositionWS = {} ---@type UMaterialExpression

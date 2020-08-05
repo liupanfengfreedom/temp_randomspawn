@@ -1,0 +1,2 @@
+FSubmixEffectSubmixEQSettings = {}
+FSubmixEffectSubmixEQSettings.EQBands = nil

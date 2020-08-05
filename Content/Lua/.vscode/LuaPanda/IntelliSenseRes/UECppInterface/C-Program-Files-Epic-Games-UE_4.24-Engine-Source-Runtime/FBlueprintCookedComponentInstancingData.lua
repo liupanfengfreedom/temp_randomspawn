@@ -1,0 +1,3 @@
+FBlueprintCookedComponentInstancingData = {}
+FBlueprintCookedComponentInstancingData.ChangedPropertyList = nil
+FBlueprintCookedComponentInstancingData.bHasValidCookedData = nil

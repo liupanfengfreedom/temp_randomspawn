@@ -1,0 +1,1 @@
+ARigidBodyBase = {} ---@type AActor

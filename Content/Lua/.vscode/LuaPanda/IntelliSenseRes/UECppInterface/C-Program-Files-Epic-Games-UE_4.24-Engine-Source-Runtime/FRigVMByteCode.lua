@@ -1,0 +1,2 @@
+FRigVMByteCode = {}
+FRigVMByteCode.ByteCode = nil

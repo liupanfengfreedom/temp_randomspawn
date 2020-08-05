@@ -1,0 +1,1 @@
+UAIDataProvider = {} ---@type UObject

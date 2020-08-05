@@ -1,0 +1,10 @@
+FAnimNode_RotationOffsetBlendSpace = {}
+FAnimNode_RotationOffsetBlendSpace.BasePose = nil
+FAnimNode_RotationOffsetBlendSpace.LODThreshold = nil
+FAnimNode_RotationOffsetBlendSpace.Alpha = nil
+FAnimNode_RotationOffsetBlendSpace.AlphaScaleBias = nil
+FAnimNode_RotationOffsetBlendSpace.AlphaBoolBlend = nil
+FAnimNode_RotationOffsetBlendSpace.AlphaCurveName = nil
+FAnimNode_RotationOffsetBlendSpace.AlphaScaleBiasClamp = nil
+FAnimNode_RotationOffsetBlendSpace.AlphaInputType = nil
+FAnimNode_RotationOffsetBlendSpace.bAlphaBoolEnabled = nil

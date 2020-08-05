@@ -1,0 +1,2 @@
+FBoneReductionSetting = {}
+FBoneReductionSetting.BonesToRemove = nil

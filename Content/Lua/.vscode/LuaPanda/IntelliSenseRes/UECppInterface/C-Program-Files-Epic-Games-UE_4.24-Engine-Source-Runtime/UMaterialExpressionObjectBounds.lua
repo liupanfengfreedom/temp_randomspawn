@@ -1,0 +1,1 @@
+UMaterialExpressionObjectBounds = {} ---@type UMaterialExpression

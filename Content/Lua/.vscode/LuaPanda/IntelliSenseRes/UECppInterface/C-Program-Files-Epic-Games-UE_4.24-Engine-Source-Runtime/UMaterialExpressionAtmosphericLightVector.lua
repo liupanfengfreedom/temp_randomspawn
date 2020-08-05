@@ -1,0 +1,1 @@
+UMaterialExpressionAtmosphericLightVector = {} ---@type UMaterialExpression

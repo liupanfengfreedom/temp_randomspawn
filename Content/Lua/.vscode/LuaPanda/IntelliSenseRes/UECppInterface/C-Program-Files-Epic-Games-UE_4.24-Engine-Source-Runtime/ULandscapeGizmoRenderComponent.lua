@@ -1,0 +1,1 @@
+ULandscapeGizmoRenderComponent = {} ---@type UPrimitiveComponent

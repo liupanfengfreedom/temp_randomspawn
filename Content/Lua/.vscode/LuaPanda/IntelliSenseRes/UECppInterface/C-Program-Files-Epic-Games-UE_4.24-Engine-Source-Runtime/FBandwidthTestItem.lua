@@ -1,0 +1,2 @@
+FBandwidthTestItem = {}
+FBandwidthTestItem.Kilobyte = nil

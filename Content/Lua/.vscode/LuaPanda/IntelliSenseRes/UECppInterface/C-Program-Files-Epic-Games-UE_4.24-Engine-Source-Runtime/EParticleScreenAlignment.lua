@@ -1,0 +1,9 @@
+EParticleScreenAlignment = {}
+EParticleScreenAlignment.PSA_FacingCameraPosition = nil
+EParticleScreenAlignment.PSA_Square = nil
+EParticleScreenAlignment.PSA_Rectangle = nil
+EParticleScreenAlignment.PSA_Velocity = nil
+EParticleScreenAlignment.PSA_AwayFromCenter = nil
+EParticleScreenAlignment.PSA_TypeSpecific = nil
+EParticleScreenAlignment.PSA_FacingCameraDistanceBlend = nil
+EParticleScreenAlignment.PSA_MAX = nil

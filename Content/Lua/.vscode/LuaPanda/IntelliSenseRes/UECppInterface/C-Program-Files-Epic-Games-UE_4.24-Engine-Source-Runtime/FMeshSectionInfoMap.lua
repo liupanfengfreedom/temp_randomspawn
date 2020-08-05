@@ -1,0 +1,2 @@
+FMeshSectionInfoMap = {}
+FMeshSectionInfoMap.Map = nil

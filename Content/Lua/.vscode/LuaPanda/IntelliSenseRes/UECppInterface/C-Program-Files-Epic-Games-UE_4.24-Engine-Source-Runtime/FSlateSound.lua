@@ -1,0 +1,2 @@
+FSlateSound = {}
+FSlateSound.ResourceObject = nil

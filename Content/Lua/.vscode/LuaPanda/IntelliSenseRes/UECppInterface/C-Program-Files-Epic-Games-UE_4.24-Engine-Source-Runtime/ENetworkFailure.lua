@@ -1,0 +1,12 @@
+ENetworkFailure = {}
+ENetworkFailure.NetDriverAlreadyExists = nil
+ENetworkFailure.NetDriverCreateFailure = nil
+ENetworkFailure.NetDriverListenFailure = nil
+ENetworkFailure.ConnectionLost = nil
+ENetworkFailure.ConnectionTimeout = nil
+ENetworkFailure.FailureReceived = nil
+ENetworkFailure.OutdatedClient = nil
+ENetworkFailure.OutdatedServer = nil
+ENetworkFailure.PendingConnectionFailure = nil
+ENetworkFailure.NetGuidMismatch = nil
+ENetworkFailure.NetChecksumMismatch = nil

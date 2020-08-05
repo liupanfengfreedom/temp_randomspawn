@@ -1,0 +1,5 @@
+UMaterialInstanceConstant = {} ---@type UMaterialInstance
+UMaterialInstanceConstant.ParameterStateId = nil
+function UMaterialInstanceConstant.K2_GetScalarParameterValue(ParameterName) end
+function UMaterialInstanceConstant.K2_GetTextureParameterValue(ParameterName) end
+function UMaterialInstanceConstant.K2_GetVectorParameterValue(ParameterName) end

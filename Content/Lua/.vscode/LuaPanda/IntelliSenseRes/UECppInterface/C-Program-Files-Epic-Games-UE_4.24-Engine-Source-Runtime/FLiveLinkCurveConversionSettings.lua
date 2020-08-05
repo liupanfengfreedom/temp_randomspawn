@@ -1,0 +1,2 @@
+FLiveLinkCurveConversionSettings = {}
+FLiveLinkCurveConversionSettings.CurveConversionAssetMap = nil

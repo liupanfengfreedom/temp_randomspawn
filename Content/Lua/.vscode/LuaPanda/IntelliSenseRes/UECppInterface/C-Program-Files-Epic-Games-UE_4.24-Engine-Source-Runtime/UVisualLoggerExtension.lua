@@ -1,0 +1,1 @@
+UVisualLoggerExtension = {} ---@type UObject

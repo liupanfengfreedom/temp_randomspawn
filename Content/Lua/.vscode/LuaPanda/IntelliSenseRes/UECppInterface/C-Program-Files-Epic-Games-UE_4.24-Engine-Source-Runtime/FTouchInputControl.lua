@@ -1,0 +1,10 @@
+FTouchInputControl = {}
+FTouchInputControl.Image1 = nil
+FTouchInputControl.Image2 = nil
+FTouchInputControl.Center = nil
+FTouchInputControl.VisualSize = nil
+FTouchInputControl.ThumbSize = nil
+FTouchInputControl.InteractionSize = nil
+FTouchInputControl.InputScale = nil
+FTouchInputControl.MainInputKey = nil
+FTouchInputControl.AltInputKey = nil

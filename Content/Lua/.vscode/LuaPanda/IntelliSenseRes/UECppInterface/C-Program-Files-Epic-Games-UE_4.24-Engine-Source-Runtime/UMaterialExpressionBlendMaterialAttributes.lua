@@ -1,0 +1,6 @@
+UMaterialExpressionBlendMaterialAttributes = {} ---@type UMaterialExpression
+UMaterialExpressionBlendMaterialAttributes.A = nil
+UMaterialExpressionBlendMaterialAttributes.B = nil
+UMaterialExpressionBlendMaterialAttributes.Alpha = nil
+UMaterialExpressionBlendMaterialAttributes.PixelAttributeBlendType = nil
+UMaterialExpressionBlendMaterialAttributes.VertexAttributeBlendType = nil

@@ -1,0 +1,10 @@
+UBTDecorator_Blackboard = {} ---@type UBTDecorator_BlackboardBase
+UBTDecorator_Blackboard.IntValue = nil
+UBTDecorator_Blackboard.FloatValue = nil
+UBTDecorator_Blackboard.StringValue = nil
+UBTDecorator_Blackboard.CachedDescription = nil
+UBTDecorator_Blackboard.OperationType = nil
+UBTDecorator_Blackboard.NotifyObserver = nil
+UBTDecorator_Blackboard.BasicOperation = nil
+UBTDecorator_Blackboard.ArithmeticOperation = nil
+UBTDecorator_Blackboard.TextOperation = nil

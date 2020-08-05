@@ -1,0 +1,10 @@
+FRepMovement = {}
+FRepMovement.LinearVelocity = nil
+FRepMovement.AngularVelocity = nil
+FRepMovement.Location = nil
+FRepMovement.Rotation = nil
+FRepMovement.bSimulatedPhysicSleep = nil
+FRepMovement.bRepPhysics = nil
+FRepMovement.LocationQuantizationLevel = nil
+FRepMovement.VelocityQuantizationLevel = nil
+FRepMovement.RotationQuantizationLevel = nil

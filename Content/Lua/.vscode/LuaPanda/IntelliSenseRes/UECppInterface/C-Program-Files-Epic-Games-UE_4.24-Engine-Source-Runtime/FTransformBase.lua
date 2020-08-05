@@ -1,0 +1,2 @@
+FTransformBase = {}
+FTransformBase.Node = nil

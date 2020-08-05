@@ -1,0 +1,1 @@
+UParticleModuleRotationBase = {} ---@type UParticleModule

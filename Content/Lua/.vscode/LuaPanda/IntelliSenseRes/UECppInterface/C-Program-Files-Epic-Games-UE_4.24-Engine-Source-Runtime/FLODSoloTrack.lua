@@ -1,0 +1,2 @@
+FLODSoloTrack = {}
+FLODSoloTrack.SoloEnableSetting = nil

@@ -1,0 +1,1 @@
+UParticleModuleColorBase = {} ---@type UParticleModule

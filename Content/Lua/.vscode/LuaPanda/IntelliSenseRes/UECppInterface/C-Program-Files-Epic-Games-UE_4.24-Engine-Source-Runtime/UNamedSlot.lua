@@ -1,0 +1,1 @@
+UNamedSlot = {} ---@type UContentWidget

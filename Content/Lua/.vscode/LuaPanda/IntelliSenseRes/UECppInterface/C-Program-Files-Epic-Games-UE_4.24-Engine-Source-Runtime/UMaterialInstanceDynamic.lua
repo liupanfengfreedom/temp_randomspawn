@@ -1,0 +1,11 @@
+UMaterialInstanceDynamic = {} ---@type UMaterialInstance
+function UMaterialInstanceDynamic.SetScalarParameterValue(ParameterName, Value) end
+function UMaterialInstanceDynamic.K2_GetScalarParameterValue(ParameterName) end
+function UMaterialInstanceDynamic.SetTextureParameterValue(ParameterName, Value) end
+function UMaterialInstanceDynamic.K2_GetTextureParameterValue(ParameterName) end
+function UMaterialInstanceDynamic.SetVectorParameterValue(ParameterName, Value) end
+function UMaterialInstanceDynamic.K2_GetVectorParameterValue(ParameterName) end
+function UMaterialInstanceDynamic.K2_InterpolateMaterialInstanceParams(SourceA, SourceB, Alpha) end
+function UMaterialInstanceDynamic.K2_CopyMaterialInstanceParameters(Source) end
+function UMaterialInstanceDynamic.CopyInterpParameters(Source) end
+function UMaterialInstanceDynamic.CopyParameterOverrides(MaterialInstance) end

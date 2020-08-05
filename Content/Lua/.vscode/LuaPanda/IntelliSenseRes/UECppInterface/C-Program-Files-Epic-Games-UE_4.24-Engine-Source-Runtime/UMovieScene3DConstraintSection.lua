@@ -1,0 +1,5 @@
+UMovieScene3DConstraintSection = {} ---@type UMovieSceneSection
+UMovieScene3DConstraintSection.ConstraintId_DEPRECATED = nil
+UMovieScene3DConstraintSection.ConstraintBindingID = nil
+function UMovieScene3DConstraintSection.GetConstraintBindingID() end
+function UMovieScene3DConstraintSection.SetConstraintBindingID(InConstraintBindingID) end

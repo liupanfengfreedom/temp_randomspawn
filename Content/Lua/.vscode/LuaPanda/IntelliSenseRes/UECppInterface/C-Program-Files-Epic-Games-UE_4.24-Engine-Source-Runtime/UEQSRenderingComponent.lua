@@ -1,0 +1,1 @@
+UEQSRenderingComponent = {} ---@type UPrimitiveComponent

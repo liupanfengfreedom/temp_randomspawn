@@ -1,0 +1,7 @@
+FRootMotionSource_MoveToDynamicForce = {}
+FRootMotionSource_MoveToDynamicForce.StartLocation = nil
+FRootMotionSource_MoveToDynamicForce.InitialTargetLocation = nil
+FRootMotionSource_MoveToDynamicForce.TargetLocation = nil
+FRootMotionSource_MoveToDynamicForce.bRestrictSpeedToExpected = nil
+FRootMotionSource_MoveToDynamicForce.PathOffsetCurve = nil
+FRootMotionSource_MoveToDynamicForce.TimeMappingCurve = nil

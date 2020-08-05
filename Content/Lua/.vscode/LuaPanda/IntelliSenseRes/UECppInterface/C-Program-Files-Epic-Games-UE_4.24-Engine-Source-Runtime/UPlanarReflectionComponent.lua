@@ -1,0 +1,16 @@
+UPlanarReflectionComponent = {} ---@type USceneCaptureComponent
+UPlanarReflectionComponent.PreviewBox = nil
+UPlanarReflectionComponent.NormalDistortionStrength = nil
+UPlanarReflectionComponent.PrefilterRoughness = nil
+UPlanarReflectionComponent.PrefilterRoughnessDistance = nil
+UPlanarReflectionComponent.ScreenPercentage = nil
+UPlanarReflectionComponent.ExtraFOV = nil
+UPlanarReflectionComponent.DistanceFromPlaneFadeStart_DEPRECATED = nil
+UPlanarReflectionComponent.DistanceFromPlaneFadeEnd_DEPRECATED = nil
+UPlanarReflectionComponent.DistanceFromPlaneFadeoutStart = nil
+UPlanarReflectionComponent.DistanceFromPlaneFadeoutEnd = nil
+UPlanarReflectionComponent.AngleFromPlaneFadeStart = nil
+UPlanarReflectionComponent.AngleFromPlaneFadeEnd = nil
+UPlanarReflectionComponent.bShowPreviewPlane = nil
+UPlanarReflectionComponent.bRenderSceneTwoSided = nil
+UPlanarReflectionComponent.CaptureMaterial = nil

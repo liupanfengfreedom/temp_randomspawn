@@ -1,0 +1,1 @@
+AInternalToolFrameworkActor = {} ---@type AActor

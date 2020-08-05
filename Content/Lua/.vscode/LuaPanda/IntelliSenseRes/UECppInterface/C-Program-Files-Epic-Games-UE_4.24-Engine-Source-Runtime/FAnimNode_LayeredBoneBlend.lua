@@ -1,0 +1,13 @@
+FAnimNode_LayeredBoneBlend = {}
+FAnimNode_LayeredBoneBlend.BasePose = nil
+FAnimNode_LayeredBoneBlend.BlendPoses = nil
+FAnimNode_LayeredBoneBlend.LayerSetup = nil
+FAnimNode_LayeredBoneBlend.BlendWeights = nil
+FAnimNode_LayeredBoneBlend.bMeshSpaceRotationBlend = nil
+FAnimNode_LayeredBoneBlend.bMeshSpaceScaleBlend = nil
+FAnimNode_LayeredBoneBlend.CurveBlendOption = nil
+FAnimNode_LayeredBoneBlend.bBlendRootMotionBasedOnRootBone = nil
+FAnimNode_LayeredBoneBlend.LODThreshold = nil
+FAnimNode_LayeredBoneBlend.PerBoneBlendWeights = nil
+FAnimNode_LayeredBoneBlend.SkeletonGuid = nil
+FAnimNode_LayeredBoneBlend.VirtualBoneGuid = nil

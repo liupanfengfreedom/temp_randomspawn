@@ -1,0 +1,2 @@
+FIOSBuildResourceFilePath = {}
+FIOSBuildResourceFilePath.FilePath = nil

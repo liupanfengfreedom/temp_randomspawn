@@ -1,0 +1,2 @@
+FVirtualKeyboardOptions = {}
+FVirtualKeyboardOptions.bEnableAutocorrect = nil

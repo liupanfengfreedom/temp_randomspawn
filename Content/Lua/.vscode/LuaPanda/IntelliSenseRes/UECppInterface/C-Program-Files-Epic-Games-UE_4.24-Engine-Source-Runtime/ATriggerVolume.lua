@@ -1,0 +1,1 @@
+ATriggerVolume = {} ---@type AVolume

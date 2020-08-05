@@ -1,0 +1,2 @@
+FTTVectorTrack = {}
+FTTVectorTrack.CurveVector = nil

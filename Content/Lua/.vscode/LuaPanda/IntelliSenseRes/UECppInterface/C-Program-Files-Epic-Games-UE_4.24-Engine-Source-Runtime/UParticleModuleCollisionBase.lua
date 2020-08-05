@@ -1,0 +1,1 @@
+UParticleModuleCollisionBase = {} ---@type UParticleModule

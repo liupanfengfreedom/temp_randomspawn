@@ -1,0 +1,9 @@
+UMovieSceneSkeletalAnimationSection = {} ---@type UMovieSceneSection
+UMovieSceneSkeletalAnimationSection.Params = nil
+UMovieSceneSkeletalAnimationSection.AnimSequence_DEPRECATED = nil
+UMovieSceneSkeletalAnimationSection.Animation_DEPRECATED = nil
+UMovieSceneSkeletalAnimationSection.StartOffset_DEPRECATED = nil
+UMovieSceneSkeletalAnimationSection.EndOffset_DEPRECATED = nil
+UMovieSceneSkeletalAnimationSection.PlayRate_DEPRECATED = nil
+UMovieSceneSkeletalAnimationSection.bReverse_DEPRECATED = nil
+UMovieSceneSkeletalAnimationSection.SlotName_DEPRECATED = nil

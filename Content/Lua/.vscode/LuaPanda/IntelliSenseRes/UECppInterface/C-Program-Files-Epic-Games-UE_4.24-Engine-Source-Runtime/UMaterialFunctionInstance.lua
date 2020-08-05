@@ -1,0 +1,11 @@
+UMaterialFunctionInstance = {} ---@type UMaterialFunctionInterface
+UMaterialFunctionInstance.Parent = nil
+UMaterialFunctionInstance.Base = nil
+UMaterialFunctionInstance.ScalarParameterValues = nil
+UMaterialFunctionInstance.VectorParameterValues = nil
+UMaterialFunctionInstance.TextureParameterValues = nil
+UMaterialFunctionInstance.FontParameterValues = nil
+UMaterialFunctionInstance.StaticSwitchParameterValues = nil
+UMaterialFunctionInstance.StaticComponentMaskParameterValues = nil
+UMaterialFunctionInstance.RuntimeVirtualTextureParameterValues = nil
+UMaterialFunctionInstance.PreviewMaterial = nil

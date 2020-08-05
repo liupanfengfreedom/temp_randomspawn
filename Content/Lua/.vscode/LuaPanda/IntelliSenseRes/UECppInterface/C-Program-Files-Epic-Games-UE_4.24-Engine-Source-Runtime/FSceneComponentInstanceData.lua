@@ -1,0 +1,2 @@
+FSceneComponentInstanceData = {}
+FSceneComponentInstanceData.AttachedInstanceComponents = nil

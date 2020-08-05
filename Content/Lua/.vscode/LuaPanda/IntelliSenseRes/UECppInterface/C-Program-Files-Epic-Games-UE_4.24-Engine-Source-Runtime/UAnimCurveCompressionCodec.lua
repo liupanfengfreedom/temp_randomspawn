@@ -1,0 +1,1 @@
+UAnimCurveCompressionCodec = {} ---@type UObject

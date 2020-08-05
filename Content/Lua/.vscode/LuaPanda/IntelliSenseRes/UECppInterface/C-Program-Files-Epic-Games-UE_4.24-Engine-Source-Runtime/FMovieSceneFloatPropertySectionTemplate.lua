@@ -1,0 +1,3 @@
+FMovieSceneFloatPropertySectionTemplate = {}
+FMovieSceneFloatPropertySectionTemplate.FloatFunction = nil
+FMovieSceneFloatPropertySectionTemplate.BlendType = nil

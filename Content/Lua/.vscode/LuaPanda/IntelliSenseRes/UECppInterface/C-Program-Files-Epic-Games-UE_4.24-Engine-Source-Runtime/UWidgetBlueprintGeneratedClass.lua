@@ -1,0 +1,16 @@
+UWidgetBlueprintGeneratedClass = {} ---@type UBlueprintGeneratedClass
+UWidgetBlueprintGeneratedClass.WidgetTree = nil
+UWidgetBlueprintGeneratedClass.bCookSlowConstructionWidgetTree = nil
+UWidgetBlueprintGeneratedClass.bCanCallPreConstruct = nil
+UWidgetBlueprintGeneratedClass.bAllowTemplate = nil
+UWidgetBlueprintGeneratedClass.bAllowDynamicCreation = nil
+UWidgetBlueprintGeneratedClass.bValidTemplate = nil
+UWidgetBlueprintGeneratedClass.bTemplateInitialized = nil
+UWidgetBlueprintGeneratedClass.bCookedTemplate = nil
+UWidgetBlueprintGeneratedClass.bClassRequiresNativeTick = nil
+UWidgetBlueprintGeneratedClass.Bindings = nil
+UWidgetBlueprintGeneratedClass.Animations = nil
+UWidgetBlueprintGeneratedClass.NamedSlots = nil
+UWidgetBlueprintGeneratedClass.TemplateAsset = nil
+UWidgetBlueprintGeneratedClass.Template = nil
+UWidgetBlueprintGeneratedClass.EditorTemplate = nil

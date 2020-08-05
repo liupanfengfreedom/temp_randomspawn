@@ -1,0 +1,2 @@
+FMessageRpcCancel = {}
+FMessageRpcCancel.CallId = nil

@@ -1,0 +1,1 @@
+UAISenseBlueprintListener = {} ---@type UUserDefinedStruct

@@ -1,0 +1,1 @@
+UInputDelegateBinding = {} ---@type UDynamicBlueprintBinding

@@ -1,0 +1,1 @@
+APrecomputedVisibilityVolume = {} ---@type AVolume

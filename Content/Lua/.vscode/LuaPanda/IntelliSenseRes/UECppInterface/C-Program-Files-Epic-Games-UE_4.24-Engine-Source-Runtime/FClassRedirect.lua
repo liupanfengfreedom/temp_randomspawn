@@ -1,0 +1,9 @@
+FClassRedirect = {}
+FClassRedirect.ObjectName = nil
+FClassRedirect.OldClassName = nil
+FClassRedirect.NewClassName = nil
+FClassRedirect.OldSubobjName = nil
+FClassRedirect.NewSubobjName = nil
+FClassRedirect.NewClassClass = nil
+FClassRedirect.NewClassPackage = nil
+FClassRedirect.InstanceOnly = nil

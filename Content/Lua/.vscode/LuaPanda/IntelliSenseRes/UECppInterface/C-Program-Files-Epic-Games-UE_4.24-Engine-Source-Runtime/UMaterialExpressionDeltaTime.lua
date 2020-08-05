@@ -1,0 +1,1 @@
+UMaterialExpressionDeltaTime = {} ---@type UMaterialExpression

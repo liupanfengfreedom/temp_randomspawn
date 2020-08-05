@@ -1,0 +1,1 @@
+UNavLinkTrivial = {} ---@type UNavLinkDefinition

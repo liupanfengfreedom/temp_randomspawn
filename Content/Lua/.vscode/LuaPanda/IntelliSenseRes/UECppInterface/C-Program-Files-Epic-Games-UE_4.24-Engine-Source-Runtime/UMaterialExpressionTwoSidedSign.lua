@@ -1,0 +1,1 @@
+UMaterialExpressionTwoSidedSign = {} ---@type UMaterialExpression

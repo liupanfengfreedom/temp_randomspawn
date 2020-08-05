@@ -1,0 +1,10 @@
+FLiveLinkLightStaticData = {}
+FLiveLinkLightStaticData.bIsTemperatureSupported = nil
+FLiveLinkLightStaticData.bIsIntensitySupported = nil
+FLiveLinkLightStaticData.bIsLightColorSupported = nil
+FLiveLinkLightStaticData.bIsInnerConeAngleSupported = nil
+FLiveLinkLightStaticData.bIsOuterConeAngleSupported = nil
+FLiveLinkLightStaticData.bIsAttenuationRadiusSupported = nil
+FLiveLinkLightStaticData.bIsSourceLenghtSupported = nil
+FLiveLinkLightStaticData.bIsSourceRadiusSupported = nil
+FLiveLinkLightStaticData.bIsSoftSourceRadiusSupported = nil

@@ -1,0 +1,15 @@
+USkeleton = {} ---@type UObject
+USkeleton.BoneTree = nil
+USkeleton.RefLocalPoses_DEPRECATED = nil
+USkeleton.VirtualBoneGuid = nil
+USkeleton.VirtualBones = nil
+USkeleton.Sockets = nil
+USkeleton.SmartNames = nil
+USkeleton.BlendProfiles = nil
+USkeleton.SlotGroups = nil
+USkeleton.PreviewSkeletalMesh = nil
+USkeleton.AdditionalPreviewSkeletalMeshes = nil
+USkeleton.RigConfig = nil
+USkeleton.AnimationNotifies = nil
+USkeleton.PreviewAttachedAssetContainer = nil
+USkeleton.AssetUserData = nil

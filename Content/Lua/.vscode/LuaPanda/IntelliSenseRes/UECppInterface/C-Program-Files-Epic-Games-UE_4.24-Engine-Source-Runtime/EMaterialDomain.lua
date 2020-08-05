@@ -1,0 +1,9 @@
+EMaterialDomain = {}
+EMaterialDomain.MD_Surface = nil
+EMaterialDomain.MD_DeferredDecal = nil
+EMaterialDomain.MD_LightFunction = nil
+EMaterialDomain.MD_Volume = nil
+EMaterialDomain.MD_PostProcess = nil
+EMaterialDomain.MD_UI = nil
+EMaterialDomain.MD_RuntimeVirtualTexture = nil
+EMaterialDomain.MD_MAX = nil

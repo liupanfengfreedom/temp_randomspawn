@@ -1,0 +1,10 @@
+EDecompressionType = {}
+EDecompressionType.DTYPE_Setup = nil
+EDecompressionType.DTYPE_Invalid = nil
+EDecompressionType.DTYPE_Preview = nil
+EDecompressionType.DTYPE_Native = nil
+EDecompressionType.DTYPE_RealTime = nil
+EDecompressionType.DTYPE_Procedural = nil
+EDecompressionType.DTYPE_Xenon = nil
+EDecompressionType.DTYPE_Streaming = nil
+EDecompressionType.DTYPE_MAX = nil

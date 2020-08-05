@@ -1,0 +1,17 @@
+ELifetimeCondition = {}
+ELifetimeCondition.COND_None = nil
+ELifetimeCondition.COND_InitialOnly = nil
+ELifetimeCondition.COND_OwnerOnly = nil
+ELifetimeCondition.COND_SkipOwner = nil
+ELifetimeCondition.COND_SimulatedOnly = nil
+ELifetimeCondition.COND_AutonomousOnly = nil
+ELifetimeCondition.COND_SimulatedOrPhysics = nil
+ELifetimeCondition.COND_InitialOrOwner = nil
+ELifetimeCondition.COND_Custom = nil
+ELifetimeCondition.COND_ReplayOrOwner = nil
+ELifetimeCondition.COND_ReplayOnly = nil
+ELifetimeCondition.COND_SimulatedOnlyNoReplay = nil
+ELifetimeCondition.COND_SimulatedOrPhysicsNoReplay = nil
+ELifetimeCondition.COND_SkipReplay = nil
+ELifetimeCondition.COND_Never = nil
+ELifetimeCondition.COND_Max = nil

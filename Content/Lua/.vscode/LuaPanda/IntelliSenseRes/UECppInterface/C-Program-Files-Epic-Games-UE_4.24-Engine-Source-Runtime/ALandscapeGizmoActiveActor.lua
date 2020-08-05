@@ -1,0 +1,17 @@
+ALandscapeGizmoActiveActor = {} ---@type ALandscapeGizmoActor
+ALandscapeGizmoActiveActor.DataType = nil
+ALandscapeGizmoActiveActor.GizmoTexture = nil
+ALandscapeGizmoActiveActor.TextureScale = nil
+ALandscapeGizmoActiveActor.SampledHeight = nil
+ALandscapeGizmoActiveActor.SampledNormal = nil
+ALandscapeGizmoActiveActor.SampleSizeX = nil
+ALandscapeGizmoActiveActor.SampleSizeY = nil
+ALandscapeGizmoActiveActor.CachedWidth = nil
+ALandscapeGizmoActiveActor.CachedHeight = nil
+ALandscapeGizmoActiveActor.CachedScaleXY = nil
+ALandscapeGizmoActiveActor.GizmoMaterial = nil
+ALandscapeGizmoActiveActor.GizmoDataMaterial = nil
+ALandscapeGizmoActiveActor.GizmoMeshMaterial = nil
+ALandscapeGizmoActiveActor.LayerInfos = nil
+ALandscapeGizmoActiveActor.bSnapToLandscapeGrid = nil
+ALandscapeGizmoActiveActor.UnsnappedRotation = nil

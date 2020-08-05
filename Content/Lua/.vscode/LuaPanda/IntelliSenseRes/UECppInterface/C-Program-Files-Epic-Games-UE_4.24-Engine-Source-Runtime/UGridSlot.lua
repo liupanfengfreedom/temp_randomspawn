@@ -1,0 +1,19 @@
+UGridSlot = {} ---@type UPanelSlot
+UGridSlot.Padding = nil
+UGridSlot.HorizontalAlignment = nil
+UGridSlot.VerticalAlignment = nil
+UGridSlot.Row = nil
+UGridSlot.RowSpan = nil
+UGridSlot.Column = nil
+UGridSlot.ColumnSpan = nil
+UGridSlot.Layer = nil
+UGridSlot.Nudge = nil
+function UGridSlot.SetPadding(InPadding) end
+function UGridSlot.SetRow(InRow) end
+function UGridSlot.SetRowSpan(InRowSpan) end
+function UGridSlot.SetColumn(InColumn) end
+function UGridSlot.SetColumnSpan(InColumnSpan) end
+function UGridSlot.SetLayer(InLayer) end
+function UGridSlot.SetNudge(InNudge) end
+function UGridSlot.SetHorizontalAlignment(InHorizontalAlignment) end
+function UGridSlot.SetVerticalAlignment(InVerticalAlignment) end

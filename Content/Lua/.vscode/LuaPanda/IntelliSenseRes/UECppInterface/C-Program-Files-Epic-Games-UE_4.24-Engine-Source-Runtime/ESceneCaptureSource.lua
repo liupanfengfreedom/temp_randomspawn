@@ -1,0 +1,10 @@
+ESceneCaptureSource = {}
+ESceneCaptureSource.SCS_SceneColorHDR = nil
+ESceneCaptureSource.SCS_SceneColorHDRNoAlpha = nil
+ESceneCaptureSource.SCS_FinalColorLDR = nil
+ESceneCaptureSource.SCS_SceneColorSceneDepth = nil
+ESceneCaptureSource.SCS_SceneDepth = nil
+ESceneCaptureSource.SCS_DeviceDepth = nil
+ESceneCaptureSource.SCS_Normal = nil
+ESceneCaptureSource.SCS_BaseColor = nil
+ESceneCaptureSource.SCS_FinalColorHDR = nil

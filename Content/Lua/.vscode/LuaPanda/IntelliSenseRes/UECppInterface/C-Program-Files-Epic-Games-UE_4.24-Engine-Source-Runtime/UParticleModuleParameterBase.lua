@@ -1,0 +1,1 @@
+UParticleModuleParameterBase = {} ---@type UParticleModule

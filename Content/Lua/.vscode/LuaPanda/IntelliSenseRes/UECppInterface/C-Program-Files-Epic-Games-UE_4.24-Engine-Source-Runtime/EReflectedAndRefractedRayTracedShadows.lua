@@ -1,0 +1,4 @@
+EReflectedAndRefractedRayTracedShadows = {}
+EReflectedAndRefractedRayTracedShadows.Disabled = nil
+EReflectedAndRefractedRayTracedShadows.Hard_shadows = nil
+EReflectedAndRefractedRayTracedShadows.Area_shadows = nil

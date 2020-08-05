@@ -1,0 +1,10 @@
+FInteriorSettings = {}
+FInteriorSettings.bIsWorldSettings = nil
+FInteriorSettings.ExteriorVolume = nil
+FInteriorSettings.ExteriorTime = nil
+FInteriorSettings.ExteriorLPF = nil
+FInteriorSettings.ExteriorLPFTime = nil
+FInteriorSettings.InteriorVolume = nil
+FInteriorSettings.InteriorTime = nil
+FInteriorSettings.InteriorLPF = nil
+FInteriorSettings.InteriorLPFTime = nil

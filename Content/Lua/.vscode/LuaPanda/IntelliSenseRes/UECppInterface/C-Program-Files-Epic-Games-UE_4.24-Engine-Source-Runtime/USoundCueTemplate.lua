@@ -1,0 +1,1 @@
+USoundCueTemplate = {} ---@type USoundCue

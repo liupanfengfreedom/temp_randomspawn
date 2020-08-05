@@ -1,0 +1,1 @@
+UInputVectorAxisDelegateBinding = {} ---@type UInputAxisKeyDelegateBinding

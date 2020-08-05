@@ -1,0 +1,2 @@
+FPooledCameraShakes = {}
+FPooledCameraShakes.PooledShakes = nil

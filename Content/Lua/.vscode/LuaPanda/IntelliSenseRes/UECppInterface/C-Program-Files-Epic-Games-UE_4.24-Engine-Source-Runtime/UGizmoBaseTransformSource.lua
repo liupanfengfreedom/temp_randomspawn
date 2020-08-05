@@ -1,0 +1,1 @@
+UGizmoBaseTransformSource = {} ---@type UObject

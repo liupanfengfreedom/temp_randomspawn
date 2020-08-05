@@ -1,0 +1,11 @@
+UAnimBlueprint = {} ---@type UBlueprint
+UAnimBlueprint.TargetSkeleton = nil
+UAnimBlueprint.Groups = nil
+UAnimBlueprint.bUseMultiThreadedAnimationUpdate = nil
+UAnimBlueprint.bWarnAboutBlueprintUsage = nil
+UAnimBlueprint.ParentAssetOverrides = nil
+UAnimBlueprint.PoseWatches = nil
+UAnimBlueprint.PreviewSkeletalMesh = nil
+UAnimBlueprint.PreviewAnimationBlueprint = nil
+UAnimBlueprint.PreviewAnimationBlueprintApplicationMethod = nil
+UAnimBlueprint.PreviewAnimationBlueprintTag = nil

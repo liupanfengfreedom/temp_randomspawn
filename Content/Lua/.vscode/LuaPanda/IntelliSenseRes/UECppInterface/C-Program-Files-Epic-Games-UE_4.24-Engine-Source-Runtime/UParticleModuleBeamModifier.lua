@@ -1,0 +1,9 @@
+UParticleModuleBeamModifier = {} ---@type UParticleModuleBeamBase
+UParticleModuleBeamModifier.ModifierType = nil
+UParticleModuleBeamModifier.PositionOptions = nil
+UParticleModuleBeamModifier.Position = nil
+UParticleModuleBeamModifier.TangentOptions = nil
+UParticleModuleBeamModifier.Tangent = nil
+UParticleModuleBeamModifier.bAbsoluteTangent = nil
+UParticleModuleBeamModifier.StrengthOptions = nil
+UParticleModuleBeamModifier.Strength = nil

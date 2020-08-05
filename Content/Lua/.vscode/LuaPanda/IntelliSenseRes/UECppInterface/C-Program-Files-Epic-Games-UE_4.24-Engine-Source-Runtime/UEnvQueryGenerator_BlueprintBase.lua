@@ -1,0 +1,8 @@
+UEnvQueryGenerator_BlueprintBase = {} ---@type UEnvQueryGenerator
+UEnvQueryGenerator_BlueprintBase.GeneratorsActionDescription = nil
+UEnvQueryGenerator_BlueprintBase.Context = nil
+UEnvQueryGenerator_BlueprintBase.GeneratedItemType = nil
+function UEnvQueryGenerator_BlueprintBase.DoItemGeneration(ContextLocations) end
+function UEnvQueryGenerator_BlueprintBase.AddGeneratedVector(GeneratedVector) end
+function UEnvQueryGenerator_BlueprintBase.AddGeneratedActor(GeneratedActor) end
+function UEnvQueryGenerator_BlueprintBase.GetQuerier() end

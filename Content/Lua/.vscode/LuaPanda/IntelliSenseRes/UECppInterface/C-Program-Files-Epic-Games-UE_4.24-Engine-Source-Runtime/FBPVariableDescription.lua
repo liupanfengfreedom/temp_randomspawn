@@ -1,0 +1,11 @@
+FBPVariableDescription = {}
+FBPVariableDescription.VarName = nil
+FBPVariableDescription.VarGuid = nil
+FBPVariableDescription.VarType = nil
+FBPVariableDescription.FriendlyName = nil
+FBPVariableDescription.Category = nil
+FBPVariableDescription.PropertyFlags = nil
+FBPVariableDescription.RepNotifyFunc = nil
+FBPVariableDescription.ReplicationCondition = nil
+FBPVariableDescription.MetaDataArray = nil
+FBPVariableDescription.DefaultValue = nil

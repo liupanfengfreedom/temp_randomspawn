@@ -1,0 +1,2 @@
+FSmartName = {}
+FSmartName.DisplayName = nil

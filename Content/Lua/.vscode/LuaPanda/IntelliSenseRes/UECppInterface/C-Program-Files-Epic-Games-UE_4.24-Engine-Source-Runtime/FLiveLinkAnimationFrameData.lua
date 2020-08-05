@@ -1,0 +1,2 @@
+FLiveLinkAnimationFrameData = {}
+FLiveLinkAnimationFrameData.Transforms = nil

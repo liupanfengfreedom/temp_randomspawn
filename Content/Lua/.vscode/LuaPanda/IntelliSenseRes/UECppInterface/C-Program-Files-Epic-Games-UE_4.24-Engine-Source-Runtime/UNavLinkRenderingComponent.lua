@@ -1,0 +1,1 @@
+UNavLinkRenderingComponent = {} ---@type UPrimitiveComponent

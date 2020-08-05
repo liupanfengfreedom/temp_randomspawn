@@ -1,0 +1,8 @@
+UAnimNotifyState_TimedParticleEffect = {} ---@type UAnimNotifyState
+UAnimNotifyState_TimedParticleEffect.PSTemplate = nil
+UAnimNotifyState_TimedParticleEffect.SocketName = nil
+UAnimNotifyState_TimedParticleEffect.LocationOffset = nil
+UAnimNotifyState_TimedParticleEffect.RotationOffset = nil
+UAnimNotifyState_TimedParticleEffect.bDestroyAtEnd = nil
+UAnimNotifyState_TimedParticleEffect.PreviousPSTemplates = nil
+UAnimNotifyState_TimedParticleEffect.PreviousSocketNames = nil

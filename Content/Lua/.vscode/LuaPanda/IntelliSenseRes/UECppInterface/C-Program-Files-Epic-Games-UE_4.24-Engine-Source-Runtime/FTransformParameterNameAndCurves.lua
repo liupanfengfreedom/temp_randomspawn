@@ -1,0 +1,2 @@
+FTransformParameterNameAndCurves = {}
+FTransformParameterNameAndCurves.ParameterName = nil

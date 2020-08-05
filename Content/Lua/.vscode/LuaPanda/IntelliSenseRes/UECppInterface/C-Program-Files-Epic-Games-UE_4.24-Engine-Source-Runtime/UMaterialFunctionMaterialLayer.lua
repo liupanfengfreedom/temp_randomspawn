@@ -1,0 +1,1 @@
+UMaterialFunctionMaterialLayer = {} ---@type UMaterialFunction

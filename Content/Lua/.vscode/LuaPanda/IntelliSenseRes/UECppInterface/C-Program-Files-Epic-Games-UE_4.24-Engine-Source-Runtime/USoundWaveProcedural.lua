@@ -1,0 +1,1 @@
+USoundWaveProcedural = {} ---@type USoundWave

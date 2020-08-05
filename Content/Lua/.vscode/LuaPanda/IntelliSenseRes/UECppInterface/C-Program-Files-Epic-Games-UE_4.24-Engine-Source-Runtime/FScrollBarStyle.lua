@@ -1,0 +1,10 @@
+FScrollBarStyle = {}
+FScrollBarStyle.HorizontalBackgroundImage = nil
+FScrollBarStyle.VerticalBackgroundImage = nil
+FScrollBarStyle.VerticalTopSlotImage = nil
+FScrollBarStyle.HorizontalTopSlotImage = nil
+FScrollBarStyle.VerticalBottomSlotImage = nil
+FScrollBarStyle.HorizontalBottomSlotImage = nil
+FScrollBarStyle.NormalThumbImage = nil
+FScrollBarStyle.HoveredThumbImage = nil
+FScrollBarStyle.DraggedThumbImage = nil

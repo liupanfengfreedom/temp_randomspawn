@@ -1,0 +1,11 @@
+FRootMotionSource_RadialForce = {}
+FRootMotionSource_RadialForce.Location = nil
+FRootMotionSource_RadialForce.LocationActor = nil
+FRootMotionSource_RadialForce.Radius = nil
+FRootMotionSource_RadialForce.Strength = nil
+FRootMotionSource_RadialForce.bIsPush = nil
+FRootMotionSource_RadialForce.bNoZForce = nil
+FRootMotionSource_RadialForce.StrengthDistanceFalloff = nil
+FRootMotionSource_RadialForce.StrengthOverTime = nil
+FRootMotionSource_RadialForce.bUseFixedWorldDirection = nil
+FRootMotionSource_RadialForce.FixedWorldDirection = nil

@@ -1,0 +1,2 @@
+FGraphAssetPlayerInformation = {}
+FGraphAssetPlayerInformation.PlayerNodeIndices = nil

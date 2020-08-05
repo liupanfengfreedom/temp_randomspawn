@@ -1,0 +1,2 @@
+ETextWrappingPolicy = {}
+ETextWrappingPolicy.AllowPerCharacterWrapping = nil

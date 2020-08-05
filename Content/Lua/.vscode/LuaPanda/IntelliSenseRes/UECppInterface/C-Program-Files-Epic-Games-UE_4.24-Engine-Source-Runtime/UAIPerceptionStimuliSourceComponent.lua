@@ -1,0 +1,7 @@
+UAIPerceptionStimuliSourceComponent = {} ---@type UActorComponent
+UAIPerceptionStimuliSourceComponent.bAutoRegisterAsSource = nil
+UAIPerceptionStimuliSourceComponent.RegisterAsSourceForSenses = nil
+function UAIPerceptionStimuliSourceComponent.RegisterWithPerceptionSystem() end
+function UAIPerceptionStimuliSourceComponent.RegisterForSense(SenseClass) end
+function UAIPerceptionStimuliSourceComponent.UnregisterFromPerceptionSystem() end
+function UAIPerceptionStimuliSourceComponent.UnregisterFromSense(SenseClass) end

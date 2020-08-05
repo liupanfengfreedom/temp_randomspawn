@@ -1,0 +1,2 @@
+FMovieSceneBytePropertySectionTemplate = {}
+FMovieSceneBytePropertySectionTemplate.ByteCurve = nil

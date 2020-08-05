@@ -1,0 +1,3 @@
+UParticleModuleAccelerationDragScaleOverLife = {} ---@type UParticleModuleAccelerationBase
+UParticleModuleAccelerationDragScaleOverLife.DragScale_DEPRECATED = nil
+UParticleModuleAccelerationDragScaleOverLife.DragScaleRaw = nil

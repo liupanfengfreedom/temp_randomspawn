@@ -1,0 +1,1 @@
+ULiveLinkTransformRole = {} ---@type ULiveLinkBasicRole

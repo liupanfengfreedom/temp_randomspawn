@@ -1,0 +1,1 @@
+UMaterialExpressionPerInstanceFadeAmount = {} ---@type UMaterialExpression

@@ -1,0 +1,1 @@
+UMultiSelectionTool = {} ---@type UInteractiveTool

@@ -1,0 +1,10 @@
+FTableColumnHeaderStyle = {}
+FTableColumnHeaderStyle.SortPrimaryAscendingImage = nil
+FTableColumnHeaderStyle.SortPrimaryDescendingImage = nil
+FTableColumnHeaderStyle.SortSecondaryAscendingImage = nil
+FTableColumnHeaderStyle.SortSecondaryDescendingImage = nil
+FTableColumnHeaderStyle.NormalBrush = nil
+FTableColumnHeaderStyle.HoveredBrush = nil
+FTableColumnHeaderStyle.MenuDropdownImage = nil
+FTableColumnHeaderStyle.MenuDropdownNormalBorderBrush = nil
+FTableColumnHeaderStyle.MenuDropdownHoveredBorderBrush = nil

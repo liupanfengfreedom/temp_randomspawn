@@ -1,0 +1,4 @@
+UParticleModuleVectorFieldGlobal = {} ---@type UParticleModuleVectorFieldBase
+UParticleModuleVectorFieldGlobal.bOverrideGlobalVectorFieldTightness = nil
+UParticleModuleVectorFieldGlobal.GlobalVectorFieldScale = nil
+UParticleModuleVectorFieldGlobal.GlobalVectorFieldTightness = nil

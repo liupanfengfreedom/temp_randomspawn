@@ -1,0 +1,1 @@
+UBookmarkBase = {} ---@type UObject

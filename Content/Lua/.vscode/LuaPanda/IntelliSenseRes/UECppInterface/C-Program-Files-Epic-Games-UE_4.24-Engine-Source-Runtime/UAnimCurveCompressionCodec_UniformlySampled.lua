@@ -1,0 +1,3 @@
+UAnimCurveCompressionCodec_UniformlySampled = {} ---@type UAnimCurveCompressionCodec
+UAnimCurveCompressionCodec_UniformlySampled.UseAnimSequenceSampleRate = nil
+UAnimCurveCompressionCodec_UniformlySampled.SampleRate = nil

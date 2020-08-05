@@ -1,0 +1,1 @@
+UMaterialExpressionDecalDerivative = {} ---@type UMaterialExpression

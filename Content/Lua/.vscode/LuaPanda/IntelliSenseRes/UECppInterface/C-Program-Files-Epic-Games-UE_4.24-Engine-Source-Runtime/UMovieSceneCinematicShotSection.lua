@@ -1,0 +1,6 @@
+UMovieSceneCinematicShotSection = {} ---@type UMovieSceneSubSection
+UMovieSceneCinematicShotSection.ShotDisplayName = nil
+UMovieSceneCinematicShotSection.DisplayName_DEPRECATED = nil
+UMovieSceneCinematicShotSection.ThumbnailReferenceOffset = nil
+function UMovieSceneCinematicShotSection.GetShotDisplayName() end
+function UMovieSceneCinematicShotSection.SetShotDisplayName(InShotDisplayName) end

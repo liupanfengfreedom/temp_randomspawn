@@ -1,0 +1,14 @@
+FDebugTextInfo = {}
+FDebugTextInfo.SrcActor = nil
+FDebugTextInfo.SrcActorOffset = nil
+FDebugTextInfo.SrcActorDesiredOffset = nil
+FDebugTextInfo.DebugText = nil
+FDebugTextInfo.TimeRemaining = nil
+FDebugTextInfo.Duration = nil
+FDebugTextInfo.TextColor = nil
+FDebugTextInfo.bAbsoluteLocation = nil
+FDebugTextInfo.bKeepAttachedToActor = nil
+FDebugTextInfo.bDrawShadow = nil
+FDebugTextInfo.OrigActorLocation = nil
+FDebugTextInfo.Font = nil
+FDebugTextInfo.FontScale = nil

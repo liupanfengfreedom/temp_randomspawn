@@ -1,0 +1,15 @@
+FPredictProjectilePathParams = {}
+FPredictProjectilePathParams.StartLocation = nil
+FPredictProjectilePathParams.LaunchVelocity = nil
+FPredictProjectilePathParams.bTraceWithCollision = nil
+FPredictProjectilePathParams.ProjectileRadius = nil
+FPredictProjectilePathParams.MaxSimTime = nil
+FPredictProjectilePathParams.bTraceWithChannel = nil
+FPredictProjectilePathParams.TraceChannel = nil
+FPredictProjectilePathParams.ObjectTypes = nil
+FPredictProjectilePathParams.ActorsToIgnore = nil
+FPredictProjectilePathParams.SimFrequency = nil
+FPredictProjectilePathParams.OverrideGravityZ = nil
+FPredictProjectilePathParams.DrawDebugType = nil
+FPredictProjectilePathParams.DrawDebugTime = nil
+FPredictProjectilePathParams.bTraceComplex = nil

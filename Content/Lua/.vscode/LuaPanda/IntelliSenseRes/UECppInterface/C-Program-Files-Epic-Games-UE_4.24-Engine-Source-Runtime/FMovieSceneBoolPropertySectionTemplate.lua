@@ -1,0 +1,2 @@
+FMovieSceneBoolPropertySectionTemplate = {}
+FMovieSceneBoolPropertySectionTemplate.BoolCurve = nil

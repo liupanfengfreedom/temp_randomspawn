@@ -1,0 +1,2 @@
+FRestrictedGameplayTagTableRow = {}
+FRestrictedGameplayTagTableRow.bAllowNonRestrictedChildren = nil

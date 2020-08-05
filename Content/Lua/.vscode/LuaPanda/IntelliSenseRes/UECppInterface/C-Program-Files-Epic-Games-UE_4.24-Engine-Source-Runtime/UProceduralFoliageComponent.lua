@@ -1,0 +1,11 @@
+UProceduralFoliageComponent = {} ---@type UActorComponent
+UProceduralFoliageComponent.FoliageSpawner = nil
+UProceduralFoliageComponent.TileOverlap = nil
+UProceduralFoliageComponent.bAllowLandscape = nil
+UProceduralFoliageComponent.bAllowBSP = nil
+UProceduralFoliageComponent.bAllowStaticMesh = nil
+UProceduralFoliageComponent.bAllowTranslucent = nil
+UProceduralFoliageComponent.bAllowFoliage = nil
+UProceduralFoliageComponent.bShowDebugTiles = nil
+UProceduralFoliageComponent.SpawningVolume = nil
+UProceduralFoliageComponent.ProceduralGuid = nil

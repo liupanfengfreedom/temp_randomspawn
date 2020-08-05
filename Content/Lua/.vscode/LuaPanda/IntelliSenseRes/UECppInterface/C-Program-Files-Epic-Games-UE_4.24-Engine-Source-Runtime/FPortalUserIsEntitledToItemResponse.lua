@@ -1,0 +1,2 @@
+FPortalUserIsEntitledToItemResponse = {}
+FPortalUserIsEntitledToItemResponse.Result = nil

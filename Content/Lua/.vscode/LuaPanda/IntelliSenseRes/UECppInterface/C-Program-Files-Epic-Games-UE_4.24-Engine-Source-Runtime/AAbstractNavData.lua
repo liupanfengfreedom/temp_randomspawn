@@ -1,0 +1,1 @@
+AAbstractNavData = {} ---@type ANavigationData

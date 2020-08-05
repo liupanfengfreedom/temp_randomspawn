@@ -1,0 +1,2 @@
+FDirectoryPath = {}
+FDirectoryPath.Path = nil

@@ -1,0 +1,1 @@
+UMovieSceneEulerTransformTrack = {} ---@type UMovieScenePropertyTrack

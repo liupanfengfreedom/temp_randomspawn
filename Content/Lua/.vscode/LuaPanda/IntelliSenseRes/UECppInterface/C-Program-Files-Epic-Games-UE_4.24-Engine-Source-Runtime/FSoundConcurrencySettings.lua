@@ -1,0 +1,9 @@
+FSoundConcurrencySettings = {}
+FSoundConcurrencySettings.MaxCount = nil
+FSoundConcurrencySettings.bLimitToOwner = nil
+FSoundConcurrencySettings.ResolutionRule = nil
+FSoundConcurrencySettings.VolumeScale = nil
+FSoundConcurrencySettings.VolumeScaleAttackTime = nil
+FSoundConcurrencySettings.bVolumeScaleCanRelease = nil
+FSoundConcurrencySettings.VolumeScaleReleaseTime = nil
+FSoundConcurrencySettings.VoiceStealReleaseTime = nil

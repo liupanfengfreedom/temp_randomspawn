@@ -1,0 +1,1 @@
+UMaterialExpressionObjectOrientation = {} ---@type UMaterialExpression

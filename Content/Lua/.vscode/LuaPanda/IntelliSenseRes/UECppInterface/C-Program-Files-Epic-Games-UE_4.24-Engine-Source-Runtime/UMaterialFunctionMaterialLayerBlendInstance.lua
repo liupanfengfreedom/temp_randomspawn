@@ -1,0 +1,1 @@
+UMaterialFunctionMaterialLayerBlendInstance = {} ---@type UMaterialFunctionInstance

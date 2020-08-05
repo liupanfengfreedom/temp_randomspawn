@@ -1,0 +1,17 @@
+ALODActor = {} ---@type AActor
+ALODActor.StaticMeshComponent = nil
+ALODActor.ImpostersStaticMeshComponents = nil
+ALODActor.Proxy = nil
+ALODActor.Key = nil
+ALODActor.LODDrawDistance = nil
+ALODActor.LODLevel = nil
+ALODActor.SubActors = nil
+ALODActor.CachedNumHLODLevels = nil
+ALODActor.NumTrianglesInSubActors = nil
+ALODActor.NumTrianglesInMergedMesh = nil
+ALODActor.bOverrideMaterialMergeSettings = nil
+ALODActor.MaterialSettings = nil
+ALODActor.bOverrideTransitionScreenSize = nil
+ALODActor.TransitionScreenSize = nil
+ALODActor.bOverrideScreenSize = nil
+ALODActor.ScreenSize = nil

@@ -1,0 +1,15 @@
+UParticleLODLevel = {} ---@type UObject
+UParticleLODLevel.Level = nil
+UParticleLODLevel.bEnabled = nil
+UParticleLODLevel.RequiredModule = nil
+UParticleLODLevel.Modules = nil
+UParticleLODLevel.TypeDataModule = nil
+UParticleLODLevel.SpawnModule = nil
+UParticleLODLevel.EventGenerator = nil
+UParticleLODLevel.SpawningModules = nil
+UParticleLODLevel.SpawnModules = nil
+UParticleLODLevel.UpdateModules = nil
+UParticleLODLevel.OrbitModules = nil
+UParticleLODLevel.EventReceiverModules = nil
+UParticleLODLevel.ConvertedModules = nil
+UParticleLODLevel.PeakActiveParticles = nil

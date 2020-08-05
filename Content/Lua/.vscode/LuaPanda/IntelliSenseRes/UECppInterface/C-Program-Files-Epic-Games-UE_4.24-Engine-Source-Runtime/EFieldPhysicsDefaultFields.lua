@@ -1,0 +1,7 @@
+EFieldPhysicsDefaultFields = {}
+EFieldPhysicsDefaultFields.Field_RadialIntMask = nil
+EFieldPhysicsDefaultFields.Field_RadialFalloff = nil
+EFieldPhysicsDefaultFields.Field_UniformVector = nil
+EFieldPhysicsDefaultFields.Field_RadialVector = nil
+EFieldPhysicsDefaultFields.Field_RadialVectorFalloff = nil
+EFieldPhysicsDefaultFields.Field_EFieldPhysicsDefaultFields_Max = nil

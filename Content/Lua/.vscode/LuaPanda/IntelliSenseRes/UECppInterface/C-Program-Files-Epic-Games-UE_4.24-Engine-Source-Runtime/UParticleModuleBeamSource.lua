@@ -1,0 +1,11 @@
+UParticleModuleBeamSource = {} ---@type UParticleModuleBeamBase
+UParticleModuleBeamSource.SourceMethod = nil
+UParticleModuleBeamSource.SourceName = nil
+UParticleModuleBeamSource.bSourceAbsolute = nil
+UParticleModuleBeamSource.Source = nil
+UParticleModuleBeamSource.bLockSource = nil
+UParticleModuleBeamSource.SourceTangentMethod = nil
+UParticleModuleBeamSource.SourceTangent = nil
+UParticleModuleBeamSource.bLockSourceTangent = nil
+UParticleModuleBeamSource.SourceStrength = nil
+UParticleModuleBeamSource.bLockSourceStength = nil

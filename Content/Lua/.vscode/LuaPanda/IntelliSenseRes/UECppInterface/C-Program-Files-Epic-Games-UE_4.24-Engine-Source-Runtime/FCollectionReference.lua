@@ -1,0 +1,2 @@
+FCollectionReference = {}
+FCollectionReference.CollectionName = nil

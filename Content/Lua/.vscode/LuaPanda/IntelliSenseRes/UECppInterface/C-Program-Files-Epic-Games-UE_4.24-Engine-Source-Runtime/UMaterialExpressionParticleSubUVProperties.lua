@@ -1,0 +1,1 @@
+UMaterialExpressionParticleSubUVProperties = {} ---@type UMaterialExpression

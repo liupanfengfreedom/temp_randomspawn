@@ -1,0 +1,2 @@
+FPortalPackageInstallerUninstallResponse = {}
+FPortalPackageInstallerUninstallResponse.Result = nil

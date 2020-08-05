@@ -1,0 +1,1 @@
+UWebBrowserTexture = {} ---@type UTexture

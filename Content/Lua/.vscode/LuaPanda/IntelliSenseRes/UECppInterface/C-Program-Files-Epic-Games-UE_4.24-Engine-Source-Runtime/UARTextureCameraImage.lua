@@ -1,0 +1,1 @@
+UARTextureCameraImage = {} ---@type UARTexture

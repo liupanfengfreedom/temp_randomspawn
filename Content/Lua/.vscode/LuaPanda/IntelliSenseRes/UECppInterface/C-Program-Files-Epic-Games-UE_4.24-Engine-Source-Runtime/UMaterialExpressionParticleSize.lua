@@ -1,0 +1,1 @@
+UMaterialExpressionParticleSize = {} ---@type UMaterialExpression

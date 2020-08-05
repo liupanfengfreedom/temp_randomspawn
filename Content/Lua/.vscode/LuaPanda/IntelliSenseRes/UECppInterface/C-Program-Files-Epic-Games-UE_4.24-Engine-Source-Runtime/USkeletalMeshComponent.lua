@@ -1,0 +1,165 @@
+USkeletalMeshComponent = {} ---@type USkinnedMeshComponent
+USkeletalMeshComponent.AnimationBlueprint_DEPRECATED = nil
+USkeletalMeshComponent.AnimBlueprintGeneratedClass = nil
+USkeletalMeshComponent.AnimClass = nil
+USkeletalMeshComponent.AnimScriptInstance = nil
+USkeletalMeshComponent.SubInstances = nil
+USkeletalMeshComponent.PostProcessAnimInstance = nil
+USkeletalMeshComponent.AnimationData = nil
+USkeletalMeshComponent.RootBoneTranslation = nil
+USkeletalMeshComponent.LineCheckBoundsScale = nil
+USkeletalMeshComponent.LinkedInstances = nil
+USkeletalMeshComponent.CachedBoneSpaceTransforms = nil
+USkeletalMeshComponent.CachedComponentSpaceTransforms = nil
+USkeletalMeshComponent.GlobalAnimRateScale = nil
+USkeletalMeshComponent.KinematicBonesUpdateType = nil
+USkeletalMeshComponent.PhysicsTransformUpdateMode = nil
+USkeletalMeshComponent.AnimationMode = nil
+USkeletalMeshComponent.bDisablePostProcessBlueprint = nil
+USkeletalMeshComponent.bUpdateOverlapsOnAnimationFinalize = nil
+USkeletalMeshComponent.bHasValidBodies = nil
+USkeletalMeshComponent.bBlendPhysics = nil
+USkeletalMeshComponent.bEnablePhysicsOnDedicatedServer = nil
+USkeletalMeshComponent.bUpdateJointsFromAnimation = nil
+USkeletalMeshComponent.bDisableClothSimulation = nil
+USkeletalMeshComponent.bAllowAnimCurveEvaluation = nil
+USkeletalMeshComponent.bDisableAnimCurves_DEPRECATED = nil
+USkeletalMeshComponent.bCollideWithEnvironment = nil
+USkeletalMeshComponent.bCollideWithAttachedChildren = nil
+USkeletalMeshComponent.bLocalSpaceSimulation = nil
+USkeletalMeshComponent.bResetAfterTeleport = nil
+USkeletalMeshComponent.bDeferKinematicBoneUpdate = nil
+USkeletalMeshComponent.bNoSkeletonUpdate = nil
+USkeletalMeshComponent.bPauseAnims = nil
+USkeletalMeshComponent.bUseRefPoseOnInitAnim = nil
+USkeletalMeshComponent.bEnablePerPolyCollision = nil
+USkeletalMeshComponent.bForceRefpose = nil
+USkeletalMeshComponent.bOnlyAllowAutonomousTickPose = nil
+USkeletalMeshComponent.bIsAutonomousTickPose = nil
+USkeletalMeshComponent.bOldForceRefPose = nil
+USkeletalMeshComponent.bShowPrePhysBones = nil
+USkeletalMeshComponent.bRequiredBonesUpToDate = nil
+USkeletalMeshComponent.bAnimTreeInitialised = nil
+USkeletalMeshComponent.bIncludeComponentLocationIntoBounds = nil
+USkeletalMeshComponent.bEnableLineCheckWithBounds = nil
+USkeletalMeshComponent.bUseBendingElements = nil
+USkeletalMeshComponent.bUseTetrahedralConstraints = nil
+USkeletalMeshComponent.bUseThinShellVolumeConstraints = nil
+USkeletalMeshComponent.bUseSelfCollisions = nil
+USkeletalMeshComponent.bUseContinuousCollisionDetection = nil
+USkeletalMeshComponent.bPropagateCurvesToSlaves = nil
+USkeletalMeshComponent.bSkipKinematicUpdateWhenInterpolating = nil
+USkeletalMeshComponent.bSkipBoundsUpdateWhenInterpolating = nil
+USkeletalMeshComponent.bUpdateAnimationInEditor = nil
+USkeletalMeshComponent.bNeedsQueuedAnimEventsDispatched = nil
+USkeletalMeshComponent.CachedAnimCurveUidVersion = nil
+USkeletalMeshComponent.MassMode = nil
+USkeletalMeshComponent.UniformMass = nil
+USkeletalMeshComponent.TotalMass = nil
+USkeletalMeshComponent.Density = nil
+USkeletalMeshComponent.MinPerParticleMass = nil
+USkeletalMeshComponent.ClothBlendWeight = nil
+USkeletalMeshComponent.EdgeStiffness = nil
+USkeletalMeshComponent.BendingStiffness = nil
+USkeletalMeshComponent.AreaStiffness = nil
+USkeletalMeshComponent.VolumeStiffness = nil
+USkeletalMeshComponent.StrainLimitingStiffness = nil
+USkeletalMeshComponent.ShapeTargetStiffness = nil
+USkeletalMeshComponent.DisallowedAnimCurves = nil
+USkeletalMeshComponent.BodySetup = nil
+USkeletalMeshComponent.OnConstraintBroken = nil
+USkeletalMeshComponent.ClothingSimulationFactory = nil
+USkeletalMeshComponent.TeleportDistanceThreshold = nil
+USkeletalMeshComponent.TeleportRotationThreshold = nil
+USkeletalMeshComponent.LastPoseTickFrame = nil
+USkeletalMeshComponent.ClothingInteractor = nil
+USkeletalMeshComponent.OnAnimInitialized = nil
+USkeletalMeshComponent.SequenceToPlay_DEPRECATED = nil
+USkeletalMeshComponent.AnimToPlay_DEPRECATED = nil
+USkeletalMeshComponent.bDefaultLooping_DEPRECATED = nil
+USkeletalMeshComponent.bDefaultPlaying_DEPRECATED = nil
+USkeletalMeshComponent.DefaultPosition_DEPRECATED = nil
+USkeletalMeshComponent.DefaultPlayRate_DEPRECATED = nil
+function USkeletalMeshComponent.ToggleDisablePostProcessBlueprint() end
+function USkeletalMeshComponent.GetDisablePostProcessBlueprint() end
+function USkeletalMeshComponent.SetDisablePostProcessBlueprint(bInDisablePostProcess) end
+function USkeletalMeshComponent.SetAnimClass(NewClass) end
+function USkeletalMeshComponent.GetAnimClass() end
+function USkeletalMeshComponent.GetAnimInstance() end
+function USkeletalMeshComponent.GetPostProcessInstance() end
+function USkeletalMeshComponent.GetLinkedAnimGraphInstanceByTag(InTag) end
+function USkeletalMeshComponent.GetLinkedAnimGraphInstancesByTag(InTag, OutLinkedInstances) end
+function USkeletalMeshComponent.LinkAnimGraphByTag(InTag, InClass) end
+function USkeletalMeshComponent.LinkAnimClassLayers(InClass) end
+function USkeletalMeshComponent.UnlinkAnimClassLayers(InClass) end
+function USkeletalMeshComponent.GetLinkedAnimLayerInstanceByGroup(InGroup) end
+function USkeletalMeshComponent.GetLinkedAnimLayerInstanceByClass(InClass) end
+function USkeletalMeshComponent.HasValidAnimationInstance() end
+function USkeletalMeshComponent.ResetAnimInstanceDynamics() end
+function USkeletalMeshComponent.SetAnimationMode(InAnimationMode) end
+function USkeletalMeshComponent.GetAnimationMode() end
+function USkeletalMeshComponent.PlayAnimation(NewAnimToPlay, bLooping) end
+function USkeletalMeshComponent.SetAnimation(NewAnimToPlay) end
+function USkeletalMeshComponent.Play(bLooping) end
+function USkeletalMeshComponent.Stop() end
+function USkeletalMeshComponent.IsPlaying() end
+function USkeletalMeshComponent.SetPosition(InPos) end
+function USkeletalMeshComponent.GetPosition() end
+function USkeletalMeshComponent.SetPlayRate(Rate) end
+function USkeletalMeshComponent.GetPlayRate() end
+function USkeletalMeshComponent.OverrideAnimationData(InAnimToPlay) end
+function USkeletalMeshComponent.SetMorphTarget(MorphTargetName, Value) end
+function USkeletalMeshComponent.ClearMorphTargets() end
+function USkeletalMeshComponent.GetMorphTarget(MorphTargetName) end
+function USkeletalMeshComponent.SnapshotPose(Snapshot) end
+function USkeletalMeshComponent.GetClothMaxDistanceScale() end
+function USkeletalMeshComponent.SetClothMaxDistanceScale(Scale) end
+function USkeletalMeshComponent.ForceClothNextUpdateTeleport() end
+function USkeletalMeshComponent.ForceClothNextUpdateTeleportAndReset() end
+function USkeletalMeshComponent.SuspendClothingSimulation() end
+function USkeletalMeshComponent.ResumeClothingSimulation() end
+function USkeletalMeshComponent.IsClothingSimulationSuspended() end
+function USkeletalMeshComponent.ResetClothTeleportMode() end
+function USkeletalMeshComponent.BindClothToMasterPoseComponent() end
+function USkeletalMeshComponent.UnbindClothFromMasterPoseComponent() end
+function USkeletalMeshComponent.SetUpdateAnimationInEditor(NewUpdateState) end
+function USkeletalMeshComponent.SetDisableAnimCurves(bInDisableAnimCurves) end
+function USkeletalMeshComponent.GetDisableAnimCurves() end
+function USkeletalMeshComponent.SetAllowAnimCurveEvaluation(bInAllow) end
+function USkeletalMeshComponent.GetAllowedAnimCurveEvaluate() end
+function USkeletalMeshComponent.AllowAnimCurveEvaluation(NameOfCurve, bAllow) end
+function USkeletalMeshComponent.ResetAllowedAnimCurveEvaluation() end
+function USkeletalMeshComponent.SetAllowedAnimCurvesEvaluation(List, bAllow) end
+function USkeletalMeshComponent.GetTeleportRotationThreshold() end
+function USkeletalMeshComponent.SetTeleportRotationThreshold(Threshold) end
+function USkeletalMeshComponent.GetTeleportDistanceThreshold() end
+function USkeletalMeshComponent.SetTeleportDistanceThreshold(Threshold) end
+function USkeletalMeshComponent.GetClothingSimulationInteractor() end
+function USkeletalMeshComponent.SetBodyNotifyRigidBodyCollision(bNewNotifyRigidBodyCollision) end
+function USkeletalMeshComponent.SetNotifyRigidBodyCollisionBelow(bNewNotifyRigidBodyCollision) end
+function USkeletalMeshComponent.SetEnableBodyGravity(bEnableGravity, BoneName) end
+function USkeletalMeshComponent.IsBodyGravityEnabled(BoneName) end
+function USkeletalMeshComponent.SetEnableGravityOnAllBodiesBelow(bEnableGravity, BoneName) end
+function USkeletalMeshComponent.K2_GetClosestPointOnPhysicsAsset(WorldPosition, ClosestWorldPosition, Normal, BoneName, Distance) end
+function USkeletalMeshComponent.GetBoneMass() end
+function USkeletalMeshComponent.GetSkeletalCenterOfMass() end
+function USkeletalMeshComponent.AddForceToAllBodiesBelow(Force) end
+function USkeletalMeshComponent.AddImpulseToAllBodiesBelow(Impulse) end
+function USkeletalMeshComponent.TermBodiesBelow(ParentBoneName) end
+function USkeletalMeshComponent.SetAllBodiesSimulatePhysics(bNewSimulate) end
+function USkeletalMeshComponent.SetPhysicsBlendWeight(PhysicsBlendWeight) end
+function USkeletalMeshComponent.SetEnablePhysicsBlending(bNewBlendPhysics) end
+function USkeletalMeshComponent.SetAllBodiesBelowSimulatePhysics(InBoneName, bNewSimulate) end
+function USkeletalMeshComponent.ResetAllBodiesSimulatePhysics() end
+function USkeletalMeshComponent.SetAllBodiesPhysicsBlendWeight(PhysicsBlendWeight) end
+function USkeletalMeshComponent.SetAllBodiesBelowPhysicsBlendWeight(InBoneName, PhysicsBlendWeight) end
+function USkeletalMeshComponent.AccumulateAllBodiesBelowPhysicsBlendWeight(InBoneName, AddPhysicsBlendWeight) end
+function USkeletalMeshComponent.SetAllMotorsAngularPositionDrive(bEnableSwingDrive, bEnableTwistDrive) end
+function USkeletalMeshComponent.SetAllMotorsAngularVelocityDrive(bEnableSwingDrive, bEnableTwistDrive) end
+function USkeletalMeshComponent.SetAllMotorsAngularDriveParams(InSpring, InDamping, InForceLimit) end
+function USkeletalMeshComponent.SetConstraintProfile(JointName, ProfileName) end
+function USkeletalMeshComponent.SetConstraintProfileForAll(ProfileName) end
+function USkeletalMeshComponent.FindConstraintBoneName(ConstraintIndex) end
+function USkeletalMeshComponent.BreakConstraint(Impulse, HitLocation, InBoneName) end
+function USkeletalMeshComponent.SetAngularLimits(InBoneName, Swing1LimitAngle, TwistLimitAngle, Swing2LimitAngle) end
+function USkeletalMeshComponent.GetCurrentJointAngles(InBoneName, Swing1Angle, TwistAngle, Swing2Angle) end

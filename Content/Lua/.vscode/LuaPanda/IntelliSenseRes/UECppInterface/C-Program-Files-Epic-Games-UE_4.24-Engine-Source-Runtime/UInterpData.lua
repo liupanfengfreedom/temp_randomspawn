@@ -1,0 +1,13 @@
+UInterpData = {} ---@type UObject
+UInterpData.InterpLength = nil
+UInterpData.PathBuildTime = nil
+UInterpData.InterpGroups = nil
+UInterpData.CurveEdSetup = nil
+UInterpData.InterpFilters = nil
+UInterpData.SelectedFilter = nil
+UInterpData.DefaultFilters = nil
+UInterpData.EdSectionStart = nil
+UInterpData.EdSectionEnd = nil
+UInterpData.bShouldBakeAndPrune = nil
+UInterpData.CachedDirectorGroup = nil
+UInterpData.AllEventNames = nil

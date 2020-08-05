@@ -1,0 +1,4 @@
+UAsyncActionChangePrimaryAssetBundles = {} ---@type UAsyncActionLoadPrimaryAssetBase
+UAsyncActionChangePrimaryAssetBundles.Completed = nil
+function UAsyncActionChangePrimaryAssetBundles.AsyncChangeBundleStateForMatchingPrimaryAssets(WorldContextObject, NewBundles, OldBundles) end
+function UAsyncActionChangePrimaryAssetBundles.AsyncChangeBundleStateForPrimaryAssetList(WorldContextObject, PrimaryAssetList, AddBundles, RemoveBundles) end

@@ -1,0 +1,8 @@
+EMaterialPositionTransformSource = {}
+EMaterialPositionTransformSource.TRANSFORMPOSSOURCE_Local = nil
+EMaterialPositionTransformSource.TRANSFORMPOSSOURCE_World = nil
+EMaterialPositionTransformSource.TRANSFORMPOSSOURCE_TranslatedWorld = nil
+EMaterialPositionTransformSource.TRANSFORMPOSSOURCE_View = nil
+EMaterialPositionTransformSource.TRANSFORMPOSSOURCE_Camera = nil
+EMaterialPositionTransformSource.TRANSFORMPOSSOURCE_Particle = nil
+EMaterialPositionTransformSource.TRANSFORMPOSSOURCE_MAX = nil

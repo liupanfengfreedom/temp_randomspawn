@@ -1,0 +1,10 @@
+UClothPhysicalMeshDataBase = {} ---@type UObject
+UClothPhysicalMeshDataBase.Vertices = nil
+UClothPhysicalMeshDataBase.Normals = nil
+UClothPhysicalMeshDataBase.VertexColors = nil
+UClothPhysicalMeshDataBase.Indices = nil
+UClothPhysicalMeshDataBase.InverseMasses = nil
+UClothPhysicalMeshDataBase.BoneData = nil
+UClothPhysicalMeshDataBase.NumFixedVerts = nil
+UClothPhysicalMeshDataBase.MaxBoneWeights = nil
+UClothPhysicalMeshDataBase.SelfCollisionIndices = nil

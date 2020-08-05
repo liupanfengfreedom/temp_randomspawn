@@ -1,0 +1,63 @@
+APlayerCameraManager = {} ---@type AActor
+APlayerCameraManager.PCOwner = nil
+APlayerCameraManager.TransformComponent = nil
+APlayerCameraManager.DefaultFOV = nil
+APlayerCameraManager.DefaultOrthoWidth = nil
+APlayerCameraManager.DefaultAspectRatio = nil
+APlayerCameraManager.CameraCache = nil
+APlayerCameraManager.LastFrameCameraCache = nil
+APlayerCameraManager.ViewTarget = nil
+APlayerCameraManager.PendingViewTarget = nil
+APlayerCameraManager.CameraCachePrivate = nil
+APlayerCameraManager.LastFrameCameraCachePrivate = nil
+APlayerCameraManager.ModifierList = nil
+APlayerCameraManager.DefaultModifiers = nil
+APlayerCameraManager.FreeCamDistance = nil
+APlayerCameraManager.FreeCamOffset = nil
+APlayerCameraManager.ViewTargetOffset = nil
+APlayerCameraManager.CameraLensEffects = nil
+APlayerCameraManager.CachedCameraShakeMod = nil
+APlayerCameraManager.PostProcessBlendCache = nil
+APlayerCameraManager.ActiveAnims = nil
+APlayerCameraManager.FreeAnims = nil
+APlayerCameraManager.AnimCameraActor = nil
+APlayerCameraManager.bIsOrthographic = nil
+APlayerCameraManager.bDefaultConstrainAspectRatio = nil
+APlayerCameraManager.bClientSimulatingViewTarget = nil
+APlayerCameraManager.bUseClientSideCameraUpdates = nil
+APlayerCameraManager.bGameCameraCutThisFrame = nil
+APlayerCameraManager.ViewPitchMin = nil
+APlayerCameraManager.ViewPitchMax = nil
+APlayerCameraManager.ViewYawMin = nil
+APlayerCameraManager.ViewYawMax = nil
+APlayerCameraManager.ViewRollMin = nil
+APlayerCameraManager.ViewRollMax = nil
+APlayerCameraManager.ServerUpdateCameraTimeout = nil
+function APlayerCameraManager.PhotographyCameraModify(NewCameraLocation, PreviousCameraLocation, OriginalCameraLocation, ResultCameraLocation) end
+function APlayerCameraManager.OnPhotographySessionStart() end
+function APlayerCameraManager.OnPhotographySessionEnd() end
+function APlayerCameraManager.OnPhotographyMultiPartCaptureStart() end
+function APlayerCameraManager.OnPhotographyMultiPartCaptureEnd() end
+function APlayerCameraManager.BlueprintUpdateCamera(CameraTarget, NewCameraLocation, NewCameraRotation, NewCameraFOV) end
+function APlayerCameraManager.GetOwningPlayerController() end
+function APlayerCameraManager.AddNewCameraModifier(ModifierClass) end
+function APlayerCameraManager.FindCameraModifierByClass(ModifierClass) end
+function APlayerCameraManager.RemoveCameraModifier(ModifierToRemove) end
+function APlayerCameraManager.GetFOVAngle() end
+function APlayerCameraManager.GetCameraRotation() end
+function APlayerCameraManager.GetCameraLocation() end
+function APlayerCameraManager.AddCameraLensEffect(LensEffectEmitterClass) end
+function APlayerCameraManager.RemoveCameraLensEffect(Emitter) end
+function APlayerCameraManager.ClearCameraLensEffects() end
+function APlayerCameraManager.PlayCameraShake(ShakeClass) end
+function APlayerCameraManager.StopCameraShake(ShakeInstance) end
+function APlayerCameraManager.StopAllInstancesOfCameraShake(Shake) end
+function APlayerCameraManager.StopAllCameraShakes() end
+function APlayerCameraManager.StartCameraFade(FromAlpha, ToAlpha, Duration, Color) end
+function APlayerCameraManager.StopCameraFade() end
+function APlayerCameraManager.SetManualCameraFade(InFadeAmount, Color, bInFadeAudio) end
+function APlayerCameraManager.PlayCameraAnim(Anim) end
+function APlayerCameraManager.StopAllInstancesOfCameraAnim(Anim) end
+function APlayerCameraManager.StopCameraAnimInst(AnimInst) end
+function APlayerCameraManager.StopAllCameraAnims() end
+function APlayerCameraManager.SetGameCameraCutThisFrame() end

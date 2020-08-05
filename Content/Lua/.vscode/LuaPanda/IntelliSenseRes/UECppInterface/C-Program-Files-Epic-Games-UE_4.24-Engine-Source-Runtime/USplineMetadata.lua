@@ -1,0 +1,1 @@
+USplineMetadata = {} ---@type UObject

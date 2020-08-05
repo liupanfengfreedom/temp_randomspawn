@@ -1,0 +1,2 @@
+FRichCurve = {}
+FRichCurve.Keys = nil

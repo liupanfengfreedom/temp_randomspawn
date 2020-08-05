@@ -1,0 +1,3 @@
+FMovieSceneCameraShakeSectionTemplate = {}
+FMovieSceneCameraShakeSectionTemplate.SourceData = nil
+FMovieSceneCameraShakeSectionTemplate.SectionStartTime = nil

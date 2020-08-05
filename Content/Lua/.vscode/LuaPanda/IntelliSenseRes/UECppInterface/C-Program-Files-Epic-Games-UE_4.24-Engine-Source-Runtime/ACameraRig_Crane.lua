@@ -1,0 +1,14 @@
+ACameraRig_Crane = {} ---@type AActor
+ACameraRig_Crane.CranePitch = nil
+ACameraRig_Crane.CraneYaw = nil
+ACameraRig_Crane.CraneArmLength = nil
+ACameraRig_Crane.bLockMountPitch = nil
+ACameraRig_Crane.bLockMountYaw = nil
+ACameraRig_Crane.TransformComponent = nil
+ACameraRig_Crane.CraneYawControl = nil
+ACameraRig_Crane.CranePitchControl = nil
+ACameraRig_Crane.CraneCameraMount = nil
+ACameraRig_Crane.PreviewMesh_CraneArm = nil
+ACameraRig_Crane.PreviewMesh_CraneBase = nil
+ACameraRig_Crane.PreviewMesh_CraneMount = nil
+ACameraRig_Crane.PreviewMesh_CraneCounterWeight = nil

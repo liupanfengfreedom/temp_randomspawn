@@ -1,0 +1,20 @@
+UInstancedStaticMeshComponent = {} ---@type UStaticMeshComponent
+UInstancedStaticMeshComponent.PerInstanceSMData = nil
+UInstancedStaticMeshComponent.InstancingRandomSeed = nil
+UInstancedStaticMeshComponent.InstanceStartCullDistance = nil
+UInstancedStaticMeshComponent.InstanceEndCullDistance = nil
+UInstancedStaticMeshComponent.InstanceReorderTable = nil
+UInstancedStaticMeshComponent.NumPendingLightmaps = nil
+UInstancedStaticMeshComponent.CachedMappings = nil
+function UInstancedStaticMeshComponent.AddInstance(InstanceTransform) end
+function UInstancedStaticMeshComponent.AddInstanceWorldSpace(WorldTransform) end
+function UInstancedStaticMeshComponent.GetInstanceTransform(InstanceIndex, OutInstanceTransform) end
+function UInstancedStaticMeshComponent.UpdateInstanceTransform(InstanceIndex, NewInstanceTransform) end
+function UInstancedStaticMeshComponent.BatchUpdateInstancesTransforms(StartInstanceIndex, NewInstancesTransforms) end
+function UInstancedStaticMeshComponent.BatchUpdateInstancesTransform(StartInstanceIndex, NumInstances, NewInstancesTransform) end
+function UInstancedStaticMeshComponent.RemoveInstance(InstanceIndex) end
+function UInstancedStaticMeshComponent.ClearInstances() end
+function UInstancedStaticMeshComponent.GetInstanceCount() end
+function UInstancedStaticMeshComponent.SetCullDistances(StartCullDistance, EndCullDistance) end
+function UInstancedStaticMeshComponent.GetInstancesOverlappingSphere(Center, Radius) end
+function UInstancedStaticMeshComponent.GetInstancesOverlappingBox(Box) end

@@ -1,0 +1,1 @@
+UMaterialExpressionParticleMacroUV = {} ---@type UMaterialExpression

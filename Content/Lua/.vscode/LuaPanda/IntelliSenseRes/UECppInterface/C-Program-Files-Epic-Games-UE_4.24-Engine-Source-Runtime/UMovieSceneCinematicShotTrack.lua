@@ -1,0 +1,1 @@
+UMovieSceneCinematicShotTrack = {} ---@type UMovieSceneSubTrack

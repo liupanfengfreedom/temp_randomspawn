@@ -1,0 +1,11 @@
+FAutomationWorkerSingleTestReply = {}
+FAutomationWorkerSingleTestReply.DisplayName = nil
+FAutomationWorkerSingleTestReply.FullTestPath = nil
+FAutomationWorkerSingleTestReply.TestName = nil
+FAutomationWorkerSingleTestReply.TestParameter = nil
+FAutomationWorkerSingleTestReply.SourceFile = nil
+FAutomationWorkerSingleTestReply.SourceFileLine = nil
+FAutomationWorkerSingleTestReply.AssetPath = nil
+FAutomationWorkerSingleTestReply.OpenCommand = nil
+FAutomationWorkerSingleTestReply.TestFlags = nil
+FAutomationWorkerSingleTestReply.NumParticipantsRequired = nil

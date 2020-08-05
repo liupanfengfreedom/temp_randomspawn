@@ -1,0 +1,9 @@
+FCameraFocusSettings = {}
+FCameraFocusSettings.FocusMethod = nil
+FCameraFocusSettings.ManualFocusDistance = nil
+FCameraFocusSettings.TrackingFocusSettings = nil
+FCameraFocusSettings.bDrawDebugFocusPlane = nil
+FCameraFocusSettings.DebugFocusPlaneColor = nil
+FCameraFocusSettings.bSmoothFocusChanges = nil
+FCameraFocusSettings.FocusSmoothingInterpSpeed = nil
+FCameraFocusSettings.FocusOffset = nil

@@ -1,0 +1,1 @@
+UMaterialExpressionParticleDirection = {} ---@type UMaterialExpression

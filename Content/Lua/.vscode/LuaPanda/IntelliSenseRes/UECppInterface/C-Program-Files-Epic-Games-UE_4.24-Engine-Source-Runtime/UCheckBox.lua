@@ -1,0 +1,24 @@
+UCheckBox = {} ---@type UContentWidget
+UCheckBox.CheckedState = nil
+UCheckBox.CheckedStateDelegate = nil
+UCheckBox.WidgetStyle = nil
+UCheckBox.Style_DEPRECATED = nil
+UCheckBox.UncheckedImage_DEPRECATED = nil
+UCheckBox.UncheckedHoveredImage_DEPRECATED = nil
+UCheckBox.UncheckedPressedImage_DEPRECATED = nil
+UCheckBox.CheckedImage_DEPRECATED = nil
+UCheckBox.CheckedHoveredImage_DEPRECATED = nil
+UCheckBox.CheckedPressedImage_DEPRECATED = nil
+UCheckBox.UndeterminedImage_DEPRECATED = nil
+UCheckBox.UndeterminedHoveredImage_DEPRECATED = nil
+UCheckBox.UndeterminedPressedImage_DEPRECATED = nil
+UCheckBox.HorizontalAlignment = nil
+UCheckBox.Padding_DEPRECATED = nil
+UCheckBox.BorderBackgroundColor_DEPRECATED = nil
+UCheckBox.IsFocusable = nil
+UCheckBox.OnCheckStateChanged = nil
+function UCheckBox.IsPressed() end
+function UCheckBox.IsChecked() end
+function UCheckBox.GetCheckedState() end
+function UCheckBox.SetIsChecked(InIsChecked) end
+function UCheckBox.SetCheckedState(InCheckedState) end

@@ -1,0 +1,2 @@
+FInterpLookupTrack = {}
+FInterpLookupTrack.Points = nil

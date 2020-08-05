@@ -1,0 +1,1 @@
+UEdGraphSchema = {} ---@type UObject

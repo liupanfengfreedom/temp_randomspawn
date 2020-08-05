@@ -1,0 +1,1 @@
+UClickDragInputBehavior = {} ---@type UAnyButtonInputBehavior

@@ -1,0 +1,2 @@
+FSkelMeshComponentLODInfo = {}
+FSkelMeshComponentLODInfo.HiddenMaterials = nil

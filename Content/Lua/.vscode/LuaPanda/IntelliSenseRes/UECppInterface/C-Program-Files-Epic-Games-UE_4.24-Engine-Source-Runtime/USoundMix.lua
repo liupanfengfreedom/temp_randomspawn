@@ -1,0 +1,10 @@
+USoundMix = {} ---@type UObject
+USoundMix.bApplyEQ = nil
+USoundMix.EQPriority = nil
+USoundMix.EQSettings = nil
+USoundMix.SoundClassEffects = nil
+USoundMix.InitialDelay = nil
+USoundMix.FadeInTime = nil
+USoundMix.Duration = nil
+USoundMix.FadeOutTime = nil
+USoundMix.bChanged = nil

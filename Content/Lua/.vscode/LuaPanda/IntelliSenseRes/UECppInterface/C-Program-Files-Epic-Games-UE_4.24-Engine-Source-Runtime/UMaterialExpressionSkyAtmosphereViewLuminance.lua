@@ -1,0 +1,1 @@
+UMaterialExpressionSkyAtmosphereViewLuminance = {} ---@type UMaterialExpression

@@ -1,0 +1,37 @@
+USkyAtmosphereComponent = {} ---@type USceneComponent
+USkyAtmosphereComponent.BottomRadius = nil
+USkyAtmosphereComponent.GroundAlbedo = nil
+USkyAtmosphereComponent.AtmosphereHeight = nil
+USkyAtmosphereComponent.MultiScatteringFactor = nil
+USkyAtmosphereComponent.RayleighScatteringScale = nil
+USkyAtmosphereComponent.RayleighScattering = nil
+USkyAtmosphereComponent.RayleighExponentialDistribution = nil
+USkyAtmosphereComponent.MieScatteringScale = nil
+USkyAtmosphereComponent.MieScattering = nil
+USkyAtmosphereComponent.MieAbsorptionScale = nil
+USkyAtmosphereComponent.MieAbsorption = nil
+USkyAtmosphereComponent.MieAnisotropy = nil
+USkyAtmosphereComponent.MieExponentialDistribution = nil
+USkyAtmosphereComponent.OtherAbsorptionScale = nil
+USkyAtmosphereComponent.OtherAbsorption = nil
+USkyAtmosphereComponent.OtherTentDistribution = nil
+USkyAtmosphereComponent.SkyLuminanceFactor = nil
+USkyAtmosphereComponent.AerialPespectiveViewDistanceScale = nil
+USkyAtmosphereComponent.HeightFogContribution = nil
+USkyAtmosphereComponent.TransmittanceMinLightElevationAngle = nil
+USkyAtmosphereComponent.bStaticLightingBuiltGUID = nil
+function USkyAtmosphereComponent.OverrideAtmosphereLightDirection(AtmosphereLightIndex, LightDirection) end
+function USkyAtmosphereComponent.SetRayleighScatteringScale(NewValue) end
+function USkyAtmosphereComponent.SetRayleighScattering(NewValue) end
+function USkyAtmosphereComponent.SetRayleighExponentialDistribution(NewValue) end
+function USkyAtmosphereComponent.SetMieScatteringScale(NewValue) end
+function USkyAtmosphereComponent.SetMieScattering(NewValue) end
+function USkyAtmosphereComponent.SetMieAbsorptionScale(NewValue) end
+function USkyAtmosphereComponent.SetMieAbsorption(NewValue) end
+function USkyAtmosphereComponent.SetMieAnisotropy(NewValue) end
+function USkyAtmosphereComponent.SetMieExponentialDistribution(NewValue) end
+function USkyAtmosphereComponent.SetOtherAbsorptionScale(NewValue) end
+function USkyAtmosphereComponent.SetOtherAbsorption(NewValue) end
+function USkyAtmosphereComponent.SetSkyLuminanceFactor(NewValue) end
+function USkyAtmosphereComponent.SetAerialPespectiveViewDistanceScale(NewValue) end
+function USkyAtmosphereComponent.SetHeightFogContribution(NewValue) end

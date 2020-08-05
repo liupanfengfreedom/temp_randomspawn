@@ -1,0 +1,2 @@
+FBandwidthTestGenerator = {}
+FBandwidthTestGenerator.ReplicatedBuffers = nil

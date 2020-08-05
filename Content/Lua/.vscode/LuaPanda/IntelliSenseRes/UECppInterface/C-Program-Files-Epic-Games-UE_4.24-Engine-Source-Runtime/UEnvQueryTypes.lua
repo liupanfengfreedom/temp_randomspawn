@@ -1,0 +1,1 @@
+UEnvQueryTypes = {} ---@type UObject

@@ -1,0 +1,1 @@
+UMovieSceneStringTrack = {} ---@type UMovieScenePropertyTrack

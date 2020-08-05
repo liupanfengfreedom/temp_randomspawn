@@ -1,0 +1,17 @@
+FLevelSimplificationDetails = {}
+FLevelSimplificationDetails.bCreatePackagePerAsset = nil
+FLevelSimplificationDetails.DetailsPercentage = nil
+FLevelSimplificationDetails.StaticMeshMaterialSettings = nil
+FLevelSimplificationDetails.bOverrideLandscapeExportLOD = nil
+FLevelSimplificationDetails.LandscapeExportLOD = nil
+FLevelSimplificationDetails.LandscapeMaterialSettings = nil
+FLevelSimplificationDetails.bBakeFoliageToLandscape = nil
+FLevelSimplificationDetails.bBakeGrassToLandscape = nil
+FLevelSimplificationDetails.bGenerateMeshNormalMap_DEPRECATED = nil
+FLevelSimplificationDetails.bGenerateMeshMetallicMap_DEPRECATED = nil
+FLevelSimplificationDetails.bGenerateMeshRoughnessMap_DEPRECATED = nil
+FLevelSimplificationDetails.bGenerateMeshSpecularMap_DEPRECATED = nil
+FLevelSimplificationDetails.bGenerateLandscapeNormalMap_DEPRECATED = nil
+FLevelSimplificationDetails.bGenerateLandscapeMetallicMap_DEPRECATED = nil
+FLevelSimplificationDetails.bGenerateLandscapeRoughnessMap_DEPRECATED = nil
+FLevelSimplificationDetails.bGenerateLandscapeSpecularMap_DEPRECATED = nil

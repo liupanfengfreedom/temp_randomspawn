@@ -1,0 +1,5 @@
+FInstancedStaticMeshComponentInstanceData = {}
+FInstancedStaticMeshComponentInstanceData.StaticMesh = nil
+FInstancedStaticMeshComponentInstanceData.CachedStaticLighting = nil
+FInstancedStaticMeshComponentInstanceData.PerInstanceSMData = nil
+FInstancedStaticMeshComponentInstanceData.InstancingRandomSeed = nil

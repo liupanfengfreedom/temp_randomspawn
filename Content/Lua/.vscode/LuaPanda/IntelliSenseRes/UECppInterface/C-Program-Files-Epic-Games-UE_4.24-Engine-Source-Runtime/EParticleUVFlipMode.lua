@@ -1,0 +1,9 @@
+EParticleUVFlipMode = {}
+EParticleUVFlipMode.None = nil
+EParticleUVFlipMode.FlipUV = nil
+EParticleUVFlipMode.FlipUOnly = nil
+EParticleUVFlipMode.FlipVOnly = nil
+EParticleUVFlipMode.RandomFlipUV = nil
+EParticleUVFlipMode.RandomFlipUOnly = nil
+EParticleUVFlipMode.RandomFlipVOnly = nil
+EParticleUVFlipMode.RandomFlipUVIndependent = nil

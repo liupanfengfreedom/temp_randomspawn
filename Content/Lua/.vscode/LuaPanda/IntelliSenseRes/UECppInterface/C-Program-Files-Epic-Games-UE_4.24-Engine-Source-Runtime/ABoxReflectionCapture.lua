@@ -1,0 +1,1 @@
+ABoxReflectionCapture = {} ---@type AReflectionCapture

@@ -1,0 +1,3 @@
+FMovieSceneActorReferenceSectionTemplate = {}
+FMovieSceneActorReferenceSectionTemplate.PropertyData = nil
+FMovieSceneActorReferenceSectionTemplate.ActorReferenceData = nil

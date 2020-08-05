@@ -1,0 +1,1 @@
+UInterpTrackAudioMaster = {} ---@type UInterpTrackVectorBase

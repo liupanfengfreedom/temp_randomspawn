@@ -1,0 +1,2 @@
+FMovieSceneVectorKeyStructBase = {}
+FMovieSceneVectorKeyStructBase.Time = nil

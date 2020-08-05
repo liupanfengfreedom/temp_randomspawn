@@ -1,0 +1,2 @@
+EMovieSceneBlendType = {}
+EMovieSceneBlendType.Invalid = nil

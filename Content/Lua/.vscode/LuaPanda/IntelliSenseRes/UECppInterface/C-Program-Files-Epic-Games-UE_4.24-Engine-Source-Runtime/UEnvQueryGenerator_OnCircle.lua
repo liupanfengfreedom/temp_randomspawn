@@ -1,0 +1,13 @@
+UEnvQueryGenerator_OnCircle = {} ---@type UEnvQueryGenerator_ProjectedPoints
+UEnvQueryGenerator_OnCircle.CircleRadius = nil
+UEnvQueryGenerator_OnCircle.SpaceBetween = nil
+UEnvQueryGenerator_OnCircle.NumberOfPoints = nil
+UEnvQueryGenerator_OnCircle.PointOnCircleSpacingMethod = nil
+UEnvQueryGenerator_OnCircle.ArcDirection = nil
+UEnvQueryGenerator_OnCircle.ArcAngle = nil
+UEnvQueryGenerator_OnCircle.AngleRadians = nil
+UEnvQueryGenerator_OnCircle.CircleCenter = nil
+UEnvQueryGenerator_OnCircle.bIgnoreAnyContextActorsWhenGeneratingCircle = nil
+UEnvQueryGenerator_OnCircle.CircleCenterZOffset = nil
+UEnvQueryGenerator_OnCircle.TraceData = nil
+UEnvQueryGenerator_OnCircle.bDefineArc = nil

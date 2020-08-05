@@ -1,0 +1,21 @@
+UButton = {} ---@type UContentWidget
+UButton.Style_DEPRECATED = nil
+UButton.WidgetStyle = nil
+UButton.ColorAndOpacity = nil
+UButton.BackgroundColor = nil
+UButton.ClickMethod = nil
+UButton.TouchMethod = nil
+UButton.PressMethod = nil
+UButton.IsFocusable = nil
+UButton.OnClicked = nil
+UButton.OnPressed = nil
+UButton.OnReleased = nil
+UButton.OnHovered = nil
+UButton.OnUnhovered = nil
+function UButton.SetStyle(InStyle) end
+function UButton.SetColorAndOpacity(InColorAndOpacity) end
+function UButton.SetBackgroundColor(InBackgroundColor) end
+function UButton.IsPressed() end
+function UButton.SetClickMethod(InClickMethod) end
+function UButton.SetTouchMethod(InTouchMethod) end
+function UButton.SetPressMethod(InPressMethod) end

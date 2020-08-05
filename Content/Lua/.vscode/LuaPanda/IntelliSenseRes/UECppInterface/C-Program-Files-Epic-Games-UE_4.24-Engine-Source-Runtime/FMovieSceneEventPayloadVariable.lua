@@ -1,0 +1,2 @@
+FMovieSceneEventPayloadVariable = {}
+FMovieSceneEventPayloadVariable.Value = nil

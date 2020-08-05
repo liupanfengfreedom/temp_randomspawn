@@ -1,0 +1,2 @@
+FCustomPrimitiveData = {}
+FCustomPrimitiveData.Data = nil

@@ -1,0 +1,15 @@
+USoundNodeEnveloper = {} ---@type USoundNode
+USoundNodeEnveloper.LoopStart = nil
+USoundNodeEnveloper.LoopEnd = nil
+USoundNodeEnveloper.DurationAfterLoop = nil
+USoundNodeEnveloper.LoopCount = nil
+USoundNodeEnveloper.bLoopIndefinitely = nil
+USoundNodeEnveloper.bLoop = nil
+USoundNodeEnveloper.VolumeInterpCurve_DEPRECATED = nil
+USoundNodeEnveloper.PitchInterpCurve_DEPRECATED = nil
+USoundNodeEnveloper.VolumeCurve = nil
+USoundNodeEnveloper.PitchCurve = nil
+USoundNodeEnveloper.PitchMin = nil
+USoundNodeEnveloper.PitchMax = nil
+USoundNodeEnveloper.VolumeMin = nil
+USoundNodeEnveloper.VolumeMax = nil

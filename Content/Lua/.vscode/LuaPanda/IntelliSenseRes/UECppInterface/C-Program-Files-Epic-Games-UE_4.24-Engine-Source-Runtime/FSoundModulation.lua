@@ -1,0 +1,2 @@
+FSoundModulation = {}
+FSoundModulation.Settings = nil

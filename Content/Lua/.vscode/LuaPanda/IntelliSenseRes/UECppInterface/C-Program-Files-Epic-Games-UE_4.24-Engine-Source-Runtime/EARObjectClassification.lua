@@ -1,0 +1,12 @@
+EARObjectClassification = {}
+EARObjectClassification.NotApplicable = nil
+EARObjectClassification.Unknown = nil
+EARObjectClassification.Wall = nil
+EARObjectClassification.Ceiling = nil
+EARObjectClassification.Floor = nil
+EARObjectClassification.Table = nil
+EARObjectClassification.Seat = nil
+EARObjectClassification.Face = nil
+EARObjectClassification.Image = nil
+EARObjectClassification.World = nil
+EARObjectClassification.SceneObject = nil

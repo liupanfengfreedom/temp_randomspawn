@@ -1,0 +1,2 @@
+FCollectionVectorParameter = {}
+FCollectionVectorParameter.DefaultValue = nil

@@ -1,0 +1,1 @@
+ATriggerSphere = {} ---@type ATriggerBase

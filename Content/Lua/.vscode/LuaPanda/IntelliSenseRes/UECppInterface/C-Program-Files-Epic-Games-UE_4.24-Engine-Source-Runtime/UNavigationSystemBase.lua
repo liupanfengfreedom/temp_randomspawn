@@ -1,0 +1,1 @@
+UNavigationSystemBase = {} ---@type UObject

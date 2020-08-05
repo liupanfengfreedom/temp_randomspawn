@@ -1,0 +1,13 @@
+UWindDirectionalSourceComponent = {} ---@type USceneComponent
+UWindDirectionalSourceComponent.Strength = nil
+UWindDirectionalSourceComponent.Speed = nil
+UWindDirectionalSourceComponent.MinGustAmount = nil
+UWindDirectionalSourceComponent.MaxGustAmount = nil
+UWindDirectionalSourceComponent.Radius = nil
+UWindDirectionalSourceComponent.bPointWind = nil
+function UWindDirectionalSourceComponent.SetStrength(InNewStrength) end
+function UWindDirectionalSourceComponent.SetSpeed(InNewSpeed) end
+function UWindDirectionalSourceComponent.SetMinimumGustAmount(InNewMinGust) end
+function UWindDirectionalSourceComponent.SetMaximumGustAmount(InNewMaxGust) end
+function UWindDirectionalSourceComponent.SetRadius(InNewRadius) end
+function UWindDirectionalSourceComponent.SetWindType(InNewType) end

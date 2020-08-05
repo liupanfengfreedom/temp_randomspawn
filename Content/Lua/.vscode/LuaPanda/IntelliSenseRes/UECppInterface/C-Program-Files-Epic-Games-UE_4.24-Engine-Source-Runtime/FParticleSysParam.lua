@@ -1,0 +1,10 @@
+FParticleSysParam = {}
+FParticleSysParam.Name = nil
+FParticleSysParam.ParamType = nil
+FParticleSysParam.Scalar = nil
+FParticleSysParam.Scalar_Low = nil
+FParticleSysParam.Vector = nil
+FParticleSysParam.Vector_Low = nil
+FParticleSysParam.Color = nil
+FParticleSysParam.Actor = nil
+FParticleSysParam.Material = nil

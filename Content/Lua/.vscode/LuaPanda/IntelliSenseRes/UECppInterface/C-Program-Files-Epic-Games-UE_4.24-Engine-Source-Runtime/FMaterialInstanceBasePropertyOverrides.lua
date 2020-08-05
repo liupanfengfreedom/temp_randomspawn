@@ -1,0 +1,13 @@
+FMaterialInstanceBasePropertyOverrides = {}
+FMaterialInstanceBasePropertyOverrides.bOverride_OpacityMaskClipValue = nil
+FMaterialInstanceBasePropertyOverrides.bOverride_BlendMode = nil
+FMaterialInstanceBasePropertyOverrides.bOverride_ShadingModel = nil
+FMaterialInstanceBasePropertyOverrides.bOverride_DitheredLODTransition = nil
+FMaterialInstanceBasePropertyOverrides.bOverride_CastDynamicShadowAsMasked = nil
+FMaterialInstanceBasePropertyOverrides.bOverride_TwoSided = nil
+FMaterialInstanceBasePropertyOverrides.TwoSided = nil
+FMaterialInstanceBasePropertyOverrides.DitheredLODTransition = nil
+FMaterialInstanceBasePropertyOverrides.bCastDynamicShadowAsMasked = nil
+FMaterialInstanceBasePropertyOverrides.BlendMode = nil
+FMaterialInstanceBasePropertyOverrides.ShadingModel = nil
+FMaterialInstanceBasePropertyOverrides.OpacityMaskClipValue = nil

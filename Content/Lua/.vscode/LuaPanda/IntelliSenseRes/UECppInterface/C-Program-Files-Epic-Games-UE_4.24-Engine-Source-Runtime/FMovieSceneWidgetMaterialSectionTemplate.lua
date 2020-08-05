@@ -1,0 +1,2 @@
+FMovieSceneWidgetMaterialSectionTemplate = {}
+FMovieSceneWidgetMaterialSectionTemplate.BrushPropertyNamePath = nil

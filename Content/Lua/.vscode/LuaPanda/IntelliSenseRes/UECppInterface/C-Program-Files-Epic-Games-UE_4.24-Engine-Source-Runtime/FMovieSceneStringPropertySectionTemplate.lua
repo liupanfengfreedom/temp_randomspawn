@@ -1,0 +1,2 @@
+FMovieSceneStringPropertySectionTemplate = {}
+FMovieSceneStringPropertySectionTemplate.StringCurve = nil

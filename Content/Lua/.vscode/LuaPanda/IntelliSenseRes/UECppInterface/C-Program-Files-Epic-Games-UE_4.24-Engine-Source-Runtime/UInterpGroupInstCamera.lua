@@ -1,0 +1,1 @@
+UInterpGroupInstCamera = {} ---@type UInterpGroupInst

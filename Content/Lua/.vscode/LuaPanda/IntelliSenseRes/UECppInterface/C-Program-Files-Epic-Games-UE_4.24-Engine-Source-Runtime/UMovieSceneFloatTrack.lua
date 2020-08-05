@@ -1,0 +1,1 @@
+UMovieSceneFloatTrack = {} ---@type UMovieScenePropertyTrack

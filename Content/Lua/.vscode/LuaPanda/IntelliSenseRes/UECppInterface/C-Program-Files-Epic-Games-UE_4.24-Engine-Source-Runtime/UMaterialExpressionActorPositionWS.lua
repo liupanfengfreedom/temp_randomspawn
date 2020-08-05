@@ -1,0 +1,1 @@
+UMaterialExpressionActorPositionWS = {} ---@type UMaterialExpression

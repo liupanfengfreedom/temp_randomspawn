@@ -1,0 +1,1 @@
+UDistributionVectorParticleParameter = {} ---@type UDistributionVectorParameterBase

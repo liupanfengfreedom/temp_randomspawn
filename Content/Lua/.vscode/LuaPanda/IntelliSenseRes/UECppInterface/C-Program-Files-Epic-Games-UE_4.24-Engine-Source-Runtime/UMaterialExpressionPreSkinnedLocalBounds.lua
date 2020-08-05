@@ -1,0 +1,1 @@
+UMaterialExpressionPreSkinnedLocalBounds = {} ---@type UMaterialExpression

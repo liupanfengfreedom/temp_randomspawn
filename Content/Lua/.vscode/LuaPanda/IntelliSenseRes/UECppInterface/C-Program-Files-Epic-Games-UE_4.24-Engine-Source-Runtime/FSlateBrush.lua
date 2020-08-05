@@ -1,0 +1,14 @@
+FSlateBrush = {}
+FSlateBrush.ImageSize = nil
+FSlateBrush.Margin = nil
+FSlateBrush.Tint_DEPRECATED = nil
+FSlateBrush.TintColor = nil
+FSlateBrush.ResourceObject = nil
+FSlateBrush.ResourceName = nil
+FSlateBrush.UVRegion = nil
+FSlateBrush.DrawAs = nil
+FSlateBrush.Tiling = nil
+FSlateBrush.Mirroring = nil
+FSlateBrush.ImageType = nil
+FSlateBrush.bIsDynamicallyLoaded = nil
+FSlateBrush.bHasUObject_DEPRECATED = nil

@@ -1,0 +1,1 @@
+ANavigationGraphNode = {} ---@type AActor

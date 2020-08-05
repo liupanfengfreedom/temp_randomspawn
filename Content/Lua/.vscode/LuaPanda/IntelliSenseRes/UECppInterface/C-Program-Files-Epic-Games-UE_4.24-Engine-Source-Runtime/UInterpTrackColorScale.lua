@@ -1,0 +1,1 @@
+UInterpTrackColorScale = {} ---@type UInterpTrackVectorBase

@@ -1,0 +1,3 @@
+EMeshInstancingReplacementMethod = {}
+EMeshInstancingReplacementMethod.RemoveOriginalActors = nil
+EMeshInstancingReplacementMethod.KeepOriginalActorsAsEditorOnly = nil

@@ -1,0 +1,1 @@
+AGizmoActor = {} ---@type AInternalToolFrameworkActor

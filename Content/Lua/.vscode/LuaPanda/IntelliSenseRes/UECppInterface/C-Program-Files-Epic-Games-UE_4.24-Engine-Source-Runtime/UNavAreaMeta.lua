@@ -1,0 +1,1 @@
+UNavAreaMeta = {} ---@type UNavArea

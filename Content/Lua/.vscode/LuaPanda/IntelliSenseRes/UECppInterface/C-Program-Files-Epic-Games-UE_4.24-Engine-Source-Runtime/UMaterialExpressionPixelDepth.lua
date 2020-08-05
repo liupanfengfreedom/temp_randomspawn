@@ -1,0 +1,1 @@
+UMaterialExpressionPixelDepth = {} ---@type UMaterialExpression

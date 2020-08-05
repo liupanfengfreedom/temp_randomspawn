@@ -1,0 +1,13 @@
+UAssetExportTask = {} ---@type UObject
+UAssetExportTask.Object = nil
+UAssetExportTask.Exporter = nil
+UAssetExportTask.Filename = nil
+UAssetExportTask.bSelected = nil
+UAssetExportTask.bReplaceIdentical = nil
+UAssetExportTask.bPrompt = nil
+UAssetExportTask.bAutomated = nil
+UAssetExportTask.bUseFileArchive = nil
+UAssetExportTask.bWriteEmptyFiles = nil
+UAssetExportTask.IgnoreObjectList = nil
+UAssetExportTask.Options = nil
+UAssetExportTask.Errors = nil

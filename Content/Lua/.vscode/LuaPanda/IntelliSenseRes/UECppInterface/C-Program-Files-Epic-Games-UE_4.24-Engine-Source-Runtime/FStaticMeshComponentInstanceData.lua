@@ -1,0 +1,6 @@
+FStaticMeshComponentInstanceData = {}
+FStaticMeshComponentInstanceData.StaticMesh = nil
+FStaticMeshComponentInstanceData.VertexColorLODs = nil
+FStaticMeshComponentInstanceData.CachedStaticLighting = nil
+FStaticMeshComponentInstanceData.StreamingTextureData = nil
+FStaticMeshComponentInstanceData.MaterialStreamingRelativeBoxes = nil

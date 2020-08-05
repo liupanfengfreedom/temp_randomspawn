@@ -1,0 +1,1 @@
+UDrawSphereComponent = {} ---@type USphereComponent

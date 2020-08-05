@@ -1,0 +1,1 @@
+UVoiceChannel = {} ---@type UChannel

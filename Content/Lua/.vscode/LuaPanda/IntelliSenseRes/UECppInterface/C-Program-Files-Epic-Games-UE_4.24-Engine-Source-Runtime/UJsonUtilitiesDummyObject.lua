@@ -1,0 +1,1 @@
+UJsonUtilitiesDummyObject = {} ---@type UObject

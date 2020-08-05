@@ -1,0 +1,9 @@
+UParticleModuleSpawnPerUnit = {} ---@type UParticleModuleSpawnBase
+UParticleModuleSpawnPerUnit.UnitScalar = nil
+UParticleModuleSpawnPerUnit.MovementTolerance = nil
+UParticleModuleSpawnPerUnit.SpawnPerUnit = nil
+UParticleModuleSpawnPerUnit.MaxFrameDistance = nil
+UParticleModuleSpawnPerUnit.bIgnoreSpawnRateWhenMoving = nil
+UParticleModuleSpawnPerUnit.bIgnoreMovementAlongX = nil
+UParticleModuleSpawnPerUnit.bIgnoreMovementAlongY = nil
+UParticleModuleSpawnPerUnit.bIgnoreMovementAlongZ = nil

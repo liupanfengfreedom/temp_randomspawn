@@ -1,0 +1,9 @@
+FSoundSourceBusSendInfo = {}
+FSoundSourceBusSendInfo.SourceBusSendLevelControlMethod = nil
+FSoundSourceBusSendInfo.SoundSourceBus = nil
+FSoundSourceBusSendInfo.SendLevel = nil
+FSoundSourceBusSendInfo.MinSendLevel = nil
+FSoundSourceBusSendInfo.MaxSendLevel = nil
+FSoundSourceBusSendInfo.MinSendDistance = nil
+FSoundSourceBusSendInfo.MaxSendDistance = nil
+FSoundSourceBusSendInfo.CustomSendLevelCurve = nil

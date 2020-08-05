@@ -1,0 +1,7 @@
+URuntimeAssetCacheBuilder_ObjectBase = {} ---@type UObject
+URuntimeAssetCacheBuilder_ObjectBase.AssetVersion = nil
+URuntimeAssetCacheBuilder_ObjectBase.AssetName = nil
+function URuntimeAssetCacheBuilder_ObjectBase.GetFromCacheAsync(OnComplete) end
+function URuntimeAssetCacheBuilder_ObjectBase.GetFromCacheAsyncComplete(Handle, DataPtr) end
+function URuntimeAssetCacheBuilder_ObjectBase.OnAssetCacheMiss() end
+function URuntimeAssetCacheBuilder_ObjectBase.SaveNewAssetToCache(NewAsset) end

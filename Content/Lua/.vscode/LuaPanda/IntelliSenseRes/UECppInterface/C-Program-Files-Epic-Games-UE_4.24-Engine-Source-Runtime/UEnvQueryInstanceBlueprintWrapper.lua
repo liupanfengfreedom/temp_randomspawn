@@ -1,0 +1,9 @@
+UEnvQueryInstanceBlueprintWrapper = {} ---@type UObject
+UEnvQueryInstanceBlueprintWrapper.QueryID = nil
+UEnvQueryInstanceBlueprintWrapper.ItemType = nil
+UEnvQueryInstanceBlueprintWrapper.OptionIndex = nil
+UEnvQueryInstanceBlueprintWrapper.OnQueryFinishedEvent = nil
+function UEnvQueryInstanceBlueprintWrapper.GetItemScore(ItemIndex) end
+function UEnvQueryInstanceBlueprintWrapper.GetQueryResultsAsActors(ResultActors) end
+function UEnvQueryInstanceBlueprintWrapper.GetQueryResultsAsLocations(ResultLocations) end
+function UEnvQueryInstanceBlueprintWrapper.SetNamedParam(ParamName, Value) end

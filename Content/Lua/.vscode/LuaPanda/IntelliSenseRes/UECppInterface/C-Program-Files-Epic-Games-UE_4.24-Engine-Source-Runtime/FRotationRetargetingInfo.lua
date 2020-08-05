@@ -1,0 +1,16 @@
+FRotationRetargetingInfo = {}
+FRotationRetargetingInfo.bEnabled = nil
+FRotationRetargetingInfo.Source = nil
+FRotationRetargetingInfo.Target = nil
+FRotationRetargetingInfo.RotationComponent = nil
+FRotationRetargetingInfo.TwistAxis = nil
+FRotationRetargetingInfo.bUseAbsoluteAngle = nil
+FRotationRetargetingInfo.SourceMinimum = nil
+FRotationRetargetingInfo.SourceMaximum = nil
+FRotationRetargetingInfo.TargetMinimum = nil
+FRotationRetargetingInfo.TargetMaximum = nil
+FRotationRetargetingInfo.EasingType = nil
+FRotationRetargetingInfo.CustomCurve = nil
+FRotationRetargetingInfo.bFlipEasing = nil
+FRotationRetargetingInfo.EasingWeight = nil
+FRotationRetargetingInfo.bClamp = nil

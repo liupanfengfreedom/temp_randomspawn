@@ -1,0 +1,1 @@
+UMaterialExpressionViewSize = {} ---@type UMaterialExpression

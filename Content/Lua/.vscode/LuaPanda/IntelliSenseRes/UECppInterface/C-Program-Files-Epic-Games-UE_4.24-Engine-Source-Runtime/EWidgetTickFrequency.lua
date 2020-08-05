@@ -1,0 +1,2 @@
+EWidgetTickFrequency = {}
+EWidgetTickFrequency.Auto = nil

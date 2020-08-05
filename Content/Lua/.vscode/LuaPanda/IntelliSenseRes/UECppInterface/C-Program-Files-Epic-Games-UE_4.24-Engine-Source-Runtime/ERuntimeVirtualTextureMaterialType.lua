@@ -1,0 +1,7 @@
+ERuntimeVirtualTextureMaterialType = {}
+ERuntimeVirtualTextureMaterialType.BaseColor = nil
+ERuntimeVirtualTextureMaterialType.BaseColor_Normal_DEPRECATED = nil
+ERuntimeVirtualTextureMaterialType.BaseColor_Normal_Specular = nil
+ERuntimeVirtualTextureMaterialType.BaseColor_Normal_Specular_YCoCg = nil
+ERuntimeVirtualTextureMaterialType.WorldHeight = nil
+ERuntimeVirtualTextureMaterialType.Count = nil

@@ -1,0 +1,4 @@
+UFoliageInstancedStaticMeshComponent = {} ---@type UHierarchicalInstancedStaticMeshComponent
+UFoliageInstancedStaticMeshComponent.OnInstanceTakePointDamage = nil
+UFoliageInstancedStaticMeshComponent.OnInstanceTakeRadialDamage = nil
+UFoliageInstancedStaticMeshComponent.FoliageHiddenEditorViews = nil

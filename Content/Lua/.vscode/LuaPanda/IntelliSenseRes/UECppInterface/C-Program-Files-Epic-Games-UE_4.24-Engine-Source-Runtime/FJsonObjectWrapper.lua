@@ -1,0 +1,2 @@
+FJsonObjectWrapper = {}
+FJsonObjectWrapper.JsonString = nil

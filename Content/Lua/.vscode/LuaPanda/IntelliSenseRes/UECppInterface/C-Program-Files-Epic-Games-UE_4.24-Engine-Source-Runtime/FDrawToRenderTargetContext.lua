@@ -1,0 +1,2 @@
+FDrawToRenderTargetContext = {}
+FDrawToRenderTargetContext.RenderTarget = nil

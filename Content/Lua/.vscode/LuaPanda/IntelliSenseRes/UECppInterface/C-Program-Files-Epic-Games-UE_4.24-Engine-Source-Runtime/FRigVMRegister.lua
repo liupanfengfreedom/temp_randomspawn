@@ -1,0 +1,11 @@
+FRigVMRegister = {}
+FRigVMRegister.Type = nil
+FRigVMRegister.ByteIndex = nil
+FRigVMRegister.ElementSize = nil
+FRigVMRegister.ElementCount = nil
+FRigVMRegister.SliceIndex = nil
+FRigVMRegister.SliceCount = nil
+FRigVMRegister.AlignmentBytes = nil
+FRigVMRegister.TrailingBytes = nil
+FRigVMRegister.Name = nil
+FRigVMRegister.ScriptStructIndex = nil

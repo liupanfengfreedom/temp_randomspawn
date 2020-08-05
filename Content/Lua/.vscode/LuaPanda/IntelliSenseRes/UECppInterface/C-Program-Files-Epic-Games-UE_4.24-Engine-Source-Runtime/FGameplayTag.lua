@@ -1,0 +1,2 @@
+FGameplayTag = {}
+FGameplayTag.TagName = nil

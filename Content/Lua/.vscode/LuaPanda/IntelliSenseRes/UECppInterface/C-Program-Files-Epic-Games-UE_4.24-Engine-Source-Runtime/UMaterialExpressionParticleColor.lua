@@ -1,0 +1,1 @@
+UMaterialExpressionParticleColor = {} ---@type UMaterialExpression

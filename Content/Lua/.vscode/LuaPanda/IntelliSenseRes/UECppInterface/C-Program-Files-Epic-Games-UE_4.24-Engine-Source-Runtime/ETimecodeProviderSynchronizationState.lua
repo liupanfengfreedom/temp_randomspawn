@@ -1,0 +1,5 @@
+ETimecodeProviderSynchronizationState = {}
+ETimecodeProviderSynchronizationState.Closed = nil
+ETimecodeProviderSynchronizationState.Error = nil
+ETimecodeProviderSynchronizationState.Synchronized = nil
+ETimecodeProviderSynchronizationState.Synchronizing = nil

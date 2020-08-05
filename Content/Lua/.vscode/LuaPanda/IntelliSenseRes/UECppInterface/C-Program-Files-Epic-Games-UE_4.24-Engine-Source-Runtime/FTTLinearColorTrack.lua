@@ -1,0 +1,2 @@
+FTTLinearColorTrack = {}
+FTTLinearColorTrack.CurveLinearColor = nil

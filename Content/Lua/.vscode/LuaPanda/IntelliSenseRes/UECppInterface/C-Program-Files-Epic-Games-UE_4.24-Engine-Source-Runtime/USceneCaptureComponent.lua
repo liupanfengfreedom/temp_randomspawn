@@ -1,0 +1,25 @@
+USceneCaptureComponent = {} ---@type USceneComponent
+USceneCaptureComponent.PrimitiveRenderMode = nil
+USceneCaptureComponent.CaptureSource = nil
+USceneCaptureComponent.HiddenComponents = nil
+USceneCaptureComponent.HiddenActors = nil
+USceneCaptureComponent.ShowOnlyComponents = nil
+USceneCaptureComponent.ShowOnlyActors = nil
+USceneCaptureComponent.bCaptureEveryFrame = nil
+USceneCaptureComponent.bCaptureOnMovement = nil
+USceneCaptureComponent.bAlwaysPersistRenderingState = nil
+USceneCaptureComponent.LODDistanceFactor = nil
+USceneCaptureComponent.MaxViewDistanceOverride = nil
+USceneCaptureComponent.CaptureSortPriority = nil
+USceneCaptureComponent.ShowFlagSettings = nil
+USceneCaptureComponent.ProfilingEventName = nil
+USceneCaptureComponent.CaptureMesh = nil
+function USceneCaptureComponent.HideComponent(InComponent) end
+function USceneCaptureComponent.HideActorComponents(InActor) end
+function USceneCaptureComponent.ShowOnlyComponent(InComponent) end
+function USceneCaptureComponent.ShowOnlyActorComponents(InActor) end
+function USceneCaptureComponent.RemoveShowOnlyComponent(InComponent) end
+function USceneCaptureComponent.RemoveShowOnlyActorComponents(InActor) end
+function USceneCaptureComponent.ClearShowOnlyComponents() end
+function USceneCaptureComponent.ClearHiddenComponents() end
+function USceneCaptureComponent.SetCaptureSortPriority(NewCaptureSortPriority) end

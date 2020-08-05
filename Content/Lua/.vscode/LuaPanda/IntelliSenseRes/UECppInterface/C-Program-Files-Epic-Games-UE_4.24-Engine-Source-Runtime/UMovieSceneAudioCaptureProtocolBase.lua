@@ -1,0 +1,1 @@
+UMovieSceneAudioCaptureProtocolBase = {} ---@type UMovieSceneCaptureProtocolBase

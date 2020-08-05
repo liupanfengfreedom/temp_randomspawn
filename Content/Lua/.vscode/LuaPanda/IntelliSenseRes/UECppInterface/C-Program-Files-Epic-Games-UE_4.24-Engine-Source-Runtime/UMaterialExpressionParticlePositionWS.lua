@@ -1,0 +1,1 @@
+UMaterialExpressionParticlePositionWS = {} ---@type UMaterialExpression

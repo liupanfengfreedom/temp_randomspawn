@@ -1,0 +1,1 @@
+ULevelStreamingPersistent = {} ---@type ULevelStreaming

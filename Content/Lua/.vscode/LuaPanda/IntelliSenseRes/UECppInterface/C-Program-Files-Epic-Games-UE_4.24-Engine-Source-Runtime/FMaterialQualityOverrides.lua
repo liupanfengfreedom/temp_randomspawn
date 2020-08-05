@@ -1,0 +1,9 @@
+FMaterialQualityOverrides = {}
+FMaterialQualityOverrides.bDiscardQualityDuringCook = nil
+FMaterialQualityOverrides.bEnableOverride = nil
+FMaterialQualityOverrides.bForceFullyRough = nil
+FMaterialQualityOverrides.bForceNonMetal = nil
+FMaterialQualityOverrides.bForceDisableLMDirectionality = nil
+FMaterialQualityOverrides.bForceLQReflections = nil
+FMaterialQualityOverrides.bDisableMaterialNormalCalculation = nil
+FMaterialQualityOverrides.MobileCSMQuality = nil

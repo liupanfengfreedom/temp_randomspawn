@@ -1,0 +1,1 @@
+UInterpTrackSlomo = {} ---@type UInterpTrackFloatBase

@@ -1,0 +1,19 @@
+UGameMapsSettings = {} ---@type UObject
+UGameMapsSettings.EditorStartupMap = nil
+UGameMapsSettings.LocalMapOptions = nil
+UGameMapsSettings.TransitionMap = nil
+UGameMapsSettings.bUseSplitscreen = nil
+UGameMapsSettings.TwoPlayerSplitscreenLayout = nil
+UGameMapsSettings.ThreePlayerSplitscreenLayout = nil
+UGameMapsSettings.FourPlayerSplitscreenLayout = nil
+UGameMapsSettings.bOffsetPlayerGamepadIds = nil
+UGameMapsSettings.GameInstanceClass = nil
+UGameMapsSettings.GameDefaultMap = nil
+UGameMapsSettings.ServerDefaultMap = nil
+UGameMapsSettings.GlobalDefaultGameMode = nil
+UGameMapsSettings.GlobalDefaultServerGameMode = nil
+UGameMapsSettings.GameModeMapPrefixes = nil
+UGameMapsSettings.GameModeClassAliases = nil
+function UGameMapsSettings.GetGameMapsSettings() end
+function UGameMapsSettings.SetSkipAssigningGamepadToPlayer1() end
+function UGameMapsSettings.GetSkipAssigningGamepadToPlayer1() end

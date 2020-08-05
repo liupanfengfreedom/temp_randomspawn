@@ -1,0 +1,1 @@
+UGizmoLambdaStateTarget = {} ---@type UObject

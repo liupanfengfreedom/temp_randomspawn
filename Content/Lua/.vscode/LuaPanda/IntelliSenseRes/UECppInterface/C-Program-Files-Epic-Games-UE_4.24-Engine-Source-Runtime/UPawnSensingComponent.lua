@@ -1,0 +1,19 @@
+UPawnSensingComponent = {} ---@type UActorComponent
+UPawnSensingComponent.HearingThreshold = nil
+UPawnSensingComponent.LOSHearingThreshold = nil
+UPawnSensingComponent.SightRadius = nil
+UPawnSensingComponent.SensingInterval = nil
+UPawnSensingComponent.HearingMaxSoundAge = nil
+UPawnSensingComponent.bEnableSensingUpdates = nil
+UPawnSensingComponent.bOnlySensePlayers = nil
+UPawnSensingComponent.bSeePawns = nil
+UPawnSensingComponent.bHearNoises = nil
+UPawnSensingComponent.OnSeePawn = nil
+UPawnSensingComponent.OnHearNoise = nil
+UPawnSensingComponent.PeripheralVisionAngle = nil
+UPawnSensingComponent.PeripheralVisionCosine = nil
+function UPawnSensingComponent.SetSensingInterval(NewSensingInterval) end
+function UPawnSensingComponent.SetSensingUpdatesEnabled(bEnabled) end
+function UPawnSensingComponent.SetPeripheralVisionAngle(NewPeripheralVisionAngle) end
+function UPawnSensingComponent.GetPeripheralVisionAngle() end
+function UPawnSensingComponent.GetPeripheralVisionCosine() end

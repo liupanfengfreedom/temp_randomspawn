@@ -1,0 +1,13 @@
+EFunctionInputType = {}
+EFunctionInputType.FunctionInput_Scalar = nil
+EFunctionInputType.FunctionInput_Vector2 = nil
+EFunctionInputType.FunctionInput_Vector3 = nil
+EFunctionInputType.FunctionInput_Vector4 = nil
+EFunctionInputType.FunctionInput_Texture2D = nil
+EFunctionInputType.FunctionInput_TextureCube = nil
+EFunctionInputType.FunctionInput_Texture2DArray = nil
+EFunctionInputType.FunctionInput_VolumeTexture = nil
+EFunctionInputType.FunctionInput_StaticBool = nil
+EFunctionInputType.FunctionInput_MaterialAttributes = nil
+EFunctionInputType.FunctionInput_TextureExternal = nil
+EFunctionInputType.FunctionInput_MAX = nil

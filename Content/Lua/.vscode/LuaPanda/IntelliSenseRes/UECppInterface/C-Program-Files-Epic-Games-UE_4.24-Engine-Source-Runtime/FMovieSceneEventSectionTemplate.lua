@@ -1,0 +1,2 @@
+FMovieSceneEventSectionTemplate = {}
+FMovieSceneEventSectionTemplate.EventData = nil

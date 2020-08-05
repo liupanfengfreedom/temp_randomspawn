@@ -1,0 +1,34 @@
+UMovieSceneSection = {} ---@type UMovieSceneSignedObject
+UMovieSceneSection.EvalOptions = nil
+UMovieSceneSection.Easing = nil
+UMovieSceneSection.SectionRange = nil
+UMovieSceneSection.TimecodeSource = nil
+UMovieSceneSection.PreRollFrames = nil
+UMovieSceneSection.PostRollFrames = nil
+UMovieSceneSection.RowIndex = nil
+UMovieSceneSection.OverlapPriority = nil
+UMovieSceneSection.bIsActive = nil
+UMovieSceneSection.bIsLocked = nil
+UMovieSceneSection.StartTime_DEPRECATED = nil
+UMovieSceneSection.EndTime_DEPRECATED = nil
+UMovieSceneSection.PreRollTime_DEPRECATED = nil
+UMovieSceneSection.PostRollTime_DEPRECATED = nil
+UMovieSceneSection.bIsInfinite_DEPRECATED = nil
+UMovieSceneSection.bSupportsInfiniteRange = nil
+UMovieSceneSection.BlendType = nil
+function UMovieSceneSection.GetCompletionMode() end
+function UMovieSceneSection.SetCompletionMode(InCompletionMode) end
+function UMovieSceneSection.GetBlendType() end
+function  end
+function UMovieSceneSection.SetRowIndex(NewRowIndex) end
+function UMovieSceneSection.GetRowIndex() end
+function UMovieSceneSection.SetOverlapPriority(NewPriority) end
+function UMovieSceneSection.GetOverlapPriority() end
+function UMovieSceneSection.SetIsActive(bInIsActive) end
+function UMovieSceneSection.IsActive() end
+function UMovieSceneSection.SetIsLocked(bInIsLocked) end
+function UMovieSceneSection.IsLocked() end
+function UMovieSceneSection.SetPreRollFrames(InPreRollFrames) end
+function UMovieSceneSection.GetPreRollFrames() end
+function UMovieSceneSection.SetPostRollFrames(InPostRollFrames) end
+function UMovieSceneSection.GetPostRollFrames() end

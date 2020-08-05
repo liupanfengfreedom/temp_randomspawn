@@ -1,0 +1,1 @@
+UEnvQueryDebugHelpers = {} ---@type UObject

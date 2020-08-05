@@ -1,0 +1,16 @@
+UTimelineTemplate = {} ---@type UObject
+UTimelineTemplate.TimelineLength = nil
+UTimelineTemplate.LengthMode = nil
+UTimelineTemplate.bAutoPlay = nil
+UTimelineTemplate.bLoop = nil
+UTimelineTemplate.bReplicated = nil
+UTimelineTemplate.bIgnoreTimeDilation = nil
+UTimelineTemplate.EventTracks = nil
+UTimelineTemplate.FloatTracks = nil
+UTimelineTemplate.VectorTracks = nil
+UTimelineTemplate.LinearColorTracks = nil
+UTimelineTemplate.MetaDataArray = nil
+UTimelineTemplate.TimelineGuid = nil
+UTimelineTemplate.DirectionPropertyName = nil
+UTimelineTemplate.UpdateFunctionName = nil
+UTimelineTemplate.FinishedFunctionName = nil

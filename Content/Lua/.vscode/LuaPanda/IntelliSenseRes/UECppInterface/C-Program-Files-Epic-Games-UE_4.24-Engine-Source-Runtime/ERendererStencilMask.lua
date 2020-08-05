@@ -1,0 +1,11 @@
+ERendererStencilMask = {}
+ERendererStencilMask.ERSM_Default = nil
+ERendererStencilMask.ERSM_255 = nil
+ERendererStencilMask.ERSM_1 = nil
+ERendererStencilMask.ERSM_2 = nil
+ERendererStencilMask.ERSM_4 = nil
+ERendererStencilMask.ERSM_8 = nil
+ERendererStencilMask.ERSM_16 = nil
+ERendererStencilMask.ERSM_32 = nil
+ERendererStencilMask.ERSM_64 = nil
+ERendererStencilMask.ERSM_128 = nil

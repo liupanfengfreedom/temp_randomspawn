@@ -1,0 +1,1 @@
+UMovieSceneSlomoTrack = {} ---@type UMovieSceneFloatTrack

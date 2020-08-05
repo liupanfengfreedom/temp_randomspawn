@@ -1,0 +1,1 @@
+ABrushShape = {} ---@type ABrush

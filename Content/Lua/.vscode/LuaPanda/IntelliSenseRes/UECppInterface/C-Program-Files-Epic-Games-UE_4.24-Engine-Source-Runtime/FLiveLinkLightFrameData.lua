@@ -1,0 +1,10 @@
+FLiveLinkLightFrameData = {}
+FLiveLinkLightFrameData.Temperature = nil
+FLiveLinkLightFrameData.Intensity = nil
+FLiveLinkLightFrameData.LightColor = nil
+FLiveLinkLightFrameData.InnerConeAngle = nil
+FLiveLinkLightFrameData.OuterConeAngle = nil
+FLiveLinkLightFrameData.AttenuationRadius = nil
+FLiveLinkLightFrameData.SourceRadius = nil
+FLiveLinkLightFrameData.SoftSourceRadius = nil
+FLiveLinkLightFrameData.SourceLength = nil

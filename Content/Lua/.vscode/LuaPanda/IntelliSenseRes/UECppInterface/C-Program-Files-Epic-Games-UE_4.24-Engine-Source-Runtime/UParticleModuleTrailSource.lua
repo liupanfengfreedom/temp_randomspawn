@@ -1,0 +1,9 @@
+UParticleModuleTrailSource = {} ---@type UParticleModuleTrailBase
+UParticleModuleTrailSource.SourceMethod = nil
+UParticleModuleTrailSource.SourceName = nil
+UParticleModuleTrailSource.SourceStrength = nil
+UParticleModuleTrailSource.bLockSourceStength = nil
+UParticleModuleTrailSource.SourceOffsetCount = nil
+UParticleModuleTrailSource.SourceOffsetDefaults = nil
+UParticleModuleTrailSource.SelectionMethod = nil
+UParticleModuleTrailSource.bInheritRotation = nil

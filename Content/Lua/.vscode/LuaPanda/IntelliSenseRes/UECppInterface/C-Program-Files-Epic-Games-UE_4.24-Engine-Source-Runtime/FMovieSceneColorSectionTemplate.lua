@@ -1,0 +1,2 @@
+FMovieSceneColorSectionTemplate = {}
+FMovieSceneColorSectionTemplate.BlendType = nil

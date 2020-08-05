@@ -1,0 +1,1 @@
+UAnimMetaData = {} ---@type UObject

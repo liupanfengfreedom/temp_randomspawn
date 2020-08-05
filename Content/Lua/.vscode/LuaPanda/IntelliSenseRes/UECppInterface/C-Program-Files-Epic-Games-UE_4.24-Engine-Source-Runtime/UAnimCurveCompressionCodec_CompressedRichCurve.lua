@@ -1,0 +1,4 @@
+UAnimCurveCompressionCodec_CompressedRichCurve = {} ---@type UAnimCurveCompressionCodec
+UAnimCurveCompressionCodec_CompressedRichCurve.MaxCurveError = nil
+UAnimCurveCompressionCodec_CompressedRichCurve.UseAnimSequenceSampleRate = nil
+UAnimCurveCompressionCodec_CompressedRichCurve.ErrorSampleRate = nil

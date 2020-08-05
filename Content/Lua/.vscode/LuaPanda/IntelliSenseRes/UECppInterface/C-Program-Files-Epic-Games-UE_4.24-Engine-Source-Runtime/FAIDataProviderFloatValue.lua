@@ -1,0 +1,2 @@
+FAIDataProviderFloatValue = {}
+FAIDataProviderFloatValue.DefaultValue = nil

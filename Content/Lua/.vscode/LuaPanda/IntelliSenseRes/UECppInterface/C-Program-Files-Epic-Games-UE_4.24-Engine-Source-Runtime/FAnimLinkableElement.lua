@@ -1,0 +1,10 @@
+FAnimLinkableElement = {}
+FAnimLinkableElement.LinkedMontage = nil
+FAnimLinkableElement.SlotIndex = nil
+FAnimLinkableElement.SegmentIndex = nil
+FAnimLinkableElement.LinkMethod = nil
+FAnimLinkableElement.CachedLinkMethod = nil
+FAnimLinkableElement.SegmentBeginTime = nil
+FAnimLinkableElement.SegmentLength = nil
+FAnimLinkableElement.LinkValue = nil
+FAnimLinkableElement.LinkedSequence = nil

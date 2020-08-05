@@ -1,0 +1,6 @@
+ESpawnActorCollisionHandlingMethod = {}
+ESpawnActorCollisionHandlingMethod.Undefined = nil
+ESpawnActorCollisionHandlingMethod.AlwaysSpawn = nil
+ESpawnActorCollisionHandlingMethod.AdjustIfPossibleButAlwaysSpawn = nil
+ESpawnActorCollisionHandlingMethod.AdjustIfPossibleButDontSpawnIfColliding = nil
+ESpawnActorCollisionHandlingMethod.DontSpawnIfColliding = nil

@@ -1,0 +1,2 @@
+FPreviewMeshCollectionEntry = {}
+FPreviewMeshCollectionEntry.SkeletalMesh = nil

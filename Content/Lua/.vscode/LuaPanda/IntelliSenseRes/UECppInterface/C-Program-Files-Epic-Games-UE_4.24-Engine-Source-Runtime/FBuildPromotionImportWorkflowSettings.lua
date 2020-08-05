@@ -1,0 +1,12 @@
+FBuildPromotionImportWorkflowSettings = {}
+FBuildPromotionImportWorkflowSettings.Diffuse = nil
+FBuildPromotionImportWorkflowSettings.Normal = nil
+FBuildPromotionImportWorkflowSettings.StaticMesh = nil
+FBuildPromotionImportWorkflowSettings.ReimportStaticMesh = nil
+FBuildPromotionImportWorkflowSettings.BlendShapeMesh = nil
+FBuildPromotionImportWorkflowSettings.MorphMesh = nil
+FBuildPromotionImportWorkflowSettings.SkeletalMesh = nil
+FBuildPromotionImportWorkflowSettings.Animation = nil
+FBuildPromotionImportWorkflowSettings.Sound = nil
+FBuildPromotionImportWorkflowSettings.SurroundSound = nil
+FBuildPromotionImportWorkflowSettings.OtherAssetsToImport = nil

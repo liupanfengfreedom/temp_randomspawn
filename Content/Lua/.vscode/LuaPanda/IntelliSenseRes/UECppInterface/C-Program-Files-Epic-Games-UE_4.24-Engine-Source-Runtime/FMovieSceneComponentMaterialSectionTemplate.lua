@@ -1,0 +1,2 @@
+FMovieSceneComponentMaterialSectionTemplate = {}
+FMovieSceneComponentMaterialSectionTemplate.MaterialIndex = nil

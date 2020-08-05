@@ -1,0 +1,2 @@
+FDamageEvent = {}
+FDamageEvent.DamageTypeClass = nil

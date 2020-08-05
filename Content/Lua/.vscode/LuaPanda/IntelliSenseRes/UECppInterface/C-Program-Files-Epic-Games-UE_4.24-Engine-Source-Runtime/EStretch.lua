@@ -1,0 +1,9 @@
+EStretch = {}
+EStretch.None = nil
+EStretch.Fill = nil
+EStretch.ScaleToFit = nil
+EStretch.ScaleToFitX = nil
+EStretch.ScaleToFitY = nil
+EStretch.ScaleToFill = nil
+EStretch.ScaleBySafeZone = nil
+EStretch.UserSpecified = nil

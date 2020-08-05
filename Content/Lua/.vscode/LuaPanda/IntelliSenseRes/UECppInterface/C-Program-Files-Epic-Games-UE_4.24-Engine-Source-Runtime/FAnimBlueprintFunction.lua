@@ -1,0 +1,10 @@
+FAnimBlueprintFunction = {}
+FAnimBlueprintFunction.Name = nil
+FAnimBlueprintFunction.Group = nil
+FAnimBlueprintFunction.OutputPoseNodeIndex = nil
+FAnimBlueprintFunction.InputPoseNames = nil
+FAnimBlueprintFunction.InputPoseNodeIndices = nil
+FAnimBlueprintFunction.OutputPoseNodeProperty = nil
+FAnimBlueprintFunction.InputPoseNodeProperties = nil
+FAnimBlueprintFunction.InputProperties = nil
+FAnimBlueprintFunction.bImplemented = nil

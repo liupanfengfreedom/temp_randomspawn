@@ -1,0 +1,2 @@
+FPortalUserLoginPromptUserForSignInResponse = {}
+FPortalUserLoginPromptUserForSignInResponse.Result = nil

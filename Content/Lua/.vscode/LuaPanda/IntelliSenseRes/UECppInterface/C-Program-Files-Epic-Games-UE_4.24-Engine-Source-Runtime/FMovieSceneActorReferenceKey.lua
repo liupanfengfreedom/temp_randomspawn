@@ -1,0 +1,2 @@
+FMovieSceneActorReferenceKey = {}
+FMovieSceneActorReferenceKey.Object = nil

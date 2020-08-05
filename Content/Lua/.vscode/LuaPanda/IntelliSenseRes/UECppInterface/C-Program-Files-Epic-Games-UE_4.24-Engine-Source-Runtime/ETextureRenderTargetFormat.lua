@@ -1,0 +1,12 @@
+ETextureRenderTargetFormat = {}
+ETextureRenderTargetFormat.RTF_R8 = nil
+ETextureRenderTargetFormat.RTF_RG8 = nil
+ETextureRenderTargetFormat.RTF_RGBA8 = nil
+ETextureRenderTargetFormat.RTF_RGBA8_SRGB = nil
+ETextureRenderTargetFormat.RTF_R16f = nil
+ETextureRenderTargetFormat.RTF_RG16f = nil
+ETextureRenderTargetFormat.RTF_RGBA16f = nil
+ETextureRenderTargetFormat.RTF_R32f = nil
+ETextureRenderTargetFormat.RTF_RG32f = nil
+ETextureRenderTargetFormat.RTF_RGBA32f = nil
+ETextureRenderTargetFormat.RTF_RGB10A2 = nil

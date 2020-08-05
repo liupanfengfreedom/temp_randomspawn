@@ -1,0 +1,15 @@
+FMinimalViewInfo = {}
+FMinimalViewInfo.Location = nil
+FMinimalViewInfo.Rotation = nil
+FMinimalViewInfo.FOV = nil
+FMinimalViewInfo.DesiredFOV = nil
+FMinimalViewInfo.OrthoWidth = nil
+FMinimalViewInfo.OrthoNearClipPlane = nil
+FMinimalViewInfo.OrthoFarClipPlane = nil
+FMinimalViewInfo.AspectRatio = nil
+FMinimalViewInfo.bConstrainAspectRatio = nil
+FMinimalViewInfo.bUseFieldOfViewForLOD = nil
+FMinimalViewInfo.ProjectionMode = nil
+FMinimalViewInfo.PostProcessBlendWeight = nil
+FMinimalViewInfo.PostProcessSettings = nil
+FMinimalViewInfo.OffCenterProjectionOffset = nil

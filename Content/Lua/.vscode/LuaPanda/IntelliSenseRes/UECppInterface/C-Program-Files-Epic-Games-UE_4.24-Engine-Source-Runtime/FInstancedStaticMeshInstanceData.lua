@@ -1,0 +1,2 @@
+FInstancedStaticMeshInstanceData = {}
+FInstancedStaticMeshInstanceData.Transform = nil

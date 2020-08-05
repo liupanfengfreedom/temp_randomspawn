@@ -1,0 +1,12 @@
+UMaterialExpressionTextureSample = {} ---@type UMaterialExpressionTextureBase
+UMaterialExpressionTextureSample.Coordinates = nil
+UMaterialExpressionTextureSample.TextureObject = nil
+UMaterialExpressionTextureSample.MipValue = nil
+UMaterialExpressionTextureSample.CoordinatesDX = nil
+UMaterialExpressionTextureSample.CoordinatesDY = nil
+UMaterialExpressionTextureSample.AutomaticViewMipBiasValue = nil
+UMaterialExpressionTextureSample.MipValueMode = nil
+UMaterialExpressionTextureSample.SamplerSource = nil
+UMaterialExpressionTextureSample.AutomaticViewMipBias = nil
+UMaterialExpressionTextureSample.ConstCoordinate = nil
+UMaterialExpressionTextureSample.ConstMipValue = nil

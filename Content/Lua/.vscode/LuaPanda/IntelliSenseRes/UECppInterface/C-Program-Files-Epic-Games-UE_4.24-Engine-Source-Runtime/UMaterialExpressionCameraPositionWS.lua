@@ -1,0 +1,1 @@
+UMaterialExpressionCameraPositionWS = {} ---@type UMaterialExpression

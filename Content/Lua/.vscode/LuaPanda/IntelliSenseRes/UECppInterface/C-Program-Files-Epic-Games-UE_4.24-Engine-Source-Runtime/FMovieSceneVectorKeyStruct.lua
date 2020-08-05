@@ -1,0 +1,2 @@
+FMovieSceneVectorKeyStruct = {}
+FMovieSceneVectorKeyStruct.Vector = nil

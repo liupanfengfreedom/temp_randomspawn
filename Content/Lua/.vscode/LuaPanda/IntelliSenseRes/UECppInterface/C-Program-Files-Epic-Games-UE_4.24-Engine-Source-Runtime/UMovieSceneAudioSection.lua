@@ -1,0 +1,19 @@
+UMovieSceneAudioSection = {} ---@type UMovieSceneSection
+UMovieSceneAudioSection.Sound = nil
+UMovieSceneAudioSection.StartFrameOffset = nil
+UMovieSceneAudioSection.StartOffset_DEPRECATED = nil
+UMovieSceneAudioSection.AudioStartTime_DEPRECATED = nil
+UMovieSceneAudioSection.AudioDilationFactor_DEPRECATED = nil
+UMovieSceneAudioSection.AudioVolume_DEPRECATED = nil
+UMovieSceneAudioSection.SoundVolume = nil
+UMovieSceneAudioSection.PitchMultiplier = nil
+UMovieSceneAudioSection.bSuppressSubtitles = nil
+UMovieSceneAudioSection.bOverrideAttenuation = nil
+UMovieSceneAudioSection.AttenuationSettings = nil
+UMovieSceneAudioSection.OnQueueSubtitles = nil
+UMovieSceneAudioSection.OnAudioFinished = nil
+UMovieSceneAudioSection.OnAudioPlaybackPercent = nil
+function UMovieSceneAudioSection.SetSound(InSound) end
+function UMovieSceneAudioSection.GetSound() end
+function UMovieSceneAudioSection.SetStartOffset(InStartOffset) end
+function UMovieSceneAudioSection.GetStartOffset() end

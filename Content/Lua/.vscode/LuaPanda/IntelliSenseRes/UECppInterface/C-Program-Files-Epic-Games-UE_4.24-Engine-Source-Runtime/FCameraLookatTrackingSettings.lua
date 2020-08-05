@@ -1,0 +1,7 @@
+FCameraLookatTrackingSettings = {}
+FCameraLookatTrackingSettings.bEnableLookAtTracking = nil
+FCameraLookatTrackingSettings.bDrawDebugLookAtTrackingPosition = nil
+FCameraLookatTrackingSettings.LookAtTrackingInterpSpeed = nil
+FCameraLookatTrackingSettings.ActorToTrack = nil
+FCameraLookatTrackingSettings.RelativeOffset = nil
+FCameraLookatTrackingSettings.bAllowRoll = nil

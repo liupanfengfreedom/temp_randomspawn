@@ -1,0 +1,1 @@
+UAudioAnalyzerNRTSettings = {} ---@type UAudioAnalyzerAsset

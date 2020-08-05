@@ -1,0 +1,1 @@
+UMaterialExpressionTextureObjectParameter = {} ---@type UMaterialExpressionTextureSampleParameter

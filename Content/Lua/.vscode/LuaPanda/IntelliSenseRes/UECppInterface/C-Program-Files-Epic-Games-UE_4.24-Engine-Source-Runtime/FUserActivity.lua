@@ -1,0 +1,2 @@
+FUserActivity = {}
+FUserActivity.ActionName = nil

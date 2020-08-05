@@ -1,0 +1,17 @@
+FLightmassDebugOptions = {}
+FLightmassDebugOptions.bDebugMode = nil
+FLightmassDebugOptions.bStatsEnabled = nil
+FLightmassDebugOptions.bGatherBSPSurfacesAcrossComponents = nil
+FLightmassDebugOptions.CoplanarTolerance = nil
+FLightmassDebugOptions.bUseImmediateImport = nil
+FLightmassDebugOptions.bImmediateProcessMappings = nil
+FLightmassDebugOptions.bSortMappings = nil
+FLightmassDebugOptions.bDumpBinaryFiles = nil
+FLightmassDebugOptions.bDebugMaterials = nil
+FLightmassDebugOptions.bPadMappings = nil
+FLightmassDebugOptions.bDebugPaddings = nil
+FLightmassDebugOptions.bOnlyCalcDebugTexelMappings = nil
+FLightmassDebugOptions.bUseRandomColors = nil
+FLightmassDebugOptions.bColorBordersGreen = nil
+FLightmassDebugOptions.bColorByExecutionTime = nil
+FLightmassDebugOptions.ExecutionTimeDivisor = nil

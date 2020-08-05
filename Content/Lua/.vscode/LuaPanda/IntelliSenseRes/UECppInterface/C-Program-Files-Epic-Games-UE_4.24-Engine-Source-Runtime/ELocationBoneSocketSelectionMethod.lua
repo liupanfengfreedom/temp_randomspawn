@@ -1,0 +1,4 @@
+ELocationBoneSocketSelectionMethod = {}
+ELocationBoneSocketSelectionMethod.BONESOCKETSEL_Sequential = nil
+ELocationBoneSocketSelectionMethod.BONESOCKETSEL_Random = nil
+ELocationBoneSocketSelectionMethod.BONESOCKETSEL_MAX = nil

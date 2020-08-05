@@ -1,0 +1,2 @@
+FCustomizedToolMenuNameArray = {}
+FCustomizedToolMenuNameArray.Names = nil

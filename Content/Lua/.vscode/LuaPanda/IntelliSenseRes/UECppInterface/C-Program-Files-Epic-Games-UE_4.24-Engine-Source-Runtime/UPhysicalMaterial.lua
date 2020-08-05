@@ -1,0 +1,14 @@
+UPhysicalMaterial = {} ---@type UObject
+UPhysicalMaterial.Friction = nil
+UPhysicalMaterial.FrictionCombineMode = nil
+UPhysicalMaterial.bOverrideFrictionCombineMode = nil
+UPhysicalMaterial.Restitution = nil
+UPhysicalMaterial.RestitutionCombineMode = nil
+UPhysicalMaterial.bOverrideRestitutionCombineMode = nil
+UPhysicalMaterial.Density = nil
+UPhysicalMaterial.RaiseMassToPower = nil
+UPhysicalMaterial.DestructibleDamageThresholdScale = nil
+UPhysicalMaterial.PhysicalMaterialProperty = nil
+UPhysicalMaterial.SurfaceType = nil
+UPhysicalMaterial.TireFrictionScale = nil
+UPhysicalMaterial.TireFrictionScales = nil

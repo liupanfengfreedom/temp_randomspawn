@@ -1,0 +1,2 @@
+FRigVMInstructionArray = {}
+FRigVMInstructionArray.Instructions = nil

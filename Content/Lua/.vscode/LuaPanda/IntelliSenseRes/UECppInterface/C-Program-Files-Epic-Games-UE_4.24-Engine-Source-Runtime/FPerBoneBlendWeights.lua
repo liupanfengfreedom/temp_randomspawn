@@ -1,0 +1,2 @@
+FPerBoneBlendWeights = {}
+FPerBoneBlendWeights.BoneBlendWeights = nil

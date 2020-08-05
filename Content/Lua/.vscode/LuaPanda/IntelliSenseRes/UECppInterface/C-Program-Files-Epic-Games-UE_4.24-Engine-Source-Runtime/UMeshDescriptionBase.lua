@@ -1,0 +1,86 @@
+UMeshDescriptionBase = {} ---@type UObject
+function UMeshDescriptionBase.Empty() end
+function UMeshDescriptionBase.IsEmpty() end
+function UMeshDescriptionBase.ReserveNewVertices(NumberOfNewVertices) end
+function UMeshDescriptionBase.CreateVertex() end
+function UMeshDescriptionBase.CreateVertexWithID(VertexID) end
+function UMeshDescriptionBase.DeleteVertex(VertexID) end
+function UMeshDescriptionBase.IsVertexValid(VertexID) end
+function UMeshDescriptionBase.ReserveNewVertexInstances(NumberOfNewVertexInstances) end
+function UMeshDescriptionBase.CreateVertexInstance(VertexID) end
+function UMeshDescriptionBase.CreateVertexInstanceWithID(VertexInstanceID, VertexID) end
+function UMeshDescriptionBase.DeleteVertexInstance(VertexInstanceID, OrphanedVertices) end
+function UMeshDescriptionBase.IsVertexInstanceValid(VertexInstanceID) end
+function UMeshDescriptionBase.ReserveNewEdges(NumberOfNewEdges) end
+function UMeshDescriptionBase.CreateEdge(VertexID0, VertexID1) end
+function UMeshDescriptionBase.CreateEdgeWithID(EdgeID, VertexID0, VertexID1) end
+function UMeshDescriptionBase.DeleteEdge(EdgeID, OrphanedVertices) end
+function UMeshDescriptionBase.IsEdgeValid(EdgeID) end
+function UMeshDescriptionBase.ReserveNewTriangles(NumberOfNewTriangles) end
+function UMeshDescriptionBase.CreateTriangle(PolygonGroupID, VertexInstanceIDs, NewEdgeIDs) end
+function UMeshDescriptionBase.CreateTriangleWithID(TriangleID, PolygonGroupID, VertexInstanceIDs, NewEdgeIDs) end
+function UMeshDescriptionBase.DeleteTriangle(TriangleID, OrphanedEdges, OrphanedVertexInstances, OrphanedPolygonGroupsPtr) end
+function UMeshDescriptionBase.IsTriangleValid(TriangleID) end
+function UMeshDescriptionBase.ReserveNewPolygons(NumberOfNewPolygons) end
+function UMeshDescriptionBase.CreatePolygon(PolygonGroupID, VertexInstanceIDs, NewEdgeIDs) end
+function UMeshDescriptionBase.CreatePolygonWithID(PolygonID, PolygonGroupID, VertexInstanceIDs, NewEdgeIDs) end
+function UMeshDescriptionBase.DeletePolygon(PolygonID, OrphanedEdges, OrphanedVertexInstances, OrphanedPolygonGroups) end
+function UMeshDescriptionBase.IsPolygonValid(PolygonID) end
+function UMeshDescriptionBase.ReserveNewPolygonGroups(NumberOfNewPolygonGroups) end
+function UMeshDescriptionBase.CreatePolygonGroup() end
+function UMeshDescriptionBase.CreatePolygonGroupWithID(PolygonGroupID) end
+function UMeshDescriptionBase.DeletePolygonGroup(PolygonGroupID) end
+function UMeshDescriptionBase.IsPolygonGroupValid(PolygonGroupID) end
+function UMeshDescriptionBase.IsVertexOrphaned(VertexID) end
+function UMeshDescriptionBase.GetVertexPairEdge(VertexID0, VertexID1) end
+function UMeshDescriptionBase.GetVertexConnectedEdges(VertexID, OutEdgeIDs) end
+function UMeshDescriptionBase.GetNumVertexConnectedEdges(VertexID) end
+function UMeshDescriptionBase.GetVertexVertexInstances(VertexID, OutVertexInstanceIDs) end
+function UMeshDescriptionBase.GetNumVertexVertexInstances(VertexID) end
+function UMeshDescriptionBase.GetVertexConnectedTriangles(VertexID, OutConnectedTriangleIDs) end
+function UMeshDescriptionBase.GetNumVertexConnectedTriangles(VertexID) end
+function UMeshDescriptionBase.GetVertexConnectedPolygons(VertexID, OutConnectedPolygonIDs) end
+function UMeshDescriptionBase.GetNumVertexConnectedPolygons(VertexID) end
+function UMeshDescriptionBase.GetVertexAdjacentVertices(VertexID, OutAdjacentVertexIDs) end
+function UMeshDescriptionBase.GetVertexPosition(VertexID) end
+function UMeshDescriptionBase.SetVertexPosition(VertexID, Position) end
+function UMeshDescriptionBase.GetVertexInstanceVertex(VertexInstanceID) end
+function UMeshDescriptionBase.GetVertexInstancePairEdge(VertexInstanceID0, VertexInstanceID1) end
+function UMeshDescriptionBase.GetVertexInstanceConnectedTriangles(VertexInstanceID, OutConnectedTriangleIDs) end
+function UMeshDescriptionBase.GetNumVertexInstanceConnectedTriangles(VertexInstanceID) end
+function UMeshDescriptionBase.GetVertexInstanceConnectedPolygons(VertexInstanceID, OutConnectedPolygonIDs) end
+function UMeshDescriptionBase.GetNumVertexInstanceConnectedPolygons(VertexInstanceID) end
+function UMeshDescriptionBase.IsEdgeInternal(EdgeID) end
+function UMeshDescriptionBase.IsEdgeInternalToPolygon(EdgeID, PolygonID) end
+function UMeshDescriptionBase.GetEdgeConnectedTriangles(EdgeID, OutConnectedTriangleIDs) end
+function UMeshDescriptionBase.GetNumEdgeConnectedTriangles(EdgeID) end
+function UMeshDescriptionBase.GetEdgeConnectedPolygons(EdgeID, OutConnectedPolygonIDs) end
+function UMeshDescriptionBase.GetNumEdgeConnectedPolygons(EdgeID) end
+function UMeshDescriptionBase.GetEdgeVertex(EdgeID, VertexNumber) end
+function UMeshDescriptionBase.GetEdgeVertices(EdgeID, OutVertexIDs) end
+function UMeshDescriptionBase.GetTrianglePolygon(TriangleID) end
+function UMeshDescriptionBase.GetTrianglePolygonGroup(TriangleID) end
+function UMeshDescriptionBase.IsTrianglePartOfNgon(TriangleID) end
+function UMeshDescriptionBase.GetTriangleVertexInstances(TriangleID, OutVertexInstanceIDs) end
+function UMeshDescriptionBase.GetTriangleVertexInstance(TriangleID, Index) end
+function UMeshDescriptionBase.GetTriangleVertices(TriangleID, OutVertexIDs) end
+function UMeshDescriptionBase.GetTriangleEdges(TriangleID, OutEdgeIDs) end
+function UMeshDescriptionBase.GetTriangleAdjacentTriangles(TriangleID, OutTriangleIDs) end
+function UMeshDescriptionBase.GetVertexInstanceForTriangleVertex(TriangleID, VertexID) end
+function UMeshDescriptionBase.GetPolygonTriangles(PolygonID, OutTriangleIDs) end
+function UMeshDescriptionBase.GetNumPolygonTriangles(PolygonID) end
+function UMeshDescriptionBase.GetPolygonVertexInstances(PolygonID, OutVertexInstanceIDs) end
+function UMeshDescriptionBase.GetNumPolygonVertices(PolygonID) end
+function UMeshDescriptionBase.GetPolygonVertices(PolygonID, OutVertexIDs) end
+function UMeshDescriptionBase.GetPolygonPerimeterEdges(PolygonID, OutEdgeIDs) end
+function UMeshDescriptionBase.GetPolygonInternalEdges(PolygonID, OutEdgeIDs) end
+function UMeshDescriptionBase.GetNumPolygonInternalEdges(PolygonID) end
+function UMeshDescriptionBase.GetPolygonAdjacentPolygons(PolygonID, OutPolygonIDs) end
+function UMeshDescriptionBase.GetPolygonPolygonGroup(PolygonID) end
+function UMeshDescriptionBase.GetVertexInstanceForPolygonVertex(PolygonID, VertexID) end
+function UMeshDescriptionBase.SetPolygonVertexInstance(PolygonID, PerimeterIndex, VertexInstanceID) end
+function UMeshDescriptionBase.SetPolygonPolygonGroup(PolygonID, PolygonGroupID) end
+function UMeshDescriptionBase.ReversePolygonFacing(PolygonID) end
+function UMeshDescriptionBase.ComputePolygonTriangulation(PolygonID) end
+function UMeshDescriptionBase.GetPolygonGroupPolygons(PolygonGroupID, OutPolygonIDs) end
+function UMeshDescriptionBase.GetNumPolygonGroupPolygons(PolygonGroupID) end

@@ -1,0 +1,1 @@
+UParticleModuleEventBase = {} ---@type UParticleModule

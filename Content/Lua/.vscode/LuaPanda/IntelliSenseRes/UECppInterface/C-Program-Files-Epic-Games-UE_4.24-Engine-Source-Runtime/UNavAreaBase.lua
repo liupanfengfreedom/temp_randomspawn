@@ -1,0 +1,1 @@
+UNavAreaBase = {} ---@type UObject

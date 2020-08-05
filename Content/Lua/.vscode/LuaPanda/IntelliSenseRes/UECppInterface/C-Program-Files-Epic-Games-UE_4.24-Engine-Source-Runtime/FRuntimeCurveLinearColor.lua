@@ -1,0 +1,2 @@
+FRuntimeCurveLinearColor = {}
+FRuntimeCurveLinearColor.ExternalCurve = nil

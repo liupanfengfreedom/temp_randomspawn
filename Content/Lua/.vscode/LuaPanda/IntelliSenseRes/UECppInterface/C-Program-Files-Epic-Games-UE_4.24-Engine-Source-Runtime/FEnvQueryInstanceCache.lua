@@ -1,0 +1,2 @@
+FEnvQueryInstanceCache = {}
+FEnvQueryInstanceCache.Template = nil

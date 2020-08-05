@@ -1,0 +1,1 @@
+UDPICustomScalingRule = {} ---@type UObject

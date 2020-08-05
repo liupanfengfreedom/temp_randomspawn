@@ -1,0 +1,2 @@
+FStaticMaterialLayersParameter = {}
+FStaticMaterialLayersParameter.Value = nil

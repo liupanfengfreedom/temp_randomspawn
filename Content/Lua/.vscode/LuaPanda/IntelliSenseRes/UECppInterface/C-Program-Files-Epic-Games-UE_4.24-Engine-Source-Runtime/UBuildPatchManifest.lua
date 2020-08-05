@@ -1,0 +1,15 @@
+UBuildPatchManifest = {} ---@type UObject
+UBuildPatchManifest.ManifestFileVersion = nil
+UBuildPatchManifest.bIsFileData = nil
+UBuildPatchManifest.AppID = nil
+UBuildPatchManifest.AppName = nil
+UBuildPatchManifest.BuildVersion = nil
+UBuildPatchManifest.LaunchExe = nil
+UBuildPatchManifest.LaunchCommand = nil
+UBuildPatchManifest.PrereqIds = nil
+UBuildPatchManifest.PrereqName = nil
+UBuildPatchManifest.PrereqPath = nil
+UBuildPatchManifest.PrereqArgs = nil
+UBuildPatchManifest.FileManifestList = nil
+UBuildPatchManifest.ChunkList = nil
+UBuildPatchManifest.CustomFields = nil

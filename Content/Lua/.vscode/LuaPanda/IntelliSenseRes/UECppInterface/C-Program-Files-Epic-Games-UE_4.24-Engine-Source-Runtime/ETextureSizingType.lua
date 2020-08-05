@@ -1,0 +1,6 @@
+ETextureSizingType = {}
+ETextureSizingType.TextureSizingType_UseSingleTextureSize = nil
+ETextureSizingType.TextureSizingType_UseAutomaticBiasedSizes = nil
+ETextureSizingType.TextureSizingType_UseManualOverrideTextureSize = nil
+ETextureSizingType.TextureSizingType_UseSimplygonAutomaticSizing = nil
+ETextureSizingType.TextureSizingType_MAX = nil

@@ -1,0 +1,2 @@
+UParticleModuleLocationPrimitiveCylinder_Seeded = {} ---@type UParticleModuleLocationPrimitiveCylinder
+UParticleModuleLocationPrimitiveCylinder_Seeded.RandomSeedInfo = nil

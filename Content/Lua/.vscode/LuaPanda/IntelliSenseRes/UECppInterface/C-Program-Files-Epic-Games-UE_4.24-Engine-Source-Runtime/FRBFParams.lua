@@ -1,0 +1,11 @@
+FRBFParams = {}
+FRBFParams.TargetDimensions = nil
+FRBFParams.Radius = nil
+FRBFParams.Function = nil
+FRBFParams.DistanceMethod = nil
+FRBFParams.TwistAxis = nil
+FRBFParams.WeightThreshold = nil
+FRBFParams.NormalizeMethod = nil
+FRBFParams.MedianReference = nil
+FRBFParams.MedianMin = nil
+FRBFParams.MedianMax = nil

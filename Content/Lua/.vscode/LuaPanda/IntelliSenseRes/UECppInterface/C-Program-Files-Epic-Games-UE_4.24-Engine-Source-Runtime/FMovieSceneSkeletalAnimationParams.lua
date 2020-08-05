@@ -1,0 +1,13 @@
+FMovieSceneSkeletalAnimationParams = {}
+FMovieSceneSkeletalAnimationParams.Animation = nil
+FMovieSceneSkeletalAnimationParams.FirstLoopStartFrameOffset = nil
+FMovieSceneSkeletalAnimationParams.StartFrameOffset = nil
+FMovieSceneSkeletalAnimationParams.EndFrameOffset = nil
+FMovieSceneSkeletalAnimationParams.PlayRate = nil
+FMovieSceneSkeletalAnimationParams.bReverse = nil
+FMovieSceneSkeletalAnimationParams.SlotName = nil
+FMovieSceneSkeletalAnimationParams.Weight = nil
+FMovieSceneSkeletalAnimationParams.bSkipAnimNotifiers = nil
+FMovieSceneSkeletalAnimationParams.bForceCustomMode = nil
+FMovieSceneSkeletalAnimationParams.StartOffset_DEPRECATED = nil
+FMovieSceneSkeletalAnimationParams.EndOffset_DEPRECATED = nil

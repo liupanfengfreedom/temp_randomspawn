@@ -1,0 +1,2 @@
+FNameCurve = {}
+FNameCurve.Keys = nil

@@ -1,0 +1,11 @@
+FGeometryCollectionSizeSpecificData = {}
+FGeometryCollectionSizeSpecificData.MaxSize = nil
+FGeometryCollectionSizeSpecificData.CollisionType = nil
+FGeometryCollectionSizeSpecificData.ImplicitType = nil
+FGeometryCollectionSizeSpecificData.MinLevelSetResolution = nil
+FGeometryCollectionSizeSpecificData.MaxLevelSetResolution = nil
+FGeometryCollectionSizeSpecificData.MinClusterLevelSetResolution = nil
+FGeometryCollectionSizeSpecificData.MaxClusterLevelSetResolution = nil
+FGeometryCollectionSizeSpecificData.CollisionObjectReductionPercentage = nil
+FGeometryCollectionSizeSpecificData.CollisionParticlesFraction = nil
+FGeometryCollectionSizeSpecificData.MaximumCollisionParticles = nil

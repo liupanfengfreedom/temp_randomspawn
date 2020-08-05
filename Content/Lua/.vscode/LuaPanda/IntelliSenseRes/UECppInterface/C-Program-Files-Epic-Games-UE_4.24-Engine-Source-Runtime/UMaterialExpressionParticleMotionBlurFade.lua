@@ -1,0 +1,1 @@
+UMaterialExpressionParticleMotionBlurFade = {} ---@type UMaterialExpression

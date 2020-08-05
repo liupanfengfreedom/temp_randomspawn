@@ -1,0 +1,1 @@
+UHandlerComponentFactory = {} ---@type UObject

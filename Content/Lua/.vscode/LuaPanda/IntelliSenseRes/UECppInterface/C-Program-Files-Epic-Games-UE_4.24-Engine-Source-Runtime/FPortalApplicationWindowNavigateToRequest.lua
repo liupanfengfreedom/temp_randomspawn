@@ -1,0 +1,2 @@
+FPortalApplicationWindowNavigateToRequest = {}
+FPortalApplicationWindowNavigateToRequest.Url = nil

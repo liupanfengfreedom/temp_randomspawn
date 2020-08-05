@@ -1,0 +1,10 @@
+EMultiBlockType = {}
+EMultiBlockType.ButtonRow = nil
+EMultiBlockType.EditableText = nil
+EMultiBlockType.Heading = nil
+EMultiBlockType.MenuEntry = nil
+EMultiBlockType.MenuSeparator = nil
+EMultiBlockType.ToolBarButton = nil
+EMultiBlockType.ToolBarComboButton = nil
+EMultiBlockType.ToolBarSeparator = nil
+EMultiBlockType.Widget = nil

@@ -1,0 +1,10 @@
+FMovieSceneEditorData = {}
+FMovieSceneEditorData.ExpansionStates = nil
+FMovieSceneEditorData.PinnedNodes = nil
+FMovieSceneEditorData.ViewStart = nil
+FMovieSceneEditorData.ViewEnd = nil
+FMovieSceneEditorData.WorkStart = nil
+FMovieSceneEditorData.WorkEnd = nil
+FMovieSceneEditorData.MarkedFrames_DEPRECATED = nil
+FMovieSceneEditorData.WorkingRange_DEPRECATED = nil
+FMovieSceneEditorData.ViewRange_DEPRECATED = nil
