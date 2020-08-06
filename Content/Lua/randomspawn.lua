@@ -2,7 +2,35 @@ require 'datainfor'
 require 'keymap'
 ui=slua.loadUI('/Game/mainui.mainui',gworld);--WidgetBlueprint'/Game/mainui.mainui'
 ui:AddToViewport(0)
+local function randomspawn(center,boundsize,b_isxzplane)
+	local lastgeneratpoint =nil
+	if(b_isxzplane)
+	then
 
+	else
+		for index =1 ,10
+		do
+		    
+			local spawnpoint = FVector(math.random(math.floor(center.X-boundsize.X),math.floor(center.X+boundsize.X)),math.random(math.floor(center.Y-boundsize.Y),math.floor(center.Y+boundsize.Y)),center.Z)
+			print("spawnpoint...................")
+			if(lastgeneratpoint and  Slua_BlueprintFunctionLibrary.FVectordistance(spawnpoint,lastgeneratpoint)<=10000)
+			then
+				print("goto...................")
+				goto continue
+			end
+			lastgeneratpoint = spawnpoint
+
+			local exhibitionclass = slua.loadClass("Blueprint'/Game/beacon.beacon'")
+			local Rotator = FRotator(0,0,0)
+			local beacon = gworld:SpawnActor(exhibitionclass,spawnpoint,Rotator,nil)
+			print("gworld:SpawnActor...................")
+
+			::continue::
+		end
+
+	end
+
+end
 Onimagedetected1 = slua.createDelegate(
 	 function(str)
 		local tb = json.decode(str)
@@ -28,11 +56,7 @@ Onimagedetected1 = slua.createDelegate(
 		local b_isxzplane = tb["b_isxzplane"]
 		print(b_isxzplane)
 		print("------------------------------------------------------------------b_isxzplane")
-		---Blueprint'/Game/beacon.beacon'
-		local exhibitionclass = slua.loadClass("Blueprint'/Game/beacon.beacon'")
-		local Rotator = FRotator(0,0,0)
-		beacon = gworld:SpawnActor(exhibitionclass,position,Rotator,nil)
-		-- print(str)
+		randomspawn(position,boundsize,b_isxzplane)
 	 end
 )
 MessageMiddlewareLibrary.addmessagelistener(ui,KeyMap.key_onrandomspawn,Onimagedetected1)

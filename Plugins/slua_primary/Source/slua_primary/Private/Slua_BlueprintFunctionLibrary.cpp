@@ -35,3 +35,7 @@ bool USlua_BlueprintFunctionLibrary::isfileexist_undercontentfolder(FString file
 	}
 
 }
+float USlua_BlueprintFunctionLibrary::FVectordistance(FVector& v1, FVector& v2)
+{
+	return FVector::Dist(v1,v2);
+}

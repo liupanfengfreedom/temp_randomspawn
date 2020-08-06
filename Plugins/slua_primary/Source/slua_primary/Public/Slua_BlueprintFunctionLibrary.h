@@ -20,4 +20,6 @@ public:
         static void ImagesetTexture(class UImage* imagep, class UTexture* inp);
     UFUNCTION(BlueprintCallable, Category = "Lua library")
         static void ImagesetTexturefromrawimageundercontent(class UImage* imagep, FString path);
+    UFUNCTION(BlueprintCallable, Category = "Lua library")
+        static float FVectordistance(FVector&v1,FVector&v2);
 };
