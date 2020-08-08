@@ -45,5 +45,5 @@ public:
 	UFUNCTION()
 		void dosthdelay(float delay, FOnTimeupdelegate ontimeupdelegate,const FString & para);
 	UFUNCTION(BlueprintCallable)
-		void testfunc();
+		void logtoscreen(const FString& message);
 };

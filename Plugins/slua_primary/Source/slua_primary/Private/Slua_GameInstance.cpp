@@ -156,7 +156,7 @@ void USlua_GameInstance::dosthdelay(float delay, FOnTimeupdelegate ontimeupdeleg
 				);
 		}, nullptr);
 }
-void USlua_GameInstance::testfunc()
+void USlua_GameInstance::logtoscreen(const FString& message)
 {
-	GEngine->AddOnScreenDebugMessage(-1, 1.0f, FColor::Yellow, TEXT("call from lua"));
+	GEngine->AddOnScreenDebugMessage(-1, 1.0f, FColor::Yellow, message);
 }
