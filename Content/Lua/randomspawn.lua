@@ -2,25 +2,49 @@ require 'datainfor'
 require 'keymap'
 ui=slua.loadUI('/Game/mainui.mainui',gworld);--WidgetBlueprint'/Game/mainui.mainui'
 ui:AddToViewport(0)
+local testnumber = 100/3
+print(math.floor(testnumber))
+local function selectenemyfromlibrary()
+	local NormalizingFactor = 0
+	for _,v in pairs(enemyactors)
+	do
+		NormalizingFactor = NormalizingFactor+v.probability
+	end
+	local TestNumber = math.random(0,NormalizingFactor)
+	local CompareTo=0
+	for _,v in  pairs(enemyactors)
+	do
+		CompareTo = CompareTo+v.probability
+		if(TestNumber<=CompareTo)
+		then
+			return _
+		end
+	end
+	return 0
+end
 local function randomspawn(center,boundsize,b_isxzplane)
 	local lastgeneratpoint =nil
 	if(b_isxzplane)
 	then
 
 	else
-		for index =1 ,10
-		do
-		    
+		for index =1 ,30
+		do 
+			local selectedenemy_index =  selectenemyfromlibrary()
+			local selectedenemy = enemyactors[selectedenemy_index]
+			local cellsize = math.max(boundsize.X,boundsize.Y)
+
 			local spawnpoint = FVector(math.random(math.floor(center.X-boundsize.X),math.floor(center.X+boundsize.X)),math.random(math.floor(center.Y-boundsize.Y),math.floor(center.Y+boundsize.Y)),center.Z)
 			print("spawnpoint...................")
-			if(lastgeneratpoint and  Slua_BlueprintFunctionLibrary.FVectordistance(spawnpoint,lastgeneratpoint)<=10000)
+			if(lastgeneratpoint and  Slua_BlueprintFunctionLibrary.FVectordistance(spawnpoint,lastgeneratpoint)<=math.floor(cellsize/selectedenemy.density))
 			then
 				print("goto...................")
 				goto continue
 			end
 			lastgeneratpoint = spawnpoint
 
-			local exhibitionclass = slua.loadClass("Blueprint'/Game/beacon.beacon'")
+			-- local exhibitionclass = slua.loadClass("Blueprint'/Game/beacon.beacon'")
+			local exhibitionclass = slua.loadClass(selectedenemy.classpath)
 			local Rotator = FRotator(0,0,0)
 			local beacon = gworld:SpawnActor(exhibitionclass,spawnpoint,Rotator,nil)
 			print("gworld:SpawnActor...................")
