@@ -134,7 +134,7 @@ btn.OnClicked:Add(function()---back
    slua.createDelegate(
 	function(str)
 		print("workdelegatessssssssssssssssssssssssssssssssssstr" ,str)
-		ggameinstance:logtoscreen("")()
+		ggameinstance:logtoscreen("")
 	   end
    )
    ,"9abc")
@@ -143,7 +143,7 @@ btn.OnClicked:Add(function()---back
    slua.createDelegate(
 	function(str)
 		print("workdelegatessssssssssssssssssssssssssssssssssstr" ,str)
-		ggameinstance:logtoscreen("")()
+		ggameinstance:logtoscreen("")
    end
    )
    ,"8")
